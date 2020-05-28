@@ -3,11 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rogawa.github.io/categories/</loc>
+    <loc>https://rogawa.github.io/blog/</loc>
   </url>
   
   <url>
     <loc>https://rogawa.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/series/</loc>
   </url>
   
   <url>
