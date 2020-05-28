@@ -2,7 +2,7 @@
 title: "First Post in Hugo"
 date: 2020-05-28T01:05:19-03:00
 draft: false
-toc: false
+toc: true
 images:
 tags:
   - untagged
