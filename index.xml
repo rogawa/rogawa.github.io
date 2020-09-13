@@ -61,49 +61,57 @@ Esse é o paradoxo. De dentro desse pensamento, ele acredita que é racional e c
     </item>
     
     <item>
-      <title>Curso Flutter &#43; Dart</title>
-      <link>https://rogawa.github.io/hugo-export/curso-flutter-dart/</link>
-      <pubDate>Sun, 20 Oct 2019 13:32:31 +0000</pubDate>
+      <title>Como referenciar mídias sociais</title>
+      <link>https://rogawa.github.io/posts/2018/11/24/como-referenciar-m%C3%ADdias-sociais/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/hugo-export/curso-flutter-dart/</guid>
-      <description>Funções: declarações, parâmetros e retorno
-  </description>
+      <guid>https://rogawa.github.io/posts/2018/11/24/como-referenciar-m%C3%ADdias-sociais/</guid>
+      <description>Não sabe como referenciar uma citação de uma mídia social? A nova versão da norma de referências (NBR 6023:2018) apresenta como deve ser feita. Veja na imagem um exemplo.
+  Fonte: Biblioteca de Ciências Sociais Aplicadas da UFPR</description>
     </item>
     
     <item>
-      <title>Attendance</title>
-      <link>https://rogawa.github.io/hugo-export/sch-attendance/</link>
-      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      <title>Voltar pra casa</title>
+      <link>https://rogawa.github.io/posts/2018/06/27/voltar-pra-casa/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/hugo-export/sch-attendance/</guid>
-      <description></description>
+      <guid>https://rogawa.github.io/posts/2018/06/27/voltar-pra-casa/</guid>
+      <description>Devemos estar mais perto das pessoas que queremos bem por mais tempo. Devemos dizer o quão importante elas são para nós e o quanto as amamos. Sobretudo, devemos estar presentes. A cada longo intervalo de tempo, distante das vidas que dão sentido às nossas, sentimos que estamos perdendo momentos preciosos de convívio. Há, pois, uma crueldade no paralelismo do tempo em relação ao espaço. Devemos voltar pra casa&amp;hellip;</description>
     </item>
     
     <item>
-      <title>Events</title>
-      <link>https://rogawa.github.io/hugo-export/sch-events/</link>
-      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      <title>Insubordinado amor</title>
+      <link>https://rogawa.github.io/posts/2015/04/07/insubordinado-amor/</link>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/hugo-export/sch-events/</guid>
-      <description></description>
+      <guid>https://rogawa.github.io/posts/2015/04/07/insubordinado-amor/</guid>
+      <description>Insubordinado
+Atravessa a escuridão
+Na velocidade da luz
+Rompe o espaço-tempo
+Lei maior do Universo
+O Amor</description>
     </item>
     
     <item>
-      <title>Exams</title>
-      <link>https://rogawa.github.io/hugo-export/sch-exams/</link>
-      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      <title>(Hu)go Template Primer</title>
+      <link>https://rogawa.github.io/posts/2014/04/02/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/hugo-export/sch-exams/</guid>
-      <description></description>
+      <guid>https://rogawa.github.io/posts/2014/04/02/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent Go  html/template  library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.</description>
     </item>
     
     <item>
-      <title>ImportHistory</title>
-      <link>https://rogawa.github.io/hugo-export/sch-importhistory/</link>
-      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      <title>Getting Started with Hugo</title>
+      <link>https://rogawa.github.io/posts/2014/04/02/getting-started-with-hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/hugo-export/sch-importhistory/</guid>
-      <description></description>
+      <guid>https://rogawa.github.io/posts/2014/04/02/getting-started-with-hugo/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases  and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo  Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description>
     </item>
     
   </channel>
