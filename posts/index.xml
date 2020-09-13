@@ -858,11 +858,21 @@ Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisa
   AQUI
 </a>
  para que um link abra sempre em uma nova aba ou janela. Crie um diretório <code>layouts/_default/_markup/render-link.html</code> e coloque o seguinte conteúdo nele.</p>
-<pre><code>```go {linenos=table,hl_lines=[8,&quot;15-17&quot;],linenostart=199}
-&lt;a href=&quot;{{ .Destination | safeURL }}&quot;{{ with .Title}} title=&quot;{{ . }}&quot;{{ end }}{{ if strings.HasPrefix .Destination &quot;http&quot; }} target=&quot;_blank&quot;{{ end }}&gt;
+<pre><code>&lt;a href=&quot;{{ .Destination | safeURL }}&quot;{{ with .Title}} title=&quot;{{ . }}&quot;{{ end }}{{ if strings.HasPrefix .Destination &quot;http&quot; }} target=&quot;_blank&quot;{{ end }}&gt;
 {{ .Text }}
 &lt;/a&gt;
-```
+
+
+
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    &lt;<span style="color:#f92672">section</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;main&#34;</span>&gt;
+      &lt;<span style="color:#f92672">div</span>&gt;
+       &lt;<span style="color:#f92672">h1</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;title&#34;</span>&gt;{{ .Title }}&lt;/<span style="color:#f92672">h1</span>&gt;
+        {{ range .Pages }}
+            {{ .Render &#34;summary&#34;}}
+        {{ end }}
+      &lt;/<span style="color:#f92672">div</span>&gt;
+    &lt;/<span style="color:#f92672">section</span>&gt;
+    </code></pre></div>
 </code></pre>
 ]]></content>
         </item>
