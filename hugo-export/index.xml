@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo-exports on Rui Ogawa</title>
+    <link>https://rogawa.github.io/hugo-export/</link>
+    <description>Recent content in Hugo-exports on Rui Ogawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 20 Oct 2019 13:32:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogawa.github.io/hugo-export/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso Flutter &#43; Dart</title>
+      <link>https://rogawa.github.io/hugo-export/curso-flutter-dart/</link>
+      <pubDate>Sun, 20 Oct 2019 13:32:31 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/curso-flutter-dart/</guid>
+      <description>Funções: declarações, parâmetros e retorno
+  </description>
+    </item>
+    
+    <item>
+      <title>Attendance</title>
+      <link>https://rogawa.github.io/hugo-export/sch-attendance/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-attendance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://rogawa.github.io/hugo-export/sch-events/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exams</title>
+      <link>https://rogawa.github.io/hugo-export/sch-exams/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-exams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImportHistory</title>
+      <link>https://rogawa.github.io/hugo-export/sch-importhistory/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-importhistory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Messages</title>
+      <link>https://rogawa.github.io/hugo-export/sch-messages/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-messages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notify</title>
+      <link>https://rogawa.github.io/hugo-export/sch-notify/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-notify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Settings</title>
+      <link>https://rogawa.github.io/hugo-export/sch-settings/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-settings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subject</title>
+      <link>https://rogawa.github.io/hugo-export/sch-subject/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-subject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timetable</title>
+      <link>https://rogawa.github.io/hugo-export/sch-timetable/</link>
+      <pubDate>Fri, 03 May 2019 22:47:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/hugo-export/sch-timetable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

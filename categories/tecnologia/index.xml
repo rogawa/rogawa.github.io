@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnologia on Rui Ogawa</title>
+    <link>https://rogawa.github.io/categories/tecnologia/</link>
+    <description>Recent content in Tecnologia on Rui Ogawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 09 May 2018 07:11:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogawa.github.io/categories/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Assistant marcando horário no salão de beleza</title>
+      <link>https://rogawa.github.io/google-assistant-marcando-horario-no-salao-de-beleza/</link>
+      <pubDate>Wed, 09 May 2018 07:11:27 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/google-assistant-marcando-horario-no-salao-de-beleza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financiamento para energia solar</title>
+      <link>https://rogawa.github.io/financiamento-para-energia-solar/</link>
+      <pubDate>Fri, 06 Apr 2018 11:46:56 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/financiamento-para-energia-solar/</guid>
+      <description>Instalar um sistema Grid Tied de energia fotovoltaica é o sonho de muita gente, incluindo o meu. Entretanto a gente sempre esbarra em duas situações: a burocracia técnica e o valor dos equipamentos. Para este último, pelo menos temos uma luz no fim do túnel. O Ministério da Integração Nacional está criando novas linhas de crédito para Pessoa Física, o que é uma ótima notícia, pois antes os financiamentos eram quase todos com foco em PJ.</description>
+    </item>
+    
+    <item>
+      <title>Drones pulverizadores chineses</title>
+      <link>https://rogawa.github.io/drones-pulverizadores-chineses/</link>
+      <pubDate>Fri, 19 Jan 2018 19:59:48 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/drones-pulverizadores-chineses/</guid>
+      <description>Hoje acompanhei demonstração de drones pulverizadores da empresa chinesa Yuren Agricultural Aviation – http://www.yuren-uav.com/O modelo maior tem capacidade para 20 litros ou 20 Kg de granulados ou pó. Utiliza 4 baterias de 5500 mAh que alimentam 8 rotores. A autonomia de 9 minutos permite uma cobertura de 2 ha. Tenho minhas dúvidas se, com um custo de aproximadamente 30 mil reais, valeria a pena investir. Talvez para pequenos produtores. O legal é que eles buscam parceiros em tecnologia da informação, então há oportunidades para nossos alunos do IFMT – Centro de Referência de Canarana.</description>
+    </item>
+    
+    <item>
+      <title>Um jeito diferente de ensinar programação</title>
+      <link>https://rogawa.github.io/um-jeito-diferente-de-ensinar-programacao/</link>
+      <pubDate>Fri, 05 Jan 2018 20:55:07 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/um-jeito-diferente-de-ensinar-programacao/</guid>
+      <description>As pessoas costumam associar o ensino de programação como algo difícil e chato. Se o método e a abordagem fossem diferentes, talvez os alunos possam se sentir mais à vontade e passem a demonstrar mais interesse. A forma desse cara ensinar programação é absolutamente divertida e apaixonante. Todo professor devia ter essa didática, método e atitude!</description>
+    </item>
+    
+    <item>
+      <title>Teste da lâmpada Yeelight da Xiaomi</title>
+      <link>https://rogawa.github.io/teste-da-lampada-yeelight-da-xiaomi/</link>
+      <pubDate>Thu, 24 Aug 2017 04:38:03 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/teste-da-lampada-yeelight-da-xiaomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verificação em duas etapas do Whatsapp</title>
+      <link>https://rogawa.github.io/verificacao-em-duas-etapas-do-whatsapp/</link>
+      <pubDate>Tue, 14 Feb 2017 10:18:56 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/verificacao-em-duas-etapas-do-whatsapp/</guid>
+      <description>Funcionários de operadoras estão envolvidos com fraudes usando o Wahtsapp. Para evitar isto:
+1 – Entre no whattsapp.
+2 – Clique em Configurações, depois Conta e depois em Verificação em duas etapas.
+3 – Defina uma senha de 6 dígitos e um e-mail para o caso de esquecer a senha.
+Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, não vai ter a senha de 6 dígitos para acessar sua conta.</description>
+    </item>
+    
+    <item>
+      <title>Migrei para MacOS</title>
+      <link>https://rogawa.github.io/migrei-para-macos/</link>
+      <pubDate>Fri, 25 Nov 2016 21:11:01 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/migrei-para-macos/</guid>
+      <description>Eu uso Linux desde 1999. Dede 2005 eu uso Debian. Não dou conta de trabalhar com Windows. Já usei e experimentei vários sistemas operacionais e posso dizer que quando pude experimentar o sabor da maçã, gostei.
+Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos amigos Guto Carvalho e Jack Makiyama e comprei um MacBook Pro Mid 2012, com um Intel i5 de 2.5 Ghz, 8 GB de RAM DDR3 e HD de 500 GB, por R$ 2.</description>
+    </item>
+    
+  </channel>
+</rss>

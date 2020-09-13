@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Pensamentos</title>
+      <link>https://rogawa.github.io/categories/pensamentos/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/categories/pensamentos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Política</title>
       <link>https://rogawa.github.io/categories/pol%C3%ADtica/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
@@ -24,27 +33,72 @@
     <item>
       <title>Educação</title>
       <link>https://rogawa.github.io/categories/educa%C3%A7%C3%A3o/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Nov 2018 16:49:04 +0000</pubDate>
       
       <guid>https://rogawa.github.io/categories/educa%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://rogawa.github.io/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Polícia</title>
+      <link>https://rogawa.github.io/categories/pol%C3%ADcia/</link>
+      <pubDate>Thu, 15 Nov 2018 17:03:13 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/categories/development/</guid>
+      <guid>https://rogawa.github.io/categories/pol%C3%ADcia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://rogawa.github.io/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Cotidiano</title>
+      <link>https://rogawa.github.io/categories/cotidiano/</link>
+      <pubDate>Sun, 11 Nov 2018 22:09:28 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/categories/golang/</guid>
+      <guid>https://rogawa.github.io/categories/cotidiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humor</title>
+      <link>https://rogawa.github.io/categories/humor/</link>
+      <pubDate>Sun, 28 Oct 2018 18:10:13 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/categories/humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esportes</title>
+      <link>https://rogawa.github.io/categories/esportes/</link>
+      <pubDate>Sat, 27 Oct 2018 23:55:08 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/categories/esportes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative</title>
+      <link>https://rogawa.github.io/categories/creative/</link>
+      <pubDate>Wed, 03 Oct 2018 10:34:17 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/categories/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights</title>
+      <link>https://rogawa.github.io/categories/insights/</link>
+      <pubDate>Wed, 03 Oct 2018 10:34:17 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/categories/insights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>https://rogawa.github.io/categories/general/</link>
+      <pubDate>Wed, 03 Oct 2018 10:23:00 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/categories/general/</guid>
       <description></description>
     </item>
     

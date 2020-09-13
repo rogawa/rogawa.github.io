@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computação on Rui Ogawa</title>
+    <link>https://rogawa.github.io/tags/computa%C3%A7%C3%A3o/</link>
+    <description>Recent content in Computação on Rui Ogawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 21 Feb 2018 00:57:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogawa.github.io/tags/computa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A evasão nos cursos de computação</title>
+      <link>https://rogawa.github.io/a-evasao-nos-cursos-de-computacao/</link>
+      <pubDate>Wed, 21 Feb 2018 00:57:57 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/a-evasao-nos-cursos-de-computacao/</guid>
+      <description>Errar faz parte do processo de ensino e aprendizagem. Tem gente que culpa o aluno que tem preguiça de aprender, mas não é só isso. O sistema educacional, posto assim há décadas, não evolui absolutamente nada, de modo que o erro continua sendo visto como um atestado de incompetência, desestimulando o aluno e contribuindo para a estatística.Há quem defenda a formação tecnicista, que eu respeito, mas discordo. Sou um educador que vê, antes de qualquer coisa, um ser humano, que erra, que tenta novamente, que pode ser incentivado, que acerta, que progride e constrói, junto com professores e colegas, sua formação.</description>
+    </item>
+    
+  </channel>
+</rss>

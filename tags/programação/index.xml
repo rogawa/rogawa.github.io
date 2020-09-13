@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programação on Rui Ogawa</title>
+    <link>https://rogawa.github.io/tags/programa%C3%A7%C3%A3o/</link>
+    <description>Recent content in Programação on Rui Ogawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 29 Jun 2018 00:32:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogawa.github.io/tags/programa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Metacognição: pensando sobre o pensar</title>
+      <link>https://rogawa.github.io/metacognicao-pensando-sobre-o-pensar/</link>
+      <pubDate>Fri, 29 Jun 2018 00:32:17 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/metacognicao-pensando-sobre-o-pensar/</guid>
+      <description>Isso se chama metacognição.Do livro ‘Use a cabeça – Rails’
+ </description>
+    </item>
+    
+    <item>
+      <title>Um jeito diferente de ensinar programação</title>
+      <link>https://rogawa.github.io/um-jeito-diferente-de-ensinar-programacao/</link>
+      <pubDate>Fri, 05 Jan 2018 20:55:07 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/um-jeito-diferente-de-ensinar-programacao/</guid>
+      <description>As pessoas costumam associar o ensino de programação como algo difícil e chato. Se o método e a abordagem fossem diferentes, talvez os alunos possam se sentir mais à vontade e passem a demonstrar mais interesse. A forma desse cara ensinar programação é absolutamente divertida e apaixonante. Todo professor devia ter essa didática, método e atitude!</description>
+    </item>
+    
+  </channel>
+</rss>

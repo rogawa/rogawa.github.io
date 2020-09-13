@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Segurança on Rui Ogawa</title>
+    <link>https://rogawa.github.io/tags/seguran%C3%A7a/</link>
+    <description>Recent content in Segurança on Rui Ogawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 23:06:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogawa.github.io/tags/seguran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Topologia de rede usando Draw.io</title>
+      <link>https://rogawa.github.io/topologia-de-rede-usando-draw-io/</link>
+      <pubDate>Wed, 12 Sep 2018 23:06:05 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/topologia-de-rede-usando-draw-io/</guid>
+      <description>Trabalhar em sala de forma colaborativa é uma das melhores formas para motivar os alunos. Essa turma do 3º semestre está cursando a disciplina de Segurança da Informação e tiveram como desafio analisar a situação atual, propor uma nova topologia e implementar uma solução de firewall. Usamos o Draw.iopara os desenhos.
+ New photo by Rui Ogawa / Google PhotosNew photo by Rui Ogawa / Google Photos</description>
+    </item>
+    
+    <item>
+      <title>Verificação em duas etapas do Whatsapp</title>
+      <link>https://rogawa.github.io/verificacao-em-duas-etapas-do-whatsapp/</link>
+      <pubDate>Tue, 14 Feb 2017 10:18:56 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/verificacao-em-duas-etapas-do-whatsapp/</guid>
+      <description>Funcionários de operadoras estão envolvidos com fraudes usando o Wahtsapp. Para evitar isto:
+1 – Entre no whattsapp.
+2 – Clique em Configurações, depois Conta e depois em Verificação em duas etapas.
+3 – Defina uma senha de 6 dígitos e um e-mail para o caso de esquecer a senha.
+Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, não vai ter a senha de 6 dígitos para acessar sua conta.</description>
+    </item>
+    
+    <item>
+      <title>20 anos de atraso</title>
+      <link>https://rogawa.github.io/20-anos-de-atraso/</link>
+      <pubDate>Wed, 14 Dec 2016 03:37:47 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/20-anos-de-atraso/</guid>
+      <description>Boa noite. PEC 55 aprovada, 20 anos de investimentos congelados em segurança, saúde e educação.New photo by Rui Ogawa / Google Photos</description>
+    </item>
+    
+  </channel>
+</rss>

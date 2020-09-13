@@ -1,0 +1,2096 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Rui Ogawa">
+<meta name="description" content="Conversão de temperaturas &amp;lt;div class=&amp;quot;su-spoiler-content su-u-clearfix su-u-trim&amp;quot;&amp;gt; &amp;lt;p&amp;gt; Fazer um programa em Pascal que lê um número representando uma temperatura na escala Celsius e imprime a&amp;lt;br /&amp;gt; correspondente temperatura na escala Farenheit. Observação: C = 5*(F-32)/9.&amp;lt;br /&amp;gt; Entrada: 100&amp;lt;br /&amp;gt; Saída: 212.00 graus Farenheit&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&amp;quot; data-scroll-offset=&amp;quot;0&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;su-spoiler-title&amp;quot; tabindex=&amp;quot;0&amp;quot; role=&amp;quot;button&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;su-spoiler-icon&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;Solução em Pascal &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;su-spoiler-content su-u-clearfix su-u-trim&amp;quot;&amp;gt; &amp;lt;!--?prettify linenums=true?--&amp;gt;&amp;lt;/p&amp;gt; &amp;lt;pre class=&amp;quot;lang:delphi decode:true&amp;quot; title=&amp;quot;Conversão de temperaturas - Pascal&amp;quot;&amp;gt;program C2F; var c, f: real; begin read(c); f := (((c * 9) &#43; (5 * 32)) / 5); write(f: 2: 2, &#39; graus Farenheit&amp;rsquo;); end." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="#252627" />
+<link rel="canonical" href="https://rogawa.github.io/hugo-export/exercicios-farma-alg/" />
+
+
+    <title>
+        
+            Exercícios FARMA-ALG :: Rui Ogawa  — Hello Friend NG Theme
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="https://rogawa.github.io/main.dede02da9537a98158079c023e83573e18127834838ef08172acce888341a797.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://rogawa.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://rogawa.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://rogawa.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://rogawa.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://rogawa.github.io/safari-pinned-tab.svg" color="#252627">
+    <link rel="shortcut icon" href="https://rogawa.github.io/favicon.ico">
+    <meta name="msapplication-TileColor" content="#252627">
+    <meta name="theme-color" content="#252627">
+
+
+
+<meta itemprop="name" content="Exercícios FARMA-ALG">
+<meta itemprop="description" content="Conversão de temperaturas &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt; &lt;p&gt; Fazer um programa em Pascal que lê um número representando uma temperatura na escala Celsius e imprime a&lt;br /&gt; correspondente temperatura na escala Farenheit. Observação: C = 5*(F-32)/9.&lt;br /&gt; Entrada: 100&lt;br /&gt; Saída: 212.00 graus Farenheit&lt;/div&gt;&lt;/div&gt; &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt; &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt; &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal &lt;/div&gt; &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt; &lt;!--?prettify linenums=true?--&gt;&lt;/p&gt; &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Conversão de temperaturas - Pascal&quot;&gt;program C2F; var c, f: real; begin read(c); f := (((c * 9) &#43; (5 * 32)) / 5); write(f: 2: 2, &#39; graus Farenheit&rsquo;); end.">
+<meta itemprop="datePublished" content="2018-12-31T22:04:34+00:00" />
+<meta itemprop="dateModified" content="2018-12-31T22:04:34+00:00" />
+<meta itemprop="wordCount" content="10413">
+<meta itemprop="image" content="https://rogawa.github.io"/>
+
+
+
+<meta itemprop="keywords" content="" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://rogawa.github.io"/>
+
+<meta name="twitter:title" content="Exercícios FARMA-ALG"/>
+<meta name="twitter:description" content="Conversão de temperaturas &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt; &lt;p&gt; Fazer um programa em Pascal que lê um número representando uma temperatura na escala Celsius e imprime a&lt;br /&gt; correspondente temperatura na escala Farenheit. Observação: C = 5*(F-32)/9.&lt;br /&gt; Entrada: 100&lt;br /&gt; Saída: 212.00 graus Farenheit&lt;/div&gt;&lt;/div&gt; &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt; &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt; &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal &lt;/div&gt; &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt; &lt;!--?prettify linenums=true?--&gt;&lt;/p&gt; &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Conversão de temperaturas - Pascal&quot;&gt;program C2F; var c, f: real; begin read(c); f := (((c * 9) &#43; (5 * 32)) / 5); write(f: 2: 2, &#39; graus Farenheit&rsquo;); end."/>
+
+
+
+    <meta property="og:title" content="Exercícios FARMA-ALG" />
+<meta property="og:description" content="Conversão de temperaturas &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt; &lt;p&gt; Fazer um programa em Pascal que lê um número representando uma temperatura na escala Celsius e imprime a&lt;br /&gt; correspondente temperatura na escala Farenheit. Observação: C = 5*(F-32)/9.&lt;br /&gt; Entrada: 100&lt;br /&gt; Saída: 212.00 graus Farenheit&lt;/div&gt;&lt;/div&gt; &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt; &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt; &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal &lt;/div&gt; &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt; &lt;!--?prettify linenums=true?--&gt;&lt;/p&gt; &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Conversão de temperaturas - Pascal&quot;&gt;program C2F; var c, f: real; begin read(c); f := (((c * 9) &#43; (5 * 32)) / 5); write(f: 2: 2, &#39; graus Farenheit&rsquo;); end." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://rogawa.github.io/hugo-export/exercicios-farma-alg/" />
+<meta property="og:image" content="https://rogawa.github.io"/>
+<meta property="article:published_time" content="2018-12-31T22:04:34+00:00" />
+<meta property="article:modified_time" content="2018-12-31T22:04:34+00:00" />
+
+
+
+
+
+
+    <meta property="article:published_time" content="2018-12-31 22:04:34 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://rogawa.github.io/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text">$ cd /home/rogawa</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://rogawa.github.io/about/">About</a></li><li><a href="https://rogawa.github.io/posts/">Posts</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle unselectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://rogawa.github.io/hugo-export/exercicios-farma-alg/">Exercícios FARMA-ALG</a></h2>
+
+            
+
+            <div class="post-content">
+                <h1 id="conversão-de-temperaturas">Conversão de temperaturas</h1>
+<!-- raw HTML omitted -->
+<pre><code>&lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+  &lt;p&gt;
+    Fazer um programa em Pascal que lê um número representando uma temperatura na escala Celsius e imprime a&lt;br /&gt; correspondente temperatura na escala Farenheit. Observação: C = 5*(F-32)/9.&lt;br /&gt; Entrada: 100&lt;br /&gt; Saída: 212.00 graus Farenheit&lt;/div&gt;&lt;/div&gt; 
+    
+    &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+      &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+        &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+        &lt;!--?prettify linenums=true?--&gt;&lt;/p&gt; 
+        
+        &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Conversão de temperaturas - Pascal&quot;&gt;program C2F;
+</code></pre>
+<p>var
+c, f: real;
+begin
+read(c);
+f := (((c * 9) + (5 * 32)) / 5);
+write(f: 2: 2, ' graus Farenheit&rsquo;);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>    &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+      &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+        &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+        &lt;pre class=&quot;lang:c decode:true&quot; title=&quot;Conversão de temperaturas - C&quot;&gt;int main() {
+</code></pre>
+<p>float ctemp, ftemp;
+ctemp = 100;
+ftemp = (ctemp * 1.8) + 32;
+printf(&quot;%.2f graus Fahrenheit&rdquo;, ftemp);
+return 0;
+}<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<pre><code>    &lt;h1&gt;
+      Conversão de velocidades
+    &lt;/h1&gt;
+    
+    &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal que lê um número representando uma velocidade em km/h e imprime correspondente\nvelocidade em ml/h (milhas por hora). Observação: 1 milha = 1.609344 km.\nEntrada: 100\nSaída: 62.14 ml/h&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Fazer um programa em Pascal que lê um número representando uma velocidade em km/h e imprime correspondente&lt;br /&gt; velocidade em ml/h (milhas por hora). Observação: 1 milha = 1.609344 km.&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal que lê um número representando uma velocidade em km/h e imprime correspondente\nvelocidade em ml/h (milhas por hora). Observação: 1 milha = 1.609344 km.\nEntrada: 100\nSaída: 62.14 ml/h&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Entrada: 100&lt;br /&gt; Saída: 62.14 ml/h&lt;/span&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Conversão de velocidades - Pascal&quot;&gt;program Kmh2Mph;
+</code></pre>
+<p>var
+K, M: real;
+begin
+read(K);
+M := K / 1.609344;
+writeln(M: 7: 2, ' ml/h&rsquo;);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          Hidden content
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;h1&gt;
+      Graus, minutos e segundos
+    &lt;/h1&gt;
+    
+    &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dado um número inteiro que representa uma quantidade de segundos (unidade de medida de ângulo geométrico),\ndeterminar o seu valor equivalente em graus, minutos e segundos. Se a quantidade de segundos for insuficiente para\ndar o valor 1 (um) em graus, o valor em graus deve ser 0 (zero). A mesma observação vale em relação aos minutos e\nsegundos. Por exemplo: 3.600 segundos = 1 grau, 0 minutos, 0 segundos. Outro exemplo: 3.500 segundos = 0 graus, 58\nminutos e 20 segundos.\nEntrada: 3500\nSaída: 0 graus, 58 minutos e 20 segundos&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Dado um número inteiro que representa uma quantidade de segundos (unidade de medida de ângulo geométrico), determinar o seu valor equivalente em graus, minutos e segundos. Se a quantidade de segundos for insuficiente para dar o valor 1 (um) em graus, o valor em graus deve ser 0 (zero). A mesma observação vale em relação aos minutos e&lt;br /&gt; segundos.&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dado um número inteiro que representa uma quantidade de segundos (unidade de medida de ângulo geométrico),\ndeterminar o seu valor equivalente em graus, minutos e segundos. Se a quantidade de segundos for insuficiente para\ndar o valor 1 (um) em graus, o valor em graus deve ser 0 (zero). A mesma observação vale em relação aos minutos e\nsegundos. Por exemplo: 3.600 segundos = 1 grau, 0 minutos, 0 segundos. Outro exemplo: 3.500 segundos = 0 graus, 58\nminutos e 20 segundos.\nEntrada: 3500\nSaída: 0 graus, 58 minutos e 20 segundos&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Exemplo: 3.500 segundos = 0 graus, 58 minutos e 20 segundos.&lt;br /&gt; Entrada: 3500&lt;br /&gt; Saída: 0 graus, 58 minutos e 20 segundos&lt;/span&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Grau, minuto e segundo - Pascal&quot;&gt;program GMS;
+</code></pre>
+<p>var
+g, m, s: longint;
+begin
+g := 0;
+m := 0;
+read(s);
+while s &gt;= 3600 do
+begin
+s := s - 3600;
+g := g + 1;
+end;
+while s &gt;= 60 do
+begin
+s := s - 60;
+m := m + 1;
+end;
+writeln(g, ' graus, &lsquo;, m, ' minutos e &lsquo;, s, ' segundos&rsquo;);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          Hidden content
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;h1&gt;
+      Frações
+    &lt;/h1&gt;
+    
+    &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dadas duas frações ordinárias a/b e c/d, determinar a sua soma e o seu produto, também no formato de frações. A\nentrada de dados deve ser constituída de duas linhas, cada uma contendo dois inteiros, uma para a e b e outra para c e\nd. A saída deverá ser também de duas linhas cada uma contendo um par que representa o numerador e o denominador\ntanto da soma como do produto calculados.\nEntrada:\n1 2\n3 4\nSaída:\nA soma = 10 / 8\nO produto = 3 / 8&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Dadas duas frações ordinárias &lt;em&gt;a/b&lt;/em&gt; e &lt;em&gt;c/d&lt;/em&gt;, determinar a sua soma e o seu produto, também no formato de frações. A entrada de dados deve ser constituída de duas linhas, cada uma contendo dois inteiros, uma para &lt;em&gt;a&lt;/em&gt; e &lt;em&gt;b&lt;/em&gt; e outra para &lt;em&gt;c&lt;/em&gt; e &lt;em&gt;d&lt;/em&gt;. A saída deverá ser também de duas linhas cada uma contendo um par que representa o numerador e o denominador&lt;br /&gt; tanto da soma como do produto calculados.&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dadas duas frações ordinárias a/b e c/d, determinar a sua soma e o seu produto, também no formato de frações. A\nentrada de dados deve ser constituída de duas linhas, cada uma contendo dois inteiros, uma para a e b e outra para c e\nd. A saída deverá ser também de duas linhas cada uma contendo um par que representa o numerador e o denominador\ntanto da soma como do produto calculados.\nEntrada:\n1 2\n3 4\nSaída:\nA soma = 10 / 8\nO produto = 3 / 8&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Entrada:&lt;br /&gt; 1 2&lt;br /&gt; 3 4&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dadas duas frações ordinárias a/b e c/d, determinar a sua soma e o seu produto, também no formato de frações. A\nentrada de dados deve ser constituída de duas linhas, cada uma contendo dois inteiros, uma para a e b e outra para c e\nd. A saída deverá ser também de duas linhas cada uma contendo um par que representa o numerador e o denominador\ntanto da soma como do produto calculados.\nEntrada:\n1 2\n3 4\nSaída:\nA soma = 10 / 8\nO produto = 3 / 8&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Saída:&lt;br /&gt; A soma = 10 / 8&lt;br /&gt; O produto = 3 / 8&lt;/span&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Frações - Pascal&quot;&gt;program fracoes_ord;
+</code></pre>
+<p>var
+a, b, c, d: integer;
+begin
+read(a);
+read(b);
+read(c);
+read(d);
+writeln(&lsquo;A soma = &lsquo;, (a * d) + (b * c), ' / &lsquo;, d * b);
+writeln(&lsquo;O produto = &lsquo;, a * c, ' / &lsquo;, b * d);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          Hidden content
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;h1&gt;
+      Sistemas de equações
+    &lt;/h1&gt;
+    
+    &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal que lê seis números, a11, a12, b1, a21, a22 e b2 e imprime uma solução do sistema de equações\nlineares abaixo:\na11x + a12y = b1\na21x + a22y = b2\nEntrada:\n1 2 3\n3 2 1\nSaída:\nx = -1.00\ny = 2.00&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Fazer um programa em Pascal que lê seis números, &lt;em&gt;a11, a12, b1, a21, a22 &lt;/em&gt;e&lt;em&gt; b2&lt;/em&gt; e imprime uma solução do sistema de equações&lt;br /&gt; lineares abaixo:&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            a11x + a12y = b1&lt;br /&gt; a21x + a22y = b2
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal que lê seis números, a11, a12, b1, a21, a22 e b2 e imprime uma solução do sistema de equações\nlineares abaixo:\na11x + a12y = b1\na21x + a22y = b2\nEntrada:\n1 2 3\n3 2 1\nSaída:\nx = -1.00\ny = 2.00&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Entrada:&lt;br /&gt; 1 2 3&lt;br /&gt; 3 2 1&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal que lê seis números, a11, a12, b1, a21, a22 e b2 e imprime uma solução do sistema de equações\nlineares abaixo:\na11x + a12y = b1\na21x + a22y = b2\nEntrada:\n1 2 3\n3 2 1\nSaída:\nx = -1.00\ny = 2.00&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Saída:&lt;br /&gt; x = -1.00&lt;br /&gt; y = 2.00&lt;/span&gt;
+          &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Sistema de equações - Pascal&quot;&gt;program equacoes;
+</code></pre>
+<p>var
+a11, a12, b1, a21, a22, b2, x, y: real;
+begin
+read(a11, a12, b1);
+read(a21, a22, b2);
+a12 := a12 * a21;
+a22 := a22 * a11;
+b1 := b1 * a21;
+b2 := b2 * a11;
+a11 := a11 * a21;
+a21 := a11;
+y := (b1 - b2) / (a12 - a22);
+x := ((b1 + b2) / (a11 + a21)) - ((a12 * y + a22 * y) / (a11 + a21));
+writeln(&lsquo;x = &lsquo;, x: 2: 2);
+writeln(&lsquo;y = &lsquo;, y: 2: 2);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          Hidden content
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;h1&gt;
+      Fatores primos
+    &lt;/h1&gt;
+    
+    &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+      &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+        &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+          &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado, de calcular a decomposição em\nfatores primos desse número e de imprimir os fatores calculados. Exemplos de entrada e saída são:\n./fatores\\_primos\n12 &lt;ENTER&gt;\n2 2 3\n./fatores\\_primos\n150 &lt;ENTER&gt;\n2 3 5 5&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado, de calcular a decomposição em fatores primos desse número e de imprimir os fatores calculados. Exemplos de entrada e saída são:&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado, de calcular a decomposição em\nfatores primos desse número e de imprimir os fatores calculados. Exemplos de entrada e saída são:\n./fatores\\_primos\n12 &lt;ENTER&gt;\n2 2 3\n./fatores\\_primos\n150 &lt;ENTER&gt;\n2 3 5 5&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;./fatores\_primos&lt;br /&gt; 12 &lt;ENTER&gt;&lt;br /&gt; 2 2 3&lt;/span&gt;
+          &lt;/p&gt;
+          
+          &lt;p&gt;
+            &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado, de calcular a decomposição em\nfatores primos desse número e de imprimir os fatores calculados. Exemplos de entrada e saída são:\n./fatores\\_primos\n12 &lt;ENTER&gt;\n2 2 3\n./fatores\\_primos\n150 &lt;ENTER&gt;\n2 3 5 5&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;./fatores\_primos&lt;br /&gt; 150 &lt;ENTER&gt;&lt;br /&gt; 2 3 5 5&lt;/span&gt;&lt;/div&gt;&lt;/div&gt; 
+            
+            &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+              &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Fatores primos - Pascal&quot;&gt;program fat_primos;
+</code></pre>
+<p>var
+entrada, divisor: integer;
+begin
+read(entrada);
+while entrada &lt;= 0 do
+read(entrada);
+divisor := 2;
+while entrada &gt; 1 do
+if (entrada mod divisor = 0) then
+begin
+entrada := entrada div divisor;
+write(divisor, ' &lsquo;);
+end
+else
+divisor := divisor + 1;
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>            &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+              &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                Hidden content
+              &lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt; 
+            
+            &lt;h1&gt;
+              Co-seno de um radiano
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Considere a soma S dos termo da série infinita apresentada abaixo, a qual é responsável pelo cálculo do valor do co-seno\nde 1 (um) radiano:\n\n\n\nFazer um programa em linguagem Pascal que seja capaz de calcular o valor aproximado da soma (S) dos termos\nda série até o momento em que a diferença das normas (módulo) de 2 termos consecutivos for menor que 0,000001 (i.e.,\nnorma da diferença das normas de dois termos consecutivos).\nEste programa não possui nenhuma entrada.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Considere a soma S dos termo da série infinita apresentada abaixo, a qual é responsável pelo cálculo do valor do co-seno de 1 (um) radiano:&lt;/span&gt;&lt;/p&gt; 
+                  
+                  &lt;p&gt;
+                    &lt;img loading=&quot;lazy&quot; class=&quot;alignnone size-medium wp-image-573&quot; src=&quot;https://i1.wp.com/35.198.27.57/wp-content/uploads/2019/01/co_seno_radiano-300x35.png?resize=300%2C35&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;35&quot; srcset=&quot;https://i0.wp.com/ruiogawa.net/wp-content/uploads/2019/01/co_seno_radiano.png?resize=300%2C35&amp;ssl=1 300w, https://i0.wp.com/ruiogawa.net/wp-content/uploads/2019/01/co_seno_radiano.png?w=317&amp;ssl=1 317w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; data-recalc-dims=&quot;1&quot; /&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Fazer um programa em linguagem Pascal que seja capaz de calcular o valor aproximado da soma (S) dos termos da série até o momento em que a diferença das normas (módulo) de 2 termos consecutivos for menor que 0,000001 (i.e., norma da diferença das normas de dois termos consecutivos).&lt;br /&gt; Este programa não possui nenhuma entrada.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Co-seno de um radiano - Pascal&quot;&gt;program cosseno_rad;
+</code></pre>
+<p>var
+soma: real;
+cont1, cont2, fat1, fat2, d1, d2: int64;
+begin
+d1 := 2;
+d2 := 4;
+soma := 1;
+fat1 := 1;
+cont1 := 1;
+fat2 := 2;
+cont2 := 1;
+while 1 / fat1 - 1 / fat2 &gt; 0.000001 do
+begin
+fat1 := 1;
+cont1 := 1;
+fat2 := 1;
+cont2 := 1;
+while d1 &gt;= cont1 do
+begin
+fat1 := fat1 * cont1;
+cont1 := cont1 + 1;
+end;
+while d2 &gt;= cont2 do
+begin
+fat2 := fat2 * cont2;
+cont2 := cont2 + 1;
+end;
+d1 := d1 + 4;
+d2 := d2 + 4;
+soma := (soma - 1 / fat1 + 1 / fat2);
+end;
+writeln(soma: 15: 15);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              É palíndromo
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado e de verificar se a sua sequência\nde dígitos é exatamente a mesma, tanto se for visto da esquerda para a direita quanto da direita para a esquerda. Caso\nseja, imprimir “Sim eh palindromo”. Caso não seja, imprimir “Nao eh palindromo” (sem acento). Dica: aplique divisões\nsucessivas por 10. Exemplos de entrada e saída são:\n./eh\\_palindromo\n12321 &lt;ENTER&gt;\nSim eh palindromo\n./eh\\_palindromo\n31527 &lt;ENTER&gt;\nNao eh palindromo&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado e de verificar se a sua sequência de dígitos é exatamente a mesma, tanto se for visto da esquerda para a direita quanto da direita para a esquerda. Caso seja, imprimir “Sim eh palindromo”. Caso não seja, imprimir “Nao eh palindromo” (sem acento). Dica: aplique divisões sucessivas por 10. Exemplos de entrada e saída são:&lt;/span&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado e de verificar se a sua sequência\nde dígitos é exatamente a mesma, tanto se for visto da esquerda para a direita quanto da direita para a esquerda. Caso\nseja, imprimir “Sim eh palindromo”. Caso não seja, imprimir “Nao eh palindromo” (sem acento). Dica: aplique divisões\nsucessivas por 10. Exemplos de entrada e saída são:\n./eh\\_palindromo\n12321 &lt;ENTER&gt;\nSim eh palindromo\n./eh\\_palindromo\n31527 &lt;ENTER&gt;\nNao eh palindromo&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;./eh\_palindromo&lt;br /&gt; 12321 &lt;ENTER&gt;&lt;br /&gt; Sim eh palindromo&lt;/span&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em Pascal capaz de ler apenas um número inteiro positivo do teclado e de verificar se a sua sequência\nde dígitos é exatamente a mesma, tanto se for visto da esquerda para a direita quanto da direita para a esquerda. Caso\nseja, imprimir “Sim eh palindromo”. Caso não seja, imprimir “Nao eh palindromo” (sem acento). Dica: aplique divisões\nsucessivas por 10. Exemplos de entrada e saída são:\n./eh\\_palindromo\n12321 &lt;ENTER&gt;\nSim eh palindromo\n./eh\\_palindromo\n31527 &lt;ENTER&gt;\nNao eh palindromo&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;./eh\_palindromo&lt;br /&gt; 31527 &lt;ENTER&gt;&lt;br /&gt; Nao eh palindromo&lt;/span&gt;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;É palíndromo? - Pascal&quot;&gt;program palindromo;
+</code></pre>
+<p>var
+n, m, o, pot10: longint;
+begin
+read(n);
+pot10 := 10;
+m := 0;
+o := n;
+while (n div pot10 &lt;&gt; 0) do
+pot10 := pot10 * 10;
+pot10 := pot10 div 10;
+while pot10 &gt;= 1 do
+begin
+m := m + (o mod 10) * pot10;
+pot10 := pot10 div 10;
+o := o div 10;
+end;
+if n = m then
+write(&lsquo;Sim eh palindromo&rsquo;)
+else
+write(&lsquo;Nao eh palindromo&rsquo;);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              É k-alternante
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dizemos que uma sequência de inteiros é k-alternante se for composta alternadamente por segmentos de números pares\nde tamanho k e segmentos de números ímpares de tamanho k. Exemplos:\nA sequência 1 3 6 8 9 11 2 4 1 7 6 8 é 2-alternante.\nA sequência 2 1 4 7 8 9 é 1-alternante.\nA sequência 4 2 3 1 6 4 2 9 não é alternante.\nA sequência 1 3 5 é 3-alternante.\nFazer um programa em Pascal capaz de ler os seguintes valores de entrada:\na) um número inteiro k positivo que representa o tamanho do segmento alternante que será usado para testar a sequência;\nb) uma sequência de números inteiros positivos terminada por zero (o zero não faz parte da sequência). O programa deve\ndeterminar se a sequência de números lidos ée k-alternante. Se for, o programa deve imprimir “Sim eh k-alternante”. Caso\ncontrário, deve ser impressa a mensagem “Nao eh k-alternante” (sem acento). Exemplos de entrada e saída são:\n./eh_k_alternante\n2 &lt;ENTER&gt;\n1 3 6 8 9 11 2 4 1 7 6 8 0 &lt;ENTER&gt;\nSim eh k-alternante\n./eh_k_alternante\n3 &lt;ENTER&gt;\n4 2 8 3 1 7 6 4 6 2 9 7 0 &lt;ENTER&gt;\nNao eh k-alternante&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Dizemos que uma sequência de inteiros é k-alternante se for composta alternadamente por segmentos de números pares de tamanho k e segmentos de números ímpares de tamanho k. Exemplos:&lt;/span&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dizemos que uma sequência de inteiros é k-alternante se for composta alternadamente por segmentos de números pares\nde tamanho k e segmentos de números ímpares de tamanho k. Exemplos:\nA sequência 1 3 6 8 9 11 2 4 1 7 6 8 é 2-alternante.\nA sequência 2 1 4 7 8 9 é 1-alternante.\nA sequência 4 2 3 1 6 4 2 9 não é alternante.\nA sequência 1 3 5 é 3-alternante.\nFazer um programa em Pascal capaz de ler os seguintes valores de entrada:\na) um número inteiro k positivo que representa o tamanho do segmento alternante que será usado para testar a sequência;\nb) uma sequência de números inteiros positivos terminada por zero (o zero não faz parte da sequência). O programa deve\ndeterminar se a sequência de números lidos ée k-alternante. Se for, o programa deve imprimir “Sim eh k-alternante”. Caso\ncontrário, deve ser impressa a mensagem “Nao eh k-alternante” (sem acento). Exemplos de entrada e saída são:\n./eh_k_alternante\n2 &lt;ENTER&gt;\n1 3 6 8 9 11 2 4 1 7 6 8 0 &lt;ENTER&gt;\nSim eh k-alternante\n./eh_k_alternante\n3 &lt;ENTER&gt;\n4 2 8 3 1 7 6 4 6 2 9 7 0 &lt;ENTER&gt;\nNao eh k-alternante&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;A sequência 1 3 6 8 9 11 2 4 1 7 6 8 é 2-alternante.&lt;br /&gt; A sequência 2 1 4 7 8 9 é 1-alternante.&lt;br /&gt; A sequência 4 2 3 1 6 4 2 9 não é alternante.&lt;br /&gt; A sequência 1 3 5 é 3-alternante.&lt;/span&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dizemos que uma sequência de inteiros é k-alternante se for composta alternadamente por segmentos de números pares\nde tamanho k e segmentos de números ímpares de tamanho k. Exemplos:\nA sequência 1 3 6 8 9 11 2 4 1 7 6 8 é 2-alternante.\nA sequência 2 1 4 7 8 9 é 1-alternante.\nA sequência 4 2 3 1 6 4 2 9 não é alternante.\nA sequência 1 3 5 é 3-alternante.\nFazer um programa em Pascal capaz de ler os seguintes valores de entrada:\na) um número inteiro k positivo que representa o tamanho do segmento alternante que será usado para testar a sequência;\nb) uma sequência de números inteiros positivos terminada por zero (o zero não faz parte da sequência). O programa deve\ndeterminar se a sequência de números lidos ée k-alternante. Se for, o programa deve imprimir “Sim eh k-alternante”. Caso\ncontrário, deve ser impressa a mensagem “Nao eh k-alternante” (sem acento). Exemplos de entrada e saída são:\n./eh_k_alternante\n2 &lt;ENTER&gt;\n1 3 6 8 9 11 2 4 1 7 6 8 0 &lt;ENTER&gt;\nSim eh k-alternante\n./eh_k_alternante\n3 &lt;ENTER&gt;\n4 2 8 3 1 7 6 4 6 2 9 7 0 &lt;ENTER&gt;\nNao eh k-alternante&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Fazer um programa em Pascal capaz de ler os seguintes valores de entrada:&lt;/span&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    a) um número inteiro k positivo que representa o tamanho do segmento alternante que será usado para testar a sequência;&lt;br /&gt; b) uma sequência de números inteiros positivos terminada por zero (o zero não faz parte da sequência).
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    O programa deve determinar se a sequência de números lidos ée k-alternante. Se for, o programa deve imprimir “Sim eh k-alternante”. Caso contrário, deve ser impressa a mensagem “Nao eh k-alternante” (sem acento). Exemplos de entrada e saída são:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Dizemos que uma sequência de inteiros é k-alternante se for composta alternadamente por segmentos de números pares\nde tamanho k e segmentos de números ímpares de tamanho k. Exemplos:\nA sequência 1 3 6 8 9 11 2 4 1 7 6 8 é 2-alternante.\nA sequência 2 1 4 7 8 9 é 1-alternante.\nA sequência 4 2 3 1 6 4 2 9 não é alternante.\nA sequência 1 3 5 é 3-alternante.\nFazer um programa em Pascal capaz de ler os seguintes valores de entrada:\na) um número inteiro k positivo que representa o tamanho do segmento alternante que será usado para testar a sequência;\nb) uma sequência de números inteiros positivos terminada por zero (o zero não faz parte da sequência). O programa deve\ndeterminar se a sequência de números lidos ée k-alternante. Se for, o programa deve imprimir “Sim eh k-alternante”. Caso\ncontrário, deve ser impressa a mensagem “Nao eh k-alternante” (sem acento). Exemplos de entrada e saída são:\n./eh_k_alternante\n2 &lt;ENTER&gt;\n1 3 6 8 9 11 2 4 1 7 6 8 0 &lt;ENTER&gt;\nSim eh k-alternante\n./eh_k_alternante\n3 &lt;ENTER&gt;\n4 2 8 3 1 7 6 4 6 2 9 7 0 &lt;ENTER&gt;\nNao eh k-alternante&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;./eh_k_alternante&lt;br /&gt; 2 &lt;ENTER&gt;&lt;br /&gt; 1 3 6 8 9 11 2 4 1 7 6 8 0 &lt;ENTER&gt;&lt;br /&gt; Sim eh k-alternante&lt;/span&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    ./eh_k_alternante&lt;br /&gt; 3 &lt;ENTER&gt;&lt;br /&gt; 4 2 8 3 1 7 6 4 6 2 9 7 0 &lt;ENTER&gt;&lt;br /&gt; Nao eh k-alternante
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;É k-alternante? - Pascal&quot;&gt;program kalternante;
+</code></pre>
+<p>var
+b, c, k, n: longint;
+m: string;
+begin
+read(k, n);
+if n mod 2 = 0 then
+b := 0
+else
+b := 1;
+c := 0;
+while n &lt;&gt; 0 do
+begin
+if (n mod 2 &lt;&gt; 0) xor (b mod 2 &lt;&gt; 0) then
+begin
+if n mod 2 = 0 then
+c := 1
+else
+c := 0;
+b := 1;
+end
+else
+c := c + 1;
+b := b * n;
+read(n);
+end;
+if c = k then
+m := &lsquo;Sim eh k-alternante&rsquo;
+else
+m := &lsquo;Nao eh k-alternante&rsquo;;
+writeln(m);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              23º número primo
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Fazer um programa em linguagem Pascal que seja capaz de calcular e imprimir o vigésimo terceiro número primo.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;23º número primo - Pascal&quot;&gt;program primo23;
+</code></pre>
+<p>uses
+crt;</p>
+<p>var
+primos: integer;
+x, i: integer;
+contar: integer;
+begin
+i := 2;
+primos := 0;
+while (primos &lt;&gt; 23) do
+begin
+for x := 1 to i do
+if (i mod x = 0) then
+contar += 1;
+if (contar = 2) then
+begin
+contar := 0;
+primos += 1;
+end
+else
+contar := 0;
+i += 1;
+end;
+write(i - 1);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Multiplicação
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Fazer um programa em PASCAL para simular o processo de multiplicação ensinado por uma professora primária aos seus alunos. O programa deve funcionar para multiplicandos e multiplicadores que são números inteiros com qualquer quantidade de algarismos, mesmo que o programa inevitavelmente seja testado apenas com entradas e saídas que estão dentro da faixa de valores permitidos para variáveis do tipo Integer do Pascal padrão ou do tipo Longint do dialeto Free Pascal Compiler. Os dois números, multiplicando e multiplicador, são fornecidos por meio de leitura do teclado do computador. Veja um exemplo de entrada e saída:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    ./multiplica&lt;br /&gt; 2187 &lt;ENTER&gt;&lt;br /&gt; 14 &lt;ENTER&gt;&lt;br /&gt; 30618
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    OBSERVAÇÃO: Aplique divisões sucessivas por 10.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Multiplicação - Pascal&quot;&gt;program multiplica;
+</code></pre>
+<p>var
+soma, n, m, cont, aux_m, aux_n: longint;
+begin
+soma := 0;
+read(n);
+read(m);
+aux_n := n;
+aux_m := m;
+cont := 1;
+while (aux_m div 10) &gt; 0 do
+begin
+m := m mod 10;
+soma := soma + n * m * cont;
+cont := cont * 10;
+aux_m := aux_m div 10;
+m := aux_m;
+end;
+m := aux_m;
+m := m mod 10;
+soma := soma + n * m * cont;
+cont := cont * 10;
+aux_m := aux_m div 10;
+writeln(soma);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              MDC
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Fazer um programa em linguagem Pascal para ler uma quantidade arbitrária de números inteiros positivos do teclado e calcular o MDC (máximo divisor comum) de todos eles pelo método Euclidiano. Ao final, imprimir o valor do MDC calculado. O número zero é o último lido e não deve ser levado em conta no cálculo do MDC. Veja um exemplo do método Euclidiano aplicado a dois números: 720 e 520. Veja um exemplo de entrada e saída:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;img loading=&quot;lazy&quot; class=&quot;alignnone size-medium wp-image-584&quot; src=&quot;https://i2.wp.com/35.198.27.57/wp-content/uploads/2019/01/mdc-300x45.png?resize=300%2C45&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;45&quot; srcset=&quot;https://i2.wp.com/ruiogawa.net/wp-content/uploads/2019/01/mdc.png?resize=300%2C45&amp;ssl=1 300w, https://i2.wp.com/ruiogawa.net/wp-content/uploads/2019/01/mdc.png?w=325&amp;ssl=1 325w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; data-recalc-dims=&quot;1&quot; /&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    ./mdc&lt;br /&gt; 480 120 96 4800 48 108 0 &lt;ENTER&gt;&lt;br /&gt; 12
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    OBSERVAÇÃO: NÃO utilize nem VETORES (ARRAYS) nem STRINGS.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;MDC - Pascal&quot;&gt;program mdc;
+</code></pre>
+<p>var
+a, b: longint;</p>
+<p>function mdc(n1, n2: longint): longint;
+var
+resto: longint;
+begin
+resto := a mod b;
+while resto &gt; 0 do
+begin
+a := b;
+b := resto;
+resto := a mod b;
+end;
+mdc := b;
+end;</p>
+<p>begin
+read(a, b);
+while (a &lt;&gt; 0) and (b &lt;&gt; 0) do
+begin
+mdc(a, b);
+read(a);
+end;
+writeln(b);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Quadrado mágico
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Um “Quadrado Mágico” de 9 (nove) elementos (3 linhas por 3 colunas) pode ser definido como a combinação dos números de 1 até 9, sem repetição, organizados de forma bidimensional tal que a soma dos elementos de quaisquer das linhas, colunas ou diagonais resulta sempre no valor 15 (quinze). Abaixo, é apresentada uma das possíveis combinações de “Quadrado Mágico”.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;img loading=&quot;lazy&quot; class=&quot;alignnone size-full wp-image-586&quot; src=&quot;https://i0.wp.com/35.198.27.57/wp-content/uploads/2019/01/quadrado_magico.png?resize=127%2C68&quot; alt=&quot;&quot; width=&quot;127&quot; height=&quot;68&quot; data-recalc-dims=&quot;1&quot; /&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Fazer um programa em linguagem PASCAL para gerar e imprimir apenas o primeiro “Quadrado Mágico” encontrado. OBSERVAÇÃO 1: Cuidado! Das 387.420.489 (99) variações de quadrados compostos com repetição de números de 1 a 9, somente 362.880 (9!) não apresentam nenhuma repetição, dos quais menos de 10 são “Quadrados Mágicos”. Mas prepare-se para esperar na frente do computador!&lt;br /&gt; OBSERVAÇÃO 2: Não utilize nem VETORES (ARRAYS) nem STRINGS.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Quadrado mágico - Pascal&quot;&gt;program quadrado_magico;
+</code></pre>
+<p>var
+x1, x2, x3, x4, x5, x6, x7, x8, x9: integer;</p>
+<p>function somas: boolean;
+begin
+if (x1 + x2 + x3 = 15) and (x4 + x5 + x6 = 15) and (x7 + x8 + x9 = 15) and (x1 + x4 + x7 = 15) and
+(x2 + x5 + x8 = 15) and (x3 + x6 + x9 = 15) and (x1 + x5 + x9 = 15) and (x3 + x5 + x7 = 15) then
+somas := true
+else
+somas := false;
+end;</p>
+<p>begin
+x1 := 1;
+x2 := 1;
+x3 := 1;
+x4 := 1;
+x5 := 1;
+x6 := 1;
+x7 := 1;
+x8 := 1;
+x9 := 1;
+randomize;
+repeat
+x1 := random(10);
+if x2 = x1 then
+x2 := random(10);
+if (x3 = x2) or (x3 = x1) then
+x3 := random(10);
+if (x4 = x3) or (x4 = x2) or (x4 = x1) then
+x4 := random(10);
+if (x5 = x4) or (x5 = x3) or (x5 = x2) or (x5 = x1) then
+x5 := random(10);
+if (x6 = x5) or (x6 = x4) or (x6 = x3) or (x6 = x2) or (x6 = x1) then
+x6 := random(10);
+if (x7 = x6) or (x7 = x5) or (x7 = x4) or (x7 = x3) or (x7 = x2) or (x7 = x1) then
+x7 := random(10);
+if (x8 = x7) or (x8 = x6) or (x8 = x5) or (x8 = x4) or (x8 = x3) or (x8 = x2) or (x8 = x1) then
+x8 := random(10);
+if (x9 = x8) or (x9 = x7) or (x9 = x6) or (x9 = x5) or (x9 = x4) or (x9 = x3) or (x9 = x2) or (x9 = x1) then
+x9 := random(10);
+until somas;
+writeln(x1, ' &lsquo;, x2, ' &lsquo;, x3);
+writeln(x4, ' &lsquo;, x5, ' &lsquo;, x6);
+writeln(x7, ' &lsquo;, x8, ' &lsquo;, x9);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Números repetidos
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Fazer um programa em linguagem Pascal para ler uma quantidade arbitrária de números inteiros positivos do teclado e determinar os números repetidos fornecidos na entrada de dados. O programa deve imprimir apenas uma ocorrência de cada número repetido, mesmo que sejam fornecidas várias duplicatas do mesmo número no momento da entrada. O número zero é o último lido e não deve ser levado em conta na determinação de repetidos. Um exemplo de entrada e saída é:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    ./repetidos&lt;br /&gt; 3 4 5 5 6 7 8 8 9 10 5 5 5 7 7 3 0 &lt;ENTER&gt;&lt;br /&gt; Os repetidos sao: 5 8 7 3
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:default decode:true &quot; title=&quot;Números repetidos - Pascal&quot;&gt;program repetidos;
+</code></pre>
+<p>const
+MIN = 1;
+MAX = 200;
+type
+vetor = array [MIN..MAX] of longint;
+var
+v, w: vetor;
+tam: longint;</p>
+<p>procedure ler_vetor(var v: vetor; var tam: longint);
+var
+i: longint;
+begin
+i := 1;
+read(v[i]);
+while (v[i] &lt;&gt; 0) and (i &lt;= MAX - 1) do
+begin
+i := i + 1;
+read(v[i]);
+end;
+tam := i - 1;
+end;</p>
+<p>procedure imprimir_vetor(var v: vetor; tam: longint);
+var
+i: longint;
+begin
+for i := 1 to tam do
+write(v[i], ' &lsquo;);
+end;</p>
+<p>procedure repetidos(var v: vetor; var w: vetor; tam: longint);
+var
+i, j, r, cont: longint;
+begin
+i := 1;
+j := 1;
+cont := 1;
+while cont &lt;= tam do
+begin
+r := v[i];
+while (r &lt;&gt; v[i + 1]) and (i &lt; tam) do
+i := i + 1;
+if r = v[i + 1] then
+begin
+i := cont;
+w[j] := r;
+j := j + 1;
+end;
+cont := cont + 1;
+i := cont;
+end;
+i := 1;
+cont := 1;
+while cont &lt;= j do
+begin
+r := w[i];
+while (i &lt;= j) do
+begin
+if (r = w[i + 1]) then
+w[i + 1] := 0;
+i := i + 1;
+end;
+cont := cont + 1;
+i := cont;
+end;
+for j := 1 to j - 1 do
+if w[j] &lt;&gt; 0 then
+write(w[j], ' &lsquo;);
+end;</p>
+<p>begin
+ler_vetor(v, tam);
+write(&lsquo;Os repetidos sao: &lsquo;);
+repetidos(v, w, tam);
+end.<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
+<pre><code>              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              União
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Escreva um programa em linguagem Pascal para ler, a partir do teclado, duas sequências com quantidades arbitrárias de valores inteiros positivos, as quais denotam dois conjuntos da matemática. Os valores de uma sequência nunca conterão duplicatas mas podem vir fora de ordem. Cada sequência termina com o valor 0 (que não é elemento de nenhum dos conjuntos). Depois da leitura dos dados, o programa deve determinar e imprimir o conjunto união. Por exemplo, considere a entrada e a saída de dados abaixo:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    ./uniao&lt;br /&gt; 11 7 1 18 6 5 9 0 &lt;ENTER&gt;&lt;br /&gt; 9 22 4 5 6 18 0 &lt;ENTER&gt;&lt;br /&gt; Conjunto Uniao = 11 7 1 18 6 5 9 22 4
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;União - Pascal&quot;&gt;program uniao;
+</code></pre>
+<p>const
+MIN = 1;
+MAX = 200;
+type
+vetor = array [MIN..MAX] of longint;
+var
+v, w, z: vetor;
+tam_v, tam_w: longint;</p>
+<p>procedure ler_vetor(var v: vetor; var tam: longint);
+var
+i: longint;
+begin
+i := 1;
+read(v[i]);
+while (v[i] &lt;&gt; 0) and (i &lt;= MAX - 1) do
+begin
+i := i + 1;
+read(v[i]);
+end;
+tam := i - 1;
+end;</p>
+<p>procedure imprimir_vetor(var v: vetor; tam: longint);
+var
+i: longint;
+begin
+for i := 1 to tam do
+write(v[i], ' &lsquo;);
+end;</p>
+<p>procedure uniao_vetorial(var v: vetor; var w: vetor; var z: vetor; tam_v: longint; tam_w: longint);
+var
+i, j: longint;
+begin
+write(&lsquo;Conjunto Uniao = &lsquo;);
+imprimir_vetor(v, tam_v);
+i := 1;
+j := 1;
+while i &lt;= tam_v do
+begin
+j := 1;
+while j &lt;= tam_w do
+begin
+if v[i] = w[j] then
+w[j] := 0;
+j := j + 1;
+end;
+i := i + 1;
+end;
+for j := 1 to tam_w do
+if w[j] &lt;&gt; 0 then
+write(w[j], ' &lsquo;);
+end;</p>
+<p>begin
+ler_vetor(v, tam_v);
+ler_vetor(w, tam_w);
+uniao_vetorial(v, w, z, tam_v, tam_w);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Triângulo de Pascal
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    O “Triângulo de Pascal” é formado por uma composição específica de números inteiros. Cada um dos números do triângulo é formado pela soma de dois números da linha anterior: um imediatamente acima e o outro, acima e à esquerda. Fazer um programa em Pascal para ler um número inteiro positivo que representa a altura de um Triângulo de Pascal, gerar e imprimir os valores desse Triângulo no monitor de vídeo do computador. Veja uma exemplo de execução do programa:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    ./triangulo&lt;br /&gt; 7 &lt;ENTER&gt;&lt;br /&gt; 1&lt;br /&gt; 1 1&lt;br /&gt; 1 2 1&lt;br /&gt; 1 3 3 1&lt;br /&gt; 1 4 6 4 1&lt;br /&gt; 1 5 10 10 5 1&lt;br /&gt; 1 6 15 20 15 6 1
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Triângulo de Pascal - Pascal&quot;&gt;program tri_pascal;
+</code></pre>
+<p>const
+max = 100;
+min = 1;
+type
+vetor = array[min..max] of longint;
+var
+v: vetor;
+n: integer;</p>
+<p>procedure exibe_vet(var v: vetor; j: integer);
+var
+i: integer;
+begin
+for i := 1 to j do
+write(v[i], ' &lsquo;);
+writeln;
+end;</p>
+<p>procedure triangulo_pascal(var n: integer; var v: vetor);
+var
+i, j: integer;
+begin
+v[1] := 1;
+for j := 1 to n do
+begin
+i := j;
+exibe_vet(v, j);
+while i &gt;= 1 do
+begin
+v[i + 1] := v[i] + v[i + 1];
+i := i - 1;
+end;
+end;
+end;</p>
+<p>begin
+readln(n);
+triangulo_pascal(n, v);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Aniversário
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    &lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Fazer um programa em linguagem Pascal capaz de calcular de forma numérica (não analítica) e imprimir a probabilidade\nde, em um grupo de 27 pessoas aleatoriamente escolhidas, ao menos 2 dessas fazerem aniversário no mesmo dia do ano.\nO programa deve conter ao menos um procedimento e uma função. O procedimento (“preenche”) deverá receber como\nparâmetro, por referência, um vetor de 27 posições de inteiros. Para cada posição do vetor, o procedimento deverá\npreenchê-la, aleatoriamente, com um valor inteiro entre 1 e 365 (OBS: utilizar a função interna do dialeto de Pascal para a\ngeração de números aleatórios que estiver disponível em seu compilador). A função (“tem coincidencia”), cujo parâmetro\nde entrada é um vetor com 27 posições preenchidas com números inteiros entre 1 e 365, retornará “true” se houver ao\nmenos 2 posições do vetor com o mesmo valor e “false” no caso contrário.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:897,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;10&amp;quot;:0,&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Fazer um programa em linguagem Pascal capaz de calcular de forma numérica (não analítica) e imprimir a probabilidade de, em um grupo de 27 pessoas aleatoriamente escolhidas, ao menos 2 dessas fazerem aniversário no mesmo dia do ano. O programa deve conter ao menos um procedimento e uma função. O procedimento (“preenche”) deverá receber como parâmetro, por referência, um vetor de 27 posições de inteiros.&lt;/span&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Para cada posição do vetor, o procedimento deverá preenchê-la, aleatoriamente, com um valor inteiro entre 1 e 365 (OBS: utilizar a função interna do dialeto de Pascal para a geração de números aleatórios que estiver disponível em seu compilador). A função (“tem coincidencia”), cujo parâmetro de entrada é um vetor com 27 posições preenchidas com números inteiros entre 1 e 365, retornará “true” se houver ao menos 2 posições do vetor com o mesmo valor e “false” no caso contrário.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Aniversário - Pascal&quot;&gt;program aniversario;
+</code></pre>
+<p>const
+MAX = 27;
+MIN = 1;
+TOTAL = 10000;
+type
+vetor = array [MIN..MAX + 1] of longint;
+var
+v: vetor;
+tentativas, sucessos: longint;</p>
+<p>procedure preenche(var v: vetor);
+var
+i: integer;
+begin
+for i := 1 to MAX do
+v[i] := Random(365) + 1;
+end;</p>
+<p>function tem_coincidencia(var v: vetor): boolean;
+var
+i, j: integer;
+begin
+i := 1;
+tem_coincidencia := false;
+while i &lt; MAX do
+begin
+j := i;
+v[MAX + 1] := v[i]; (* sentinela *)
+while v[i] &lt;&gt; v[j + 1] do
+j := j + 1;
+if (j &lt; MAX) then
+tem_coincidencia := true;
+i := i + 1;
+end;
+end;</p>
+<p>begin
+Randomize;
+sucessos := 0;
+tentativas := 1;
+for tentativas := 1 to total do
+begin
+preenche(v);
+if tem_coincidencia(v) then
+sucessos := sucessos + 1;
+end;
+writeln(sucessos / total: 0: 2);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Intercala
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Escreva um programa completo na linguagem Pascal capaz de realizar a intercalação de duas listas de valores reais lidos do&lt;br /&gt; teclado. O programa deve conter um procedimento chamado intercala. Seus parâmetros são três vetores (e seus tamanhos):&lt;br /&gt; Va, Vb e Vc. Todos são vetores de valores Reais, sendo que Va e Vb possuem uma quantidade arbitrária de valores lidos do&lt;br /&gt; teclado (o zero é o último valor de cada lista de entrada). O procedimento deve intercalar os valores de Va com os de Vb e&lt;br /&gt; colocar o resultado em Vc. A intercalação é uma operação de montagem de uma lista com elementos que foram escolhidos&lt;br /&gt; alternadamente de duas outras listas. Por exemplo, suponha que os valores do vetor Va recebidos como parâmetro sejam&lt;br /&gt; os seguintes:&lt;br /&gt; 1.0 2.0 3.0 4.0 5.0 6.0 7.0 0 &lt;ENTER&gt;&lt;br /&gt; Suponha também que os valores do vetor Vb sejam os seguintes:&lt;br /&gt; 11.0 12.0 13.0 8.0 0 &lt;ENTER&gt;&lt;br /&gt; O procedimento intercala deve retornar os seguintes valores por meio do vetor Vc a quem o ativar:&lt;br /&gt; 1.0 11.0 2.0 12.0 3.0 13.0 4.0 8.0 5.0 6.0 7.0&lt;br /&gt; Atenção: O procedimento intercala deve ser projetado para imprimir nenhum valor na saída padrão. Realize a impressão&lt;br /&gt; por meio de outro módulo.
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Ocorrências
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Escreva um programa completo na linguagem Pascal para ler uma sequência de inteiros positivos e imprimir quantas vezes cada valor aparece na sequência. A sequência contém no máximo 100 inteiros e termina quando o valor 0 é digitado. Veja um exemplo de execução:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    104 8 9 12 8 73 104 9 8 1001 0 &lt;ENTER&gt;&lt;br /&gt; A sequencia contem:&lt;br /&gt; 104: 2 ocorrencias&lt;br /&gt; 8: 3 ocorrencias&lt;br /&gt; 9: 2 ocorrencias&lt;br /&gt; 12: 1 ocorrencia&lt;br /&gt; 73: 1 ocorrencia&lt;br /&gt; 1001: 1 ocorrencia
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Sugestão: escreva a função abstrata busca( vet, tam, num ) que retorna o índice onde se encontra o valor num no vetor vet de tam elementos. Caso num não exista, a função retorna um código de erro (por exemplo, -1).
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Ocorrências - Pascal&quot;&gt;program Ocorrencias;
+</code></pre>
+<p>const
+Min = 1;
+Max = 250;
+type
+Vetor = array [Min..Max] of integer;
+var
+V, W: Vetor;
+TamV, TamW, Cont: integer;</p>
+<p>procedure ler_dados(var V: Vetor; var TamV: integer);
+var
+i: integer;
+begin
+i := 1;
+read(V[i]);
+while V[i] &lt;&gt; 0 do
+begin
+i := i + 1;
+read(V[i]);
+end;
+TamV := i - 1;
+end;</p>
+<p>procedure verificar_ocorrencias(var V, W: Vetor; TamV, TamW, Cont: integer);
+var
+i: integer;
+begin
+TamW := Cont;
+W[cont] := 1;
+i := cont + 1;
+while TamV &gt;= i do
+begin
+if V[cont] = V[i] then
+W[cont] := W[cont] + 1;
+i := i + 1;
+end;
+end;</p>
+<p>procedure tirar_repetidos(var V: vetor; var TamV: integer);
+var
+i: integer;
+begin
+i := TamV;
+while Cont &lt; i do
+begin
+if V[cont] = V[i] then
+begin
+V[i] := V[TamV];
+TamV := TamV - 1;
+end;
+i := i - 1;
+end;
+end;</p>
+<p>procedure Imprimir(var V, W: Vetor; TamV: integer);
+var
+i: integer;
+begin
+for i := 1 to TamV do
+if W[i] = 1 then
+writeln(V[i], &lsquo;: &lsquo;, W[i], ' ocorrencia&rsquo;)
+else
+writeln(V[i], &lsquo;: &lsquo;, W[i], ' ocorrencias&rsquo;);
+end;</p>
+<p>begin
+ler_dados(V, TamV);
+Cont := 1;
+writeln(&lsquo;A sequencia contem:');
+while Cont &lt;= TamV do
+begin
+verificar_ocorrencias(V, W, TamV, TamW, Cont);
+tirar_repetidos(V, TamV);
+cont := cont + 1;
+end;
+imprimir(V, W, TamV);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Matriz de Vandermonde
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    Fazer um programa em Pascal para ler dois números inteiros que representam, respectivamente, a quantidade m de linhas e n de colunas de uma matriz. Em seguida, devem ser lidos os m x n elementos da matriz, os quais são números reais, entrados pela ordem das linhas da matriz. Depois da leitura, o programa deve decidir e imprimir se ela é ou não uma Matriz de Vandermonde. Se for, imprimir Sim. Se não for, imprimir Nao.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Pesquise sobre Matriz de Vandermonde em:&lt;br /&gt; http://pt.wikipedia.org/wiki/Matriz_de_Vandermonde
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    De forma resumida, uma Matriz de Vandermonde é aquela que segue a forma geral abaixo:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    &lt;img loading=&quot;lazy&quot; class=&quot;alignnone size-medium wp-image-595&quot; src=&quot;https://i2.wp.com/35.198.27.57/wp-content/uploads/2019/01/vandermonde-300x131.png?resize=300%2C131&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;131&quot; data-recalc-dims=&quot;1&quot; /&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Veja um exemplo de execução do programa abaixo:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    5 4 &lt;ENTER&gt;&lt;br /&gt; 1 2 4 16 &lt;ENTER&gt;&lt;br /&gt; 1 3 9 81 &lt;ENTER&gt;&lt;br /&gt; 1 4 16 256 &lt;ENTER&gt;&lt;br /&gt; 1 5 25 625 &lt;ENTER&gt;&lt;br /&gt; 1 6 36 1296 &lt;ENTER&gt;&lt;br /&gt; Nao
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Veja outro exemplo:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    5 4 &lt;ENTER&gt;&lt;br /&gt; 1 2 4 8 &lt;ENTER&gt;&lt;br /&gt; 1 3 9 27 &lt;ENTER&gt;&lt;br /&gt; 1 4 16 64 &lt;ENTER&gt;&lt;br /&gt; 1 5 25 125 &lt;ENTER&gt;&lt;br /&gt; 1 6 36 216 &lt;ENTER&gt;&lt;br /&gt; Sim
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Matriz de Vandermonde - Pascal&quot;&gt;program matriz_vand;
+</code></pre>
+<p>const
+Min = 1;
+Max = 250;
+type
+Matriz = array [Min..Max, Min..Max] of integer;
+var
+M: Matriz;
+Coluna, Linha: integer;</p>
+<p>procedure Ler(var M: Matriz; coluna, linha: integer);
+var
+i, j: integer;
+begin
+for i := 1 to linha do
+for j := 1 to coluna do
+read(M[i, j]);
+end;</p>
+<p>function Vandermonde(var M: Matriz; Coluna, Linha: integer): boolean;
+var
+i, j: integer;
+begin
+Vandermonde := true;
+for i := 1 to linha do
+for j := coluna - 1 downto 1 do
+if M[i, 2] &lt;&gt; M[i, j + 1] div M[i, j] then
+Vandermonde := false;
+end;</p>
+<p>procedure Imprimir(var M: Matriz; Coluna, Linha: integer);
+var
+I, J: integer;
+begin
+for i := 1 to linha do
+begin
+for j := 1 to coluna do
+write(M[i, j], ' &lsquo;);
+writeln;
+end;
+end;</p>
+<p>begin
+read(Linha, Coluna);
+Ler(M, Coluna, Linha);
+if Vandermonde(M, Coluna, Linha) = true then
+writeln(&lsquo;Sim&rsquo;)
+else
+writeln(&lsquo;Nao&rsquo;);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Gera imagem
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Deslocamento de imagem
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    &amp;#8220;Esta lista possui um único exercício, o qual foi projetado para ser resolvido durante o período de uma semana. Ele adiciona caraterísticas ao Exercício 3 da Lista 5 e, por isso, sua solução pode ser facilitada se for uma modificação da solução anteriormente elaborada:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Tais características adicionais são muito semelhantes ao que consta no enunciado de problema no link abaixo, porém apenas um deslocamento horizontal e um vertical será permitido agora:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    http://br.spoj.com/problems/TV/
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Fazer um programa em Pascal para ler, da entrada padrão (i.e., teclado), os dados de uma imagem de formato padrão PGM (Portable Gray Map). A leitura dos elementos da matriz deverá ser feita linha-a-linha (não por coluna).
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    O formato da impressão do programa, sempre na saída padrão (i.e., monitor de vídeo), deverá ser exatamente o mesmo de uma imagem codificada no padrão PGM (Portable Gray Map), o qual terá m+3 linhas. A primeira linha só deverá possuir dois caracteres: P2. A segunda linha deverá ter dois inteiros: a quantidade de colunas da matriz seguido da quantidade de linhas. A terceira linha possui apenas o valor da constante max, a qual representa o valor da máxima intensidade de luz em uma análoga escala de cinza cujos valores variam de 0 a max. Veja um exemplo de arquivo PGM comn = 4 colunas, m = 7 linhas e max = 12.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    cat texto\_imagem\_1.pgm&lt;br /&gt; P2&lt;br /&gt; 4 3&lt;br /&gt; 12&lt;br /&gt; 6 7 8 5&lt;br /&gt; 10 11 12 9&lt;br /&gt; 2 3 4 1
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Os deslocamentos horizontal e vertical da imagem devem ser lidos também da entrada padrão por meio de dois números inteiros. O primeiro valor representa o deslocamento na direção horizontal (valor positivo representa deslocamento para a direita e valor negativo para a esquerda). O segundo valor representa o deslocamento da direção vertical (valor positivo&lt;br /&gt; para cima e valor negativo para baixo). Esses dois valores constituem o final da leitura de dados do programa. Veja um exemplo de arquivo com dados de deslocamento horizontal de 3 pontos para a esquerda e vertical de 2 pontos para cima.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    cat desloc_h_-3_v_2.txt&lt;br /&gt; -3 2
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Após a leitura, o programa deve efetuar ambos os deslocamentos sobre a matriz da imagem e, em seguida, imprimir a imagem completa na saída padrão no formato PGM. Por exemplo, se considerarmos os dois arquivos acima, o programa deverá imprimir os seguintes dados na tela.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    cat texto_imagem_1.pgm desloc_h_-3_v_2.txt | ./sol_q1_lista6 | less
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    P2&lt;br /&gt; 4 3&lt;br /&gt; 12&lt;br /&gt; 1 2 3 4&lt;br /&gt; 5 6 7 8&lt;br /&gt; 9 10 11 12
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Tal como já foi explicado anteriormente, também é possível visualizar a imagem PGM gerada pelo programa usando o&lt;br /&gt; utilitário display. Tente copiar a imagem PGM que está no link:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    http://www.inf.ufpr.br/cursos/ci055/imagem_Algoritmos.pgm
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Execute o utilitário display para mostrar a imagem graficamente, assim:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    display imagem\_Algoritmos.pgm &amp;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Veja na Figura 1 como a imagem aparece na sua tela:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Figura 1: Imagem sem deslocamento apresentada com o utilitário display.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Crie também um exemplo de arquivo com dados de deslocamento horizontal de 48 pontos para a direita e vertical de 23 pontos para baixo. Veja como ele fica ao ser listado:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    cat desloc_h_48_v_-23.txt&lt;br /&gt; 48 -23
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Agora, provoque a entrada de dados por meio do utilitário cat aplicado, na ordem de entrada, aos dois arquivos. Canalise a saída do cat como entrada para o programa construído e, em seguida, canalise a saída para a execução do utilitário display por último para mostrar a imagem, assim:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    cat imagem_Algoritmos.pgm desloc_h_48_v_-23.txt | ./sol_q1_lista6 | display &amp;
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Veja na Figura 2 como a imagem aparece na sua tela:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Figura 2: Imagem sem deslocamento apresentada com o utilitário display.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Os arquivos citados nos exemplos acima podem ser obtidos nos links abaixo:
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    http://www.inf.ufpr.br/cursos/ci055/imagem_Algoritmos.pgm&lt;br /&gt; http://www.inf.ufpr.br/cursos/ci055/desloc_h_48_v_-23.txt&lt;br /&gt; http://www.inf.ufpr.br/cursos/ci055/texto_imagem_1.pgm&lt;br /&gt; http://www.inf.ufpr.br/cursos/ci055/desloc_h_-3_v_2.txt
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Uma possível composição do corpo de comandos do Programa Principal poderia ser o seguinte (note que a execução dos dois comandos write foi inibida por meio de comentário de código):
+                  &lt;/p&gt;
+                  
+                  &lt;pre class=&quot;lang:delphi decode:true&quot; title=&quot;Exemplo Desloca Imagem&quot;&gt;begin
+</code></pre>
+<p>le_matriz(mat, m, n, max);
+(* write(’Entre com o deslocamento Horizontal da imagem (negativo se for para a esquerda): ’); *)
+read(deltah);
+(* write(’Entre com o deslocamento Vertical da imagem (negativo se for para baixo): ’); *)
+read(deltav);
+desloca_matriz(mat, m, n, deltah, deltav);
+imprime_matriz(mat, m, n, max);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    Finalmente, como sugestão, tente usar o software gimp para criar imagens e salvar em formato PGM para testar seu programa. Atenção ao salvar o arquivo para que a opção ASCII seja adotada (não utilize a opção raw).&amp;#8221;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;pre class=&quot;lang:delphi decode:true &quot; title=&quot;Desloca imagem - Pascal&quot;&gt;Program desloca_imagem;
+</code></pre>
+<p>const 
+max = 1000;
+min = 1;
+type
+matriz = array [min..max,min..max] of integer;
+vetor = array [min..max] of integer;
+var
+m:matriz;
+img:string[2];
+c,l,i,maxi,deltav,deltah: integer;
+h,v:vetor;
+procedure le_matriz(var m:matriz; var c,l,maxi:integer);
+var i,j:integer;
+begin
+readln(img);
+readln(c,l);
+readln(maxi);
+for i:=1 to l do
+begin
+for j:=1 to c do
+begin
+read(m[i,j]);
+if m[i,j]&gt;maxi then
+m[i,j]:=maxi;
+end;
+end;
+end;
+procedure preenche_vetores_indices(var h,v:vetor; c,l:integer);
+var i,j:integer;
+begin
+for i:=1 to c do
+begin
+h[i]:=i;
+end;
+for j:=1 to l do
+begin
+v[j]:=j;
+end;
+end;
+procedure exibe_matriz(img:string;var m:matriz;h,v:vetor; c,l,maxi:integer);
+var i,j:integer;
+begin
+writeln(img);
+writeln(c,&rsquo; &lsquo;,l);
+writeln(maxi);
+for i:=1 to l do
+begin
+for j:= 2 to c do
+begin
+write(m[v[i],h[j-1]],&rsquo; &lsquo;);
+end;
+write(m[v[i],h[j]]);
+writeln;
+end;
+end;
+procedure desloca_h_v(var h,v:vetor; c,l,deltah,deltav:integer);
+var i:integer;
+procedure troca_h_n(var h:vetor; j,deltah:integer;c:integer);
+begin
+if (j+deltah)&lt;1 then
+h[(j+deltah)+c]:=j
+else
+h[deltah+j]:=j;
+end;
+procedure troca_h(var h:vetor; j,deltah:integer;c:integer);
+begin
+if (j-deltah)&lt;1 then
+h[j]:=(j-deltah)+c
+else
+h[j]:=j-deltah;
+end;
+procedure troca_v_n(var v:vetor; j,deltav:integer;l:integer);
+begin
+if (j-deltav)&gt;l then
+v[(j-deltav)-l]:=j
+else
+v[j-deltav]:=j;
+end;
+procedure troca_v(var v:vetor; j,deltav:integer;l:integer);
+begin
+if (j-deltav)&lt;1 then
+v[(j-deltav)+l]:=j
+else
+v[j-deltav]:=j;
+end;
+begin
+(<em>Deslocamento Horizontal</em>)
+if deltah&gt;0 then
+for i:=1 to c do
+troca_h(h,i,deltah,c)
+else
+begin
+if deltah&lt;0 then
+for i:=1 to c do
+troca_h_n(h,i,deltah,c);
+end;
+(<em>Deslocamento Vertical</em>)
+if deltav&gt;0 then
+for i:=1 to l do
+troca_v(v,i,deltav,l)
+else
+begin
+if deltav&lt;0 then
+for i:=1 to l do
+troca_v_n(v,i,deltav,l);
+end;
+end;
+begin
+le_matriz(m,c,l,maxi);
+(<em>DELTAH = Deslocamento HORIZONTAL; DELTAV = Desclocamento Vertical</em>)
+read(deltah);
+read(deltav);
+preenche_vetores_indices(h,v,c,l);
+desloca_h_v(h,v,c,l,deltah,deltav);
+exibe_matriz(img,m,h,v,c,l,maxi);
+end.<!-- raw HTML omitted --></p>
+<pre><code>                  &lt;p&gt;
+                    &amp;nbsp;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;h1&gt;
+              Sinuca
+            &lt;/h1&gt;
+            
+            &lt;div class=&quot;su-accordion su-u-trim&quot;&gt;
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Enunciado
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  &lt;p&gt;
+                    &amp;#8220;Esta lista possui um único exercício, o qual foi projetado para ser resolvido durante o período de uma semana. Ele&lt;br /&gt; adiciona caraterísticas aos exercícios já resolvidos em sala de aula que adotam reduções do tamanho da memória da&lt;br /&gt; estrutura de dados quando o objeto principal é uma matriz espersa. Veja o exemplo de código que decide se nenhuma&lt;br /&gt; das n Torres de um tabuleiro de xadrez de n por n ataca a outra. Nesse programa fonte, o tabuleiro que tem n X n casas&lt;br /&gt; é uma matriz esparsa, a qual foi representada na forma de um vetor de inteiros onde a dezenda de cada inteiro guarda a&lt;br /&gt; linha onde há uma Torre e a unidade guarda a coluna.&lt;br /&gt; http://www.inf.ufpr.br/cursos/ci055/ntorres.pas&lt;br /&gt; Agora, neste exercício, além de lidar com o mesmo conceito de matrizes esparsas, os primeiros passos de simulação&lt;br /&gt; computacional serão dados por meio da animação aproximada do movimento da bola branca em uma mesa de sinuca.&lt;br /&gt; Para tanto, vamos precisar de alguns conceitos da Geometria, da Trigonometria e, claro, da Física. Todavia, atenção:&lt;br /&gt; nesta simulação, a noção de tempo não é fundamentalmente o da Física mas, sim, o tempo discreto de um ciclo de&lt;br /&gt; re-cálculo da posição da bola branca. Isso tem implicações sobre o retrato da mesa em cada um dos quadros da simulação,&lt;br /&gt; os quais não são função do tempo Físico.&lt;br /&gt; Adicionalmente, neste mundo ideal, não há colisão entre bolas na primeira versão do programa. Além disso, apenas a&lt;br /&gt; bola branca se movimenta e colide contra as laterais da mesa, seguindo então uma trajetória de um ângulo reflexivo de&lt;br /&gt; acordo com as leis de Física.&lt;br /&gt; Fazer um programa em Pascal para ler, da entrada padrão (i.e., teclado), os dados de dimensões de uma mesa de&lt;br /&gt; sinuca, a quantidade de bolas (incluindo a bola branca) e a localização linha e coluna de cada bola (iniciando com a da&lt;br /&gt; bola branca).&lt;br /&gt; O formato da impressão do programa, sempre na saída padrão (i.e., monitor de vídeo), deverá ser semelhante ao&lt;br /&gt; de uma mesa de sinuca disposta com a Largura na orientação vertical e o Comprimento na horizontal. Incluindo as&lt;br /&gt; bordas, tanto para a leitura como para a impressão, a Largura (em Linhas) e o Comprimento (em Colunas) são limitadas&lt;br /&gt; a 40 unidades da tela (chamadas aqui de pixels). A máxima quantidade de bolas é de 9.&lt;br /&gt; Além desses dados, mais dois são lidos ainda: a norma do vetor velocidade inicial (em pixels por segundo) e o&lt;br /&gt; ângulo de movimento da bola branca (em graus). As medidas de ângulo são de valores reais maiores ou iguais a 0 (zero)&lt;br /&gt; ou menores do que 360. A orientação positiva do ângulo é no sentido anti horário (da Trigonometria) e com seu vértice&lt;br /&gt; de medição centrado na bola.
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Veja uma forma aproximada da saída padrão para o exemplo acima, em que a mesa de sinuca tem Largura = 10 pixels,&lt;br /&gt; Comprimento = 40 pixels e a quantidade de 7 bolas.&lt;br /&gt; Após a leitura, o programa deve dar início ao procedimento de simulação. Tente executar uma solução já implementada&lt;br /&gt; para ver um comportamento aproximado do seu programa. Primeiro, baixe os seguintes arquivos para o seu diretório de&lt;br /&gt; trabalho:&lt;br /&gt; http://www.inf.ufpr.br/cursos/ci055/mesasinuca&lt;br /&gt; http://www.inf.ufpr.br/cursos/ci055/dadossinuca.txt&lt;br /&gt; O arquivo mesasinuca não é um programa fonte mas apenas um código executável em Linux. Por isso, mude a&lt;br /&gt; permissão do arquivo mesasinuca para ele ficar executável e, em seguida, basta executar assim:&lt;br /&gt; chmod u+rx mesasinuca&lt;br /&gt; ./mesasinuca &lt; dadossinuca.txt&lt;br /&gt; O arquivo dadossinuca.txt tem todos os dados de entrada. Para o exemplo anterior, veja que ele contém:&lt;br /&gt; cat dadossinuca.txt&lt;br /&gt; 10 40 7 5 7 3 30 4 31 5 32 6 33 7 31 8 27 2 325&lt;br /&gt; Se o programa mesasinuca for executado sem a entrada do arquivo, o aspecto da saída/entrada padrão será:&lt;br /&gt; ./mesasinuca&lt;br /&gt; Entre com a Largura da mesa em pixels (no maximo 40): 10&lt;br /&gt; Entre com o Comprimento da mesa em pixels (no maximo 40): 40&lt;br /&gt; Entre com a quantidade de Bolas da mesa (no maximo 9): 7&lt;br /&gt; Entre com a posicao da Largura da Bola Branca: 5&lt;br /&gt; Entre com a posicao do Comprimento da Bola Branca: 7&lt;br /&gt; Entre com a posicao da Largura da Bola 2: 3&lt;br /&gt; Entre com a posicao do Comprimento da Bola 2: 30&lt;br /&gt; Entre com a posicao da Largura da Bola 3: 4&lt;br /&gt; Entre com a posicao do Comprimento da Bola 3: 31&lt;br /&gt; Entre com a posicao da Largura da Bola 4: 5&lt;br /&gt; Entre com a posicao do Comprimento da Bola 4: 32&lt;br /&gt; Entre com a posicao da Largura da Bola 5: 6&lt;br /&gt; Entre com a posicao do Comprimento da Bola 5: 33&lt;br /&gt; Entre com a posicao da Largura da Bola 6: 7&lt;br /&gt; Entre com a posicao do Comprimento da Bola 6: 31&lt;br /&gt; Entre com a posicao da Largura da Bola 7: 8&lt;br /&gt; Entre com a posicao do Comprimento da Bola 7: 27&lt;br /&gt; Entre com a Velocidade Inicial da Bola Branca em pixels/s (de 0.01 a 3.0): 2&lt;br /&gt; Entre com o Angulo Inicial da Bola Branca em graus (de 0 a 359): 325&lt;br /&gt; Crie outros exemplos de entrada para inspecionar o comportamento aproximado do programa. Nesta primeira versão,&lt;br /&gt; não se preocupe tanto com as leis da Física para dar realismo à queda de velocidade da bola branca ao longo do tempo.&lt;br /&gt; Qualquer tipo de frenagem será boa. Para facilitar a sua solução, use os seguintes recursos:&lt;br /&gt; Os procedimentos de leitura e impressão aproximados do problema das n-Torres;&lt;br /&gt; As funções trigonométricas sin (seno) e cos (coseno), mas cuidado pois os argumentos precisam ser passados em radianos&lt;br /&gt; quando a entrada de dados deste programa deve ser fornecida em graus;&lt;br /&gt; Use a biblioteca do fpc chamada de crt pois com ela você poderá usar as funções clrscr (limpa a tela), delay (que retarda&lt;br /&gt; o processamento em um certo tempo oassado em milisegundos).
+                  &lt;/p&gt;
+                  
+                  &lt;p&gt;
+                    Uma possível composição do corpo de comandos do Programa Principal poderia ser o seguinte:&lt;br /&gt; [language=Pascal] program mesa_de_sinuca;&lt;br /&gt; uses crt;&lt;br /&gt; const&lt;br /&gt; maxbolas = 9;&lt;br /&gt; PI = 3.14159265;&lt;br /&gt; type&lt;br /&gt; vetor = array[1..maxbolas] of real;&lt;br /&gt; var&lt;br /&gt; L, C, B: integer;&lt;br /&gt; Vel, Ang: real;&lt;br /&gt; mesa: vetor;&lt;br /&gt; &amp;#8230;&lt;br /&gt; &amp;#8230;&lt;br /&gt; begin&lt;br /&gt; write(’Entre com a Largura da mesa em pixels (no maximo 40): ’);&lt;br /&gt; read(L);&lt;br /&gt; write(’Entre com o Comprimento da mesa em pixels (no maximo 40): ’);&lt;br /&gt; read(C);&lt;br /&gt; write(’Entre com a quantidade de Bolas da mesa (no maximo 9): ’);&lt;br /&gt; read(B);&lt;br /&gt; le_posicao_das_bolas(mesa, L, C, B);&lt;br /&gt; write(’Entre com a Velocidade Inicial da Bola Branca em pixels/s (de 0.01 a 3.0): ’);&lt;br /&gt; read(Vel);&lt;br /&gt; write(’Entre com o Angulo Inicial da Bola Branca em graus (de 0 a 359): ’);&lt;br /&gt; read(Ang);&lt;br /&gt; clrscr;&lt;br /&gt; imprime_mesa(mesa, L, C, B);&lt;br /&gt; simula(mesa, L, C, B, Vel, Ang);&lt;br /&gt; end.&lt;br /&gt; Finalmente, se houver tempo, como sugestão, tente inventar uma forma de colisão entre bolas para que mais de uma delas&lt;br /&gt; esteja em movimento em um dado instante. Talvez seja bom usar a função random para gerar algum tipo de impressão&lt;br /&gt; de dispersão das bolas nas colisões. Tente também alterar a representação da matriz esparsa para receber mais do que 9&lt;br /&gt; bolas na mesa.&amp;#8221;
+                  &lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em Pascal
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+              
+              &lt;div class=&quot;su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed&quot; data-scroll-offset=&quot;0&quot;&gt;
+                &lt;div class=&quot;su-spoiler-title&quot; tabindex=&quot;0&quot; role=&quot;button&quot;&gt;
+                  &lt;span class=&quot;su-spoiler-icon&quot;&gt;&lt;/span&gt;Solução em C
+                &lt;/div&gt;
+                
+                &lt;div class=&quot;su-spoiler-content su-u-clearfix su-u-trim&quot;&gt;
+                  Hidden content
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;</code></pre>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2020</span>
+            
+                <span><a href="https://rogawa.github.io">Rui Ogawa</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            <span> <a href="https://rogawa.github.io/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>Powered by <a href="http://gohugo.io">Hugo</a></span>
+            <span>Made with &#10084; by <a href="https://github.com/rhazdon">Djordje Atlialp</a></span>
+        </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+<script type="text/javascript" src="https://rogawa.github.io/bundle.min.dc716e9092c9820b77f96da294d0120aeeb189b5bcea9752309ebea27fd53bbe6b13cffb2aca8ecf32525647ceb7001f76091de4199ac5a3caa432c070247f5b.js" integrity="sha512-3HFukJLJggt3&#43;W2ilNASCu6xibW86pdSMJ6&#43;on/VO75rE8/7KsqOzzJSVkfOtwAfdgkd5BmaxaPKpDLAcCR/Ww=="></script>
+
+
+
+    </body>
+</html>

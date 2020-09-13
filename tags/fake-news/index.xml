@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fake news on Rui Ogawa</title>
+    <link>https://rogawa.github.io/tags/fake-news/</link>
+    <description>Recent content in fake news on Rui Ogawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 27 Oct 2018 13:37:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogawa.github.io/tags/fake-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automação a serviço de fake news</title>
+      <link>https://rogawa.github.io/automacao-a-servico-de-fake-news/</link>
+      <pubDate>Sat, 27 Oct 2018 13:37:45 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/automacao-a-servico-de-fake-news/</guid>
+      <description>O intervalo entre envios de mensagens de uma mesma série eram mínimos: entre 1 e 20 segundos. Segundo o relatório, boa parte desses perfis não trazia nome próprio nem foto pessoal.
+ É impressionante como uma ferramenta concebida para facilitar a troca rápida de mensagens se tornou a principal arma para propagação de notícias falsas. Creio que o TSE subestimou em muito, o risco que o pleito poderia correr, considerando que a plataforma não possui quaisquer mecanismos de verificação de autenticidade das notícias veiculadas.</description>
+    </item>
+    
+    <item>
+      <title>Uma campanha centrada no Whatsapp e nas fake news</title>
+      <link>https://rogawa.github.io/uma-campanha-centrada-no-whatsapp-e-nas-fake-news/</link>
+      <pubDate>Sat, 27 Oct 2018 03:19:02 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/uma-campanha-centrada-no-whatsapp-e-nas-fake-news/</guid>
+      <description>Eu até que recebo poucas mensagens encaminhadas pelo Whatsapp. Dessas, que você percebe logo de cara que se trata de fake news. A maioria, recebo do meu pai. De quem ele recebe? Bem, talvez de um tio meu do PR, ou de outro de SP, ou de um primo de SC. É difícil, praticamente impossível determinar a origem das mensagens. A maioria tem tom ameaçador, normalmente contra o PT.</description>
+    </item>
+    
+  </channel>
+</rss>
