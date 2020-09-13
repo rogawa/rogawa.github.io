@@ -858,9 +858,11 @@ Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisa
   AQUI
 </a>
  para que um link abra sempre em uma nova aba ou janela. Crie um diretório <code>layouts/_default/_markup/render-link.html</code> e coloque o seguinte conteúdo nele.</p>
-<pre><code>&lt;a href=&quot;{{ .Destination | safeURL }}&quot;{{ with .Title}} title=&quot;{{ . }}&quot;{{ end }}{{ if strings.HasPrefix .Destination &quot;http&quot; }} target=&quot;_blank&quot;{{ end }}&gt;
+<pre><code>```go {linenos=table,hl_lines=[8,&quot;15-17&quot;],linenostart=199}
+&lt;a href=&quot;{{ .Destination | safeURL }}&quot;{{ with .Title}} title=&quot;{{ . }}&quot;{{ end }}{{ if strings.HasPrefix .Destination &quot;http&quot; }} target=&quot;_blank&quot;{{ end }}&gt;
 {{ .Text }}
 &lt;/a&gt;
+```
 </code></pre>
 ]]></content>
         </item>
