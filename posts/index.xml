@@ -1288,8 +1288,7 @@ Having nearly instant feedback enables you to have your creativity flow without 
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             
             <guid>https://rogawa.github.io/posts/1/01/01/big-bang-do-amor/</guid>
-            <description>Que o espaço se dobre E a distância, nula Que o tempo se comprima E o momento, agora Que a saudade que me consome Alimente meu coração que chora E a explosão de bem-querer Transforme a tua ausência Em amor infinito</description>
-            <content type="html"><![CDATA[<p>Que o espaço se dobre
+            <description>Que o espaço se dobre
 E a distância, nula
 Que o tempo se comprima
 E o momento, agora
@@ -1297,7 +1296,16 @@ Que a saudade que me consome
 Alimente meu coração que chora
 E a explosão de bem-querer
 Transforme a tua ausência
-Em amor infinito</p>
+Em amor infinito</description>
+            <content type="html"><![CDATA[<p>Que o espaço se dobre</p>
+<p>E a distância, nula</p>
+<p>Que o tempo se comprima</p>
+<p>E o momento, agora</p>
+<p>Que a saudade que me consome</p>
+<p>Alimente meu coração que chora</p>
+<p>E a explosão de bem-querer</p>
+<p>Transforme a tua ausência</p>
+<p>Em amor infinito</p>
 ]]></content>
         </item>
         
