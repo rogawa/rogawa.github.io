@@ -833,9 +833,8 @@ $ vi themes/zafta/layouts/_default/single.html
             
             <guid>https://rogawa.github.io/posts/2020/05/migrando-do-wordpress-para-hugo-e-hospedando-nas-githubpages/</guid>
             <description>Eu realmente preciso de um blog dinâmico? Eu me associei ao Wordpress.com  em janeiro de 2007, data provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre Software Livre  .
-Para que um link abra sempre em uma nova aba ou janela, crie um diretório layouts/_default/_markup/render-link.html e coloque o seguinte conteúdo nele. ▾ / ▾ images/ logo.png
-should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.</description>
+Para que um link abra sempre em uma nova aba ou janela, crie um diretório layouts/_default/_markup/render-link.html e coloque o seguinte conteúdo nele.
+&amp;lt;a href=&amp;quot;{{ .Destination | safeURL }}&amp;quot;{{ with .Title}} title=&amp;quot;{{ . }}&amp;quot;{{ end }}{{ if strings.</description>
             <content type="html"><![CDATA[<h2 id="eu-realmente-preciso-de-um-blog-dinâmico">Eu realmente preciso de um blog dinâmico?</h2>
 <p>Eu me associei ao <a href="https://www.wordpress.com" target="_blank">
   Wordpress.com
@@ -844,10 +843,11 @@ should become
   Software Livre
 </a>
 .</p>
-<p>Para que um link abra sempre em uma nova aba ou janela, crie um diretório <code>layouts/_default/_markup/render-link.html</code> e coloque o seguinte conteúdo nele.
-▾ <!-- raw HTML omitted -->/
-▾ images/
-logo.png</p>
+<p>Para que um link abra sempre em uma nova aba ou janela, crie um diretório <code>layouts/_default/_markup/render-link.html</code> e coloque o seguinte conteúdo nele.</p>
+<pre><code>&lt;a href=&quot;{{ .Destination | safeURL }}&quot;{{ with .Title}} title=&quot;{{ . }}&quot;{{ end }}{{ if strings.HasPrefix .Destination &quot;http&quot; }} target=&quot;_blank&quot;{{ end }}&gt;
+</code></pre>
+<p>{{ .Text }}
+<!-- raw HTML omitted --></p>
 <p>should become</p>
 <pre><code>▾ &lt;root&gt;/
     ▾ static/
