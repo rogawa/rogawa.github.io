@@ -832,13 +832,13 @@ $ vi themes/zafta/layouts/_default/single.html
             <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
             
             <guid>https://rogawa.github.io/posts/2020/05/migrando-do-wordpress-para-hugo-e-hospedando-nas-githubpages/</guid>
-            <description>Eu realmente preciso de um blog dinâmico? Eu me associei ao Wordpress.com  em janeiro de 2007, data provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre Software Livre  .
+            <description>Eu realmente preciso de um blog dinâmico? Eu me associei ao Wordpress.com  em janeiro de 2007, ano provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre Software Livre  .
 Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisas que podiam ser feitas de forma muito mais simples e gratuita. Comecei a pesquisar sobre plataformas estáticas para blog e encontrei o Hugo  .</description>
             <content type="html"><![CDATA[<h2 id="eu-realmente-preciso-de-um-blog-dinâmico">Eu realmente preciso de um blog dinâmico?</h2>
 <p>Eu me associei ao <a href="https://www.wordpress.com" target="_blank">
   Wordpress.com
 </a>
- em janeiro de 2007, data provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre <a href="https://pt.wikipedia.org/wiki/Software_livre" target="_blank">
+ em janeiro de 2007, ano provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre <a href="https://pt.wikipedia.org/wiki/Software_livre" target="_blank">
   Software Livre
 </a>
 .</p>
@@ -860,7 +860,10 @@ Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisa
  para que um link abra sempre em uma nova aba ou janela. Crie um diretório <code>layouts/_default/_markup/render-link.html</code> e coloque o seguinte conteúdo nele.</p>
 <pre><code><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Destination | safeURL }}&#34;</span><span style="color:#960050;background-color:#1e0010">{{</span> <span style="color:#a6e22e">with</span> <span style="color:#960050;background-color:#1e0010">.</span><span style="color:#a6e22e">Title</span><span style="color:#960050;background-color:#1e0010">}}</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ . }}&#34;</span><span style="color:#960050;background-color:#1e0010">{{</span> <span style="color:#a6e22e">end</span> <span style="color:#960050;background-color:#1e0010">}}{{</span> <span style="color:#a6e22e">if</span> <span style="color:#a6e22e">strings</span><span style="color:#960050;background-color:#1e0010">.</span><span style="color:#a6e22e">HasPrefix</span> <span style="color:#960050;background-color:#1e0010">.</span><span style="color:#a6e22e">Destination</span> <span style="color:#960050;background-color:#1e0010">&#34;</span><span style="color:#a6e22e">http</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span><span style="color:#960050;background-color:#1e0010">{{</span> <span style="color:#a6e22e">end</span> <span style="color:#960050;background-color:#1e0010">}}</span>&gt;
     {{ .Text }}
-    &lt;/<span style="color:#f92672">a</span>&gt;</code></pre></div></code></pre>
+    &lt;/<span style="color:#f92672">a</span>&gt;
+
+&lt;<span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;twitter-tweet&#34;</span>&gt;&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;pt&#34;</span> <span style="color:#a6e22e">dir</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;ltr&#34;</span>&gt;O espaço-tempo é constantemente distorcido de acordo com a gravidade, aqui, com conotação de grave. Se o que antes era, agora pode não mais o ser.&lt;/<span style="color:#f92672">p</span>&gt;&amp;mdash; Rui Ogawa (@rogawa) &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://twitter.com/rogawa/status/1304921523971555328?ref_src=twsrc%5Etfw&#34;</span>&gt;September 12, 2020&lt;/<span style="color:#f92672">a</span>&gt;&lt;/<span style="color:#f92672">blockquote</span>&gt;
+&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">async</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://platform.twitter.com/widgets.js&#34;</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;utf-8&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;</code></pre></div></code></pre>
 ]]></content>
         </item>
         
