@@ -833,14 +833,20 @@ $ vi themes/zafta/layouts/_default/single.html
             
             <guid>https://rogawa.github.io/posts/2020/05/migrando-do-wordpress-para-hugo-e-hospedando-nas-githubpages/</guid>
             <description>Eu realmente preciso de um blog dinâmico? Eu me associei ao Wordpress.com  em janeiro de 2007, data provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre Software Livre  .
-Para que um link abra sempre em uma nova aba ou janela, crie um diretório layouts/_default/_markup/render-link.html e coloque o seguinte conteúdo nele.
-&amp;lt;a href=&amp;quot;{{ .Destination | safeURL }}&amp;quot;{{ with .Title}} title=&amp;quot;{{ . }}&amp;quot;{{ end }}{{ if strings.</description>
+Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisas que podiam ser feitas de forma muito mais simples e gratuita. Comecei a pesquisar sobre plataformas estáticas para blog e encontrei o Hugo  .</description>
             <content type="html"><![CDATA[<h2 id="eu-realmente-preciso-de-um-blog-dinâmico">Eu realmente preciso de um blog dinâmico?</h2>
 <p>Eu me associei ao <a href="https://www.wordpress.com" target="_blank">
   Wordpress.com
 </a>
  em janeiro de 2007, data provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre <a href="https://pt.wikipedia.org/wiki/Software_livre" target="_blank">
   Software Livre
+</a>
+.</p>
+<p>Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisas que podiam ser feitas de forma muito mais simples e gratuita. Comecei a pesquisar sobre plataformas estáticas para blog e encontrei o <a href="https://gohugo.io/" target="_blank">
+  Hugo
+</a>
+. A questão da plataforma estava resolvida, mas onde eu iria hospedar? A resposta eu encontrei ali mesmo, vendo que era possível <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank">
+  hospedar o Hugo nas Github Pages
 </a>
 .</p>
 <p>Para que um link abra sempre em uma nova aba ou janela, crie um diretório <code>layouts/_default/_markup/render-link.html</code> e coloque o seguinte conteúdo nele.</p>
