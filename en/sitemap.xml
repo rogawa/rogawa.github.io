@@ -113,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://rogawa.github.io/about/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rogawa.github.io/series/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -125,11 +130,6 @@
                 hreflang="en"
                 href="https://rogawa.github.io/series/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/about/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
