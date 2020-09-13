@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rogawa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,6 +31,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Do I really need a dynamic blog? Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>O pensamento liberal</title>
+      <link>https://rogawa.github.io/posts/2020/09/o-pensamento-liberal/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/posts/2020/09/o-pensamento-liberal/</guid>
+      <description>O pensamento liberal impede-nos de ver quais são as forças que nos impelem a continuar defendendo-o.</description>
     </item>
     
     <item>

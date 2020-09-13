@@ -23,6 +23,86 @@
   </url>
   
   <url>
+    <loc>https://rogawa.github.io/categories/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/liberal/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/o-pensamento-liberal/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pensamento/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/pol%C3%ADtica/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rogawa.github.io/about/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -38,36 +118,6 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/</loc>
-    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://rogawa.github.io/series/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -79,21 +129,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rogawa.github.io/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/categories/</loc>
-    <lastmod>2018-11-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/categories/"
                 />
   </url>
   
@@ -120,21 +155,6 @@
   <url>
     <loc>https://rogawa.github.io/tags/nbr-6023/</loc>
     <lastmod>2018-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/tags/</loc>
-    <lastmod>2018-11-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/tags/"
-                />
   </url>
   
   <url>
