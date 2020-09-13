@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rogawa.github.io/posts/2020/05/first-post/</loc>
+    <loc>https://rogawa.github.io/posts/2020/05/28/first-post/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rogawa.github.io/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                href="https://rogawa.github.io/fr/posts/2014/09/28/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rogawa.github.io/posts/2020/05/first-post/"
+                href="https://rogawa.github.io/posts/2020/05/28/first-post/"
                 />
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/2020/05/migrando-do-wordpress-para-hugo-e-hospedando-nas-githubpages/</loc>
+    <loc>https://rogawa.github.io/posts/2020/05/28/migrando-do-wordpress-para-hugo-e-hospedando-nas-githubpages/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/2020/09/o-pensamento-liberal/</loc>
+    <loc>https://rogawa.github.io/posts/2020/09/13/o-pensamento-liberal/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/2018/11/como-referenciar-m%C3%ADdias-sociais/</loc>
+    <loc>https://rogawa.github.io/posts/2018/11/24/como-referenciar-m%C3%ADdias-sociais/</loc>
     <lastmod>2018-11-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,22 +158,22 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/2018/11/bloqueados/</loc>
+    <loc>https://rogawa.github.io/posts/2018/11/02/bloqueados/</loc>
     <lastmod>2018-11-02T22:32:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/2014/04/hugo-template-primer/</loc>
+    <loc>https://rogawa.github.io/posts/2014/04/02/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rogawa.github.io/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                href="https://rogawa.github.io/fr/posts/2014/04/02/introduction-aux-mod%C3%A8les-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rogawa.github.io/posts/2014/04/hugo-template-primer/"
+                href="https://rogawa.github.io/posts/2014/04/02/hugo-template-primer/"
                 />
   </url>
   
@@ -188,17 +188,17 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/2014/04/getting-started-with-hugo/</loc>
+    <loc>https://rogawa.github.io/posts/2014/04/02/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://rogawa.github.io/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
+                href="https://rogawa.github.io/fr/posts/2014/04/02/d%C3%A9buter-avec-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rogawa.github.io/posts/2014/04/getting-started-with-hugo/"
+                href="https://rogawa.github.io/posts/2014/04/02/getting-started-with-hugo/"
                 />
   </url>
   
