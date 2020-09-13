@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Volumes/Dados/Users/ruiogawa/Library/Mobile Documents/com~apple~CloudDocs/blog-rogawa",
+	"sourceRoot": "/Users/ruiogawa/Library/Mobile Documents/com~apple~CloudDocs/blog-rogawa",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
