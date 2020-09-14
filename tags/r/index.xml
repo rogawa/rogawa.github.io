@@ -19,7 +19,7 @@
       
       <guid>https://rogawa.github.io/posts/2016/11/14/estat%C3%ADstica-descritiva-com-r/</guid>
       <description>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.
-  Animal Sounds     Cat Meow   Dog Woof   Cricket Chirp    </description>
+  Tag Name Purpose Sample     v Protocol version v=DMARC1   pct Percentage of messages subjected to filtering pct=20   ruf Reporting URI for forensic reports ruf=mailto:authfail@example.com   rua Reporting URI of aggregate reports rua=mailto:aggrep@example.com   p Policy for organizational domain p=quarantine   sp Policy for subdomains sp=reject   adkim Alignment mode for DKIM adkim=s/adkim=r   aspf Alignment mod     </description>
     </item>
     
   </channel>
