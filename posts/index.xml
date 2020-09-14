@@ -913,23 +913,14 @@ Esse é o paradoxo. De dentro desse pensamento, ele acredita que é racional e c
             <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
             
             <guid>https://rogawa.github.io/empregado-e-patrao/</guid>
-            <description> Tem empregado bobinho
-  defendendo patrão,
-  achando que ele será bonzinho na
-  “livre negociação”
- </description>
-            <content type="html"><![CDATA[<blockquote>
-<p>Tem empregado bobinho</p>
-</blockquote>
-<blockquote>
+            <description>Tem empregado bobinho
+defendendo patrão,
+achando que ele será bonzinho na
+&amp;ldquo;livre negociação&amp;rdquo;</description>
+            <content type="html"><![CDATA[<p>Tem empregado bobinho</p>
 <p>defendendo patrão,</p>
-</blockquote>
-<blockquote>
 <p>achando que ele será bonzinho na</p>
-</blockquote>
-<blockquote>
-<p>“livre negociação”</p>
-</blockquote>
+<p>&ldquo;livre negociação&rdquo;</p>
 ]]></content>
         </item>
         
