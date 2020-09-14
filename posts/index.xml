@@ -3700,7 +3700,7 @@ Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos
             
             <guid>https://rogawa.github.io/posts/2016/11/14/estat%C3%ADstica-descritiva-com-r/</guid>
             <description>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.
-  Estatítica Descritiva Nome da Função     Média Protocol version   Mediana Percentage of messages subjected to filtering   Mínimo Reporting URI for forensic reports   Máximo Reporting URI of aggregate reports   Amplitude de variação Policy for organizational domain   Quartis e Quantis Policy for subdomains   Distância InterQuartil (Inter Quarter Range (IQR) Alignment mode for DKIM   Variância Alignment mod      Date Visitors   2020-05-28 66   2020-05-29 43   2020-05-30 33   2020-05-31 44   2020-06-01 74   2020-06-02 62   2020-06-03 73   2020-06-04 28    COVID-19 updates for 6 Jun 2020   Country New confirmed Total confirmed New deaths Total deaths New recovered Total recovered     Canada 1,356 191,894 122 15,554 890 53,074   Mexico 4,346 110,026 625 13,170 3,083 77,841   United States of America 24,720 1,897,380 921 109,132 6,704 491,706     Common `elscreen` commands  Estatística Descritiva Nome da Função   Média mean   </description>
+  Estatítica Descritiva Nome da Função     Média Protocol version   Mediana Percentage of messages subjected to filtering   Mínimo Reporting URI for forensic reports   Máximo Reporting URI of aggregate reports   Amplitude de variação Policy for organizational domain   Quartis e Quantis Policy for subdomains   Distância InterQuartil (Inter Quarter Range (IQR) Alignment mode for DKIM   Variância Alignment mod      Date Visitors   2020-05-28 66   2020-05-29 43   2020-05-30 33   2020-05-31 44   2020-06-01 74   2020-06-02 62   2020-06-03 73   2020-06-04 28    COVID-19 updates for 6 Jun 2020   Country New confirmed Total confirmed New deaths Total deaths New recovered Total recovered     Canada 1,356 191,894 122 15,554 890 53,074   Mexico 4,346 110,026 625 13,170 3,083 77,841   United States of America 24,720 1,897,380 921 109,132 6,704 491,706     Funções estatísticas do R  Estatística Descritiva Nome da Função   Média mean   Mediana median   Mínimo min   Máximo max   Amplitude de variação range   Quartis e Quantis quantile   Distância InterQuartil (Inter Quarter Range (IQR) IQR   Variância var   Desvio Padrão (Standardt Deviation) sd   Desvio Absoluto Mediano (Mean Absolut Deviation) mad   </description>
             <content type="html"><![CDATA[<p>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.</p>
 
 
@@ -4030,7 +4030,7 @@ Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos
 
 <table>
   
-    <caption>Common `elscreen` commands</caption>
+    <caption>Funções estatísticas do R</caption>
   
   
     
@@ -4048,6 +4048,114 @@ Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos
       
         
           <td><code>mean</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Mediana</td>
+        
+      
+        
+          <td><code>median</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Mínimo</td>
+        
+      
+        
+          <td><code>min</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Máximo</td>
+        
+      
+        
+          <td><code>max</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Amplitude de variação</td>
+        
+      
+        
+          <td><code>range</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Quartis e Quantis</td>
+        
+      
+        
+          <td><code>quantile</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Distância InterQuartil (Inter Quarter Range (IQR)</td>
+        
+      
+        
+          <td><code>IQR</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Variância</td>
+        
+      
+        
+          <td><code>var</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Desvio Padrão (Standardt Deviation)</td>
+        
+      
+        
+          <td><code>sd</code></td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td>Desvio Absoluto Mediano (Mean Absolut Deviation)</td>
+        
+      
+        
+          <td><code>mad</code></td>
         
       
     </tr>
