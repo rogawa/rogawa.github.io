@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Imagens on Rui Ogawa</title>
-    <link>https://rogawa.github.io/tags/imagens/</link>
-    <description>Recent content in Imagens on Rui Ogawa</description>
+    <title>Dev on Rui Ogawa</title>
+    <link>https://rogawa.github.io/categories/dev/</link>
+    <description>Recent content in Dev on Rui Ogawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rogawa.github.io/tags/imagens/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rogawa.github.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,15 +22,6 @@
 Criei um arquivo o layouts/_default/_markup/render-image.html
 Em seguida, coloquei o segiunte conteúdo nele:
 {{ $image := .Page.Resources.GetMatch .Destination }} {{ if gt $image.</description>
-    </item>
-    
-    <item>
-      <title>Banco de imagens para apresentações científicas</title>
-      <link>https://rogawa.github.io/banco-de-imagens-para-apresentacoes-cientificas/</link>
-      <pubDate>Sat, 01 Jul 2017 12:03:11 +0000</pubDate>
-      
-      <guid>https://rogawa.github.io/banco-de-imagens-para-apresentacoes-cientificas/</guid>
-      <description>Quem nunca sofreu, procurando na Internet imagens para ilustrar um trabalho escolar? É difícil encontrar as imagens corretas e no mesmo padrão, além disso, rola aquela preocupação com direitos autorais né. Pois há alguns serviços nos quais você pode baixar as imagens que precisa e ainda modificá-las e adaptá-las. Vale a pena conferir.</description>
     </item>
     
   </channel>

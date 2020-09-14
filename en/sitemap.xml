@@ -24,7 +24,7 @@
   
   <url>
     <loc>https://rogawa.github.io/categories/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -34,6 +34,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://rogawa.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/14/como-comer-sushi/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/dev/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/hugo/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/imagens/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/tags/"
                 />
   </url>
   
@@ -75,51 +140,6 @@
   <url>
     <loc>https://rogawa.github.io/categories/pol%C3%ADtica/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/posts/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/tags/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/tags/"
-                />
   </url>
   
   <url>
@@ -1538,11 +1558,6 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/tags/imagens/</loc>
-    <lastmod>2017-07-01T12:03:11+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rogawa.github.io/tags/trabalhos-escolares/</loc>
     <lastmod>2017-07-01T12:03:11+00:00</lastmod>
   </url>
@@ -1914,11 +1929,6 @@
   
   <url>
     <loc>https://rogawa.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   

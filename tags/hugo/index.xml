@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Rui Ogawa</title>
+    <title>Hugo on Rui Ogawa</title>
     <link>https://rogawa.github.io/tags/hugo/</link>
-    <description>Recent content in hugo on Rui Ogawa</description>
+    <description>Recent content in Hugo on Rui Ogawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rogawa.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Como comer sushi</title>
+      <link>https://rogawa.github.io/posts/2020/09/14/como-comer-sushi/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/posts/2020/09/14/como-comer-sushi/</guid>
+      <description>Fiquei aqui pensando em como eu poderia otimizar a resolução das imagens que posto no Hugo. Claro que eu posso manualmente redimensioná-las antes de enviar pro servidor, mas seria bem mais simples se o Hugo fizesse isso automaticamente pra mim. Todas as dicas usadas são deste site  .
+Criei um arquivo o layouts/_default/_markup/render-image.html
+Em seguida, coloquei o segiunte conteúdo nele:
+{{ $image := .Page.Resources.GetMatch .Destination }} {{ if gt $image.</description>
+    </item>
     
     <item>
       <title>Getting Started with Hugo</title>
