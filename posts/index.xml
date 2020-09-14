@@ -3700,7 +3700,7 @@ Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos
             
             <guid>https://rogawa.github.io/posts/2016/11/14/estat%C3%ADstica-descritiva-com-r/</guid>
             <description>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.
-  Tag Name Purpose Sample     v Protocol version v=DMARC1   pct Percentage of messages subjected to filtering pct=20   ruf Reporting URI for forensic reports ruf=mailto:authfail@example.com   rua Reporting URI of aggregate reports rua=mailto:aggrep@example.com   p Policy for organizational domain p=quarantine   sp Policy for subdomains sp=reject   adkim Alignment mode for DKIM adkim=s/adkim=r   aspf Alignment mod     </description>
+  Estatítica Descritiva Nome da Função     Média Protocol version   Mediana Percentage of messages subjected to filtering   Mínimo Reporting URI for forensic reports   Máximo Reporting URI of aggregate reports   Amplitude de variação Policy for organizational domain   Quartis e Quantis Policy for subdomains   Distância InterQuartil (Inter Quarter Range (IQR) Alignment mode for DKIM   Variância Alignment mod    </description>
             <content type="html"><![CDATA[<p>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.</p>
 
 
@@ -3710,51 +3710,42 @@ Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos
 <table class="table table-responsive table-dark table-striped table-bordered">
 <thead>
 <tr>
-<th>Tag Name</th>
-<th>Purpose</th>
-<th>Sample</th>
+<th>Estatítica Descritiva</th>
+<th>Nome da Função</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>v</td>
+<td>Média</td>
 <td>Protocol version</td>
-<td>v=DMARC1</td>
 </tr>
 <tr>
-<td>pct</td>
+<td>Mediana</td>
 <td>Percentage of messages subjected to filtering</td>
-<td>pct=20</td>
 </tr>
 <tr>
-<td>ruf</td>
+<td>Mínimo</td>
 <td>Reporting URI for forensic reports</td>
-<td>ruf=mailto:authfail@example.com</td>
 </tr>
 <tr>
-<td>rua</td>
+<td>Máximo</td>
 <td>Reporting URI of aggregate reports</td>
-<td>rua=mailto:aggrep@example.com</td>
 </tr>
 <tr>
-<td>p</td>
+<td>Amplitude de variação</td>
 <td>Policy for organizational domain</td>
-<td>p=quarantine</td>
 </tr>
 <tr>
-<td>sp</td>
+<td>Quartis e Quantis</td>
 <td>Policy for subdomains</td>
-<td>sp=reject</td>
 </tr>
 <tr>
-<td>adkim</td>
+<td>Distância InterQuartil (Inter Quarter Range (IQR)</td>
 <td>Alignment mode for DKIM</td>
-<td>adkim=s/adkim=r</td>
 </tr>
 <tr>
-<td>aspf</td>
+<td>Variância</td>
 <td>Alignment mod</td>
-<td></td>
 </tr>
 </tbody>
 </table>
