@@ -1211,21 +1211,11 @@ notoc: true
 <p>Dans votre configuration de plus haut niveau (ex <code>config.yaml</code>), vous pouvez
 définir des paramètres de site, dont les valeurs vous seront accessibles.</p>
 <p>Pour les instances, vous pourriez délarer :</p>
-<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
-<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
-</span></code></pre></td>
-<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#66d9ef">params</span>:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#66d9ef">params</span>:
   <span style="color:#66d9ef">CopyrightHTML</span>: <span style="color:#e6db74">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span>
   <span style="color:#66d9ef">TwitterUser</span>: <span style="color:#e6db74">&#34;spf13&#34;</span>
   <span style="color:#66d9ef">SidebarRecentLimit</span>: <span style="color:#ae81ff">5</span>
-</code></pre></td></tr></table>
-</div>
-</div><p>Avec un pied de page, vous devriez déclarer un <code>&lt;footer&gt;</code> qui est affiché
+</code></pre></div><p>Avec un pied de page, vous devriez déclarer un <code>&lt;footer&gt;</code> qui est affiché
 seulement si le paramètre <code>CopyrightHTML</code> est déclaré, et si il l&rsquo;est, vous
 devriez le déclarer comme HTML-safe, afin d&rsquo;éviter d&rsquo;échapper les entités HTML.
 Cela vous permettra de le modifier facilement dans votre configuration au lieu
