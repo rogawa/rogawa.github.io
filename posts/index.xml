@@ -3695,13 +3695,34 @@ Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos
         
         <item>
             <title>Estatística descritiva com R</title>
-            <link>https://rogawa.github.io/estatistica-descritiva-com-r/</link>
-            <pubDate>Mon, 14 Nov 2016 21:20:29 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2016/11/14/estat%C3%ADstica-descritiva-com-r/</link>
+            <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/estatistica-descritiva-com-r/</guid>
-            <description>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.New photo by Rui Ogawa / Google Photos</description>
-            <content type="html"><![CDATA[<p>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.<!-- raw HTML omitted --></p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->New photo by Rui Ogawa / Google Photos<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+            <guid>https://rogawa.github.io/posts/2016/11/14/estat%C3%ADstica-descritiva-com-r/</guid>
+            <description>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.
+   Header 1 Header 2 Header 3     Item 1 Item 2 Item 3   Item 1a Item 2a Item 3a    </description>
+            <content type="html"><![CDATA[<p>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.</p>
+<table>
+<thead>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+<th>Header 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Item 1</td>
+<td>Item 2</td>
+<td>Item 3</td>
+</tr>
+<tr>
+<td>Item 1a</td>
+<td>Item 2a</td>
+<td>Item 3a</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
         </item>
         
