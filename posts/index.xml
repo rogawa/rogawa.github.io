@@ -3700,16 +3700,36 @@ Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos
             
             <guid>https://rogawa.github.io/posts/2016/11/14/estat%C3%ADstica-descritiva-com-r/</guid>
             <description>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.
-|&amp;mdash;&amp;mdash;&amp;mdash;-|&amp;mdash;&amp;mdash;&amp;mdash;-|&amp;mdash;&amp;mdash;&amp;mdash;-| | Item 1 | Item 2 | Item 3 | | Item 1a | Item 2a | Item 3a | </description>
+  Animal Sounds     Cat Meow   Dog Woof   Cricket Chirp    </description>
             <content type="html"><![CDATA[<p>Segue uma sucinta tabela com algumas funções de estatística pra usar com o R.</p>
 
 
 
 
 
-|&mdash;&mdash;&mdash;-|&mdash;&mdash;&mdash;-|&mdash;&mdash;&mdash;-|
-| Item 1   | Item 2   | Item 3   |
-| Item 1a  | Item 2a  | Item 3a  |
+<table class="table table-dark table-striped table-bordered">
+<thead>
+<tr>
+<th>Animal</th>
+<th>Sounds</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cat</td>
+<td>Meow</td>
+</tr>
+<tr>
+<td>Dog</td>
+<td>Woof</td>
+</tr>
+<tr>
+<td>Cricket</td>
+<td>Chirp</td>
+</tr>
+</tbody>
+</table>
+
 
 ]]></content>
         </item>
