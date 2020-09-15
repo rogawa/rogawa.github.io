@@ -3603,20 +3603,28 @@ Você encontra um modelo similare no Mercado Livre
         
         <item>
             <title>A taxação sobre grandes fortunas</title>
-            <link>https://rogawa.github.io/a-taxacao-sobre-grandes-fortunas/</link>
-            <pubDate>Fri, 31 Mar 2017 13:56:25 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2017/03/31/a-taxa%C3%A7%C3%A3o-sobre-grandes-fortunas/</link>
+            <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/a-taxacao-sobre-grandes-fortunas/</guid>
+            <guid>https://rogawa.github.io/posts/2017/03/31/a-taxa%C3%A7%C3%A3o-sobre-grandes-fortunas/</guid>
             <description>A imagem acima explica muito bem quais grandes problemas econômicos poderiam ser resolvidos se as grandes fortunas fossem taxadas, mas também deixa claro os motivos pelos quais isso nunca acontece, mesmo estando em nosso Constituição há quase 30 anos.
-A seguir, temo um ótimo artigo escrito pela Nathalia Fazan, que explica em detalhes quais são as características o IGF.</description>
-            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+A seguir, temo um ótimo ARTIGO  , artigo escrito pela Nathalia Fazan, que explica em detalhes quais são as características o IGF.</description>
+            <content type="html"><![CDATA[
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/taxacao-grandes-fortunas.png" />
+    </div>
+    <a href="/media/taxacao-grandes-fortunas.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
 <p>A imagem acima explica muito bem quais grandes problemas econômicos poderiam ser resolvidos se as grandes fortunas fossem taxadas, mas também deixa claro os motivos pelos quais isso nunca acontece, mesmo estando em nosso Constituição há quase 30 anos.</p>
-<p>A seguir, temo um ótimo artigo escrito pela <!-- raw HTML omitted -->Nathalia Fazan<!-- raw HTML omitted -->, que explica em detalhes quais são as características o IGF.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<p>A seguir, temo um ótimo <a href="https://nathaliafazan.jusbrasil.com.br/" target="_blank">
+  ARTIGO
+</a>
+,  artigo escrito pela Nathalia Fazan, que explica em detalhes quais são as características o IGF.</p>
 ]]></content>
         </item>
         
