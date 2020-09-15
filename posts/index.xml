@@ -3637,69 +3637,50 @@ Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, nã
             <guid>https://rogawa.github.io/posts/2017/01/06/minhas-revistas-moto-show/</guid>
             <description>Alguns exemplares, de 1986 até 1991. Dos meus 15 até os 17 anos de idade, eu sonhava com essas motos. Só sonhava né, porque era praticamente impossível pensar em ter uma. Então eu me contentava em acompanhar os avanços tecnológicos pela Revista Moto Show. Na minha opinião foi a melhor revista sobre motos que já tivemos no Brasil. Algumas coisas me chamaram a atenção enquanto eu digitalizava. As propagandas de cigarro, as páginas em preto e branco e a transição entre Cruzeiro, Cruzado e Cruzado Novo.</description>
             <content type="html"><![CDATA[<p>Alguns exemplares, de 1986 até 1991. Dos meus 15 até os 17 anos de idade, eu sonhava com essas motos. Só sonhava né, porque era praticamente impossível pensar em ter uma. Então eu me contentava em acompanhar os avanços tecnológicos pela Revista Moto Show. Na minha opinião foi a melhor revista sobre motos que já tivemos no Brasil. Algumas coisas me chamaram a atenção enquanto eu digitalizava. As propagandas de cigarro, as páginas em preto e branco e a transição entre Cruzeiro, Cruzado e Cruzado Novo. Ainda assim, guardo boas lembranças do tempo em que passava na banca de revista pra ver se chegou, de ler tudo atentamente, de pregar o pôster que vinha nela na parede.</p>
-
-
 <style>
-    div.gallery {
-        display: flex;
-        flex-wrap: wrap;
-    }
+  div.gallery {
+     display: flex;
+     flex-wrap: wrap;
+  }
+        div.gallery a {
+            flex-grow: 1;
+            object-fit: cover;
+            margin: 2px;
+            display: flex;
+        }
 
-    div.gallery a {
-        flex-grow: 1;
-        object-fit: cover;
-        margin: 2px;
-        display: flex;
-    }
+        div.gallery a img {            
+            height: 200px;
+            object-fit: cover;
+            flex-grow: 1;
+        }
 
-    div.gallery a img {
-        height: 200px;
-        object-fit: cover;
-        flex-grow: 1;
-    }
-</style>
+    </style>
 
-<div class="gallery">
-    
-    
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css" />
+
+    <div class="gallery">
         
-        
-            
-            
-            <a data-fancybox="gallery" href="/static/images/galleries/motoshow/motoshow_04.jpg">
-                <img src="/static/images/galleries/motoshow/motoshow_04.jpg">  <br/>
+	
+
+	
+            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_04.jpg">
+                <img src="/images/galleries/motoshow/motoshow_04-thumb.jpg">  <br/>            
             </a>
-        
-    
-        
-        
-            
-            
-            <a data-fancybox="gallery" href="/static/images/galleries/motoshow/motoshow_05.jpg">
-                <img src="/static/images/galleries/motoshow/motoshow_05.jpg">  <br/>
+	
+            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_05.jpg">
+                <img src="/images/galleries/motoshow/motoshow_05-thumb.jpg">  <br/>            
             </a>
-        
-    
-        
-        
-            
-            
-            <a data-fancybox="gallery" href="/static/images/galleries/motoshow/motoshow_06.jpg">
-                <img src="/static/images/galleries/motoshow/motoshow_06.jpg">  <br/>
+	
+            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_06.jpg">
+                <img src="/images/galleries/motoshow/motoshow_06-thumb.jpg">  <br/>            
             </a>
-        
-    
-        
-        
-            
-            
-            <a data-fancybox="gallery" href="/static/images/galleries/motoshow/motoshow_29.jpg">
-                <img src="/static/images/galleries/motoshow/motoshow_29.jpg">  <br/>
+	
+            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_29.jpg">
+                <img src="/images/galleries/motoshow/motoshow_29-thumb.jpg">  <br/>            
             </a>
-        
-    
-</div>
+	
+    </div>
 
 <p>NOTA: EU DEIXEI ESSES EXEMPLARES NA JEAN MOTOS, NA AV. DAS PALMEIRAS. QUEM QUISER É SÓ IR LÁ CONFERIR.</p>
 <!-- raw HTML omitted -->
