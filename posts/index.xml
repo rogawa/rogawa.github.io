@@ -991,7 +991,7 @@ api key defaults to the site configuration API Key. The location is a
 search query for a location you want to display for the map.</p>
 <div class="shortcode shortcode--google-maps">
 	<iframe
-		src='https://www.google.com/maps/embed/v1/place?key=000&q=Googleplex%2c%20Amphitheatre%20Parkway%2c%20Mountain%20View%2c%20CA'
+		src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBMi4F_anZQn9Ow3gG4hPeFU-3-Mddiyrs&q=Googleplex%2c%20Amphitheatre%20Parkway%2c%20Mountain%20View%2c%20CA'
 		frameborder="0"
 		scrolling="no"
 		width="100%"
