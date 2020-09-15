@@ -926,11 +926,18 @@ Esse é o paradoxo. De dentro desse pensamento, ele acredita que é racional e c
             
             <guid>https://rogawa.github.io/posts/2018/11/24/como-referenciar-m%C3%ADdias-sociais/</guid>
             <description>Não sabe como referenciar uma citação de uma mídia social? A nova versão da norma de referências (NBR 6023:2018) apresenta como deve ser feita. Veja na imagem um exemplo.
-  Fonte: Biblioteca de Ciências Sociais Aplicadas da UFPR</description>
+    Fonte: Biblioteca de Ciências Sociais Aplicadas da UFPR</description>
             <content type="html"><![CDATA[<p>Não sabe como referenciar uma citação de uma mídia social? A nova versão da norma de referências (NBR 6023:2018) apresenta como deve ser feita. Veja na imagem um exemplo.</p>
-<figure>
-    <img src="/media/referenciar_midias_sociais.png"/> 
-</figure>
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/referenciar_midias_sociais.png" />
+    </div>
+    <a href="/media/referenciar_midias_sociais.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>Fonte: Biblioteca de Ciências Sociais Aplicadas da UFPR</p>
 ]]></content>
@@ -3637,50 +3644,55 @@ Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, nã
             <guid>https://rogawa.github.io/posts/2017/01/06/minhas-revistas-moto-show/</guid>
             <description>Alguns exemplares, de 1986 até 1991. Dos meus 15 até os 17 anos de idade, eu sonhava com essas motos. Só sonhava né, porque era praticamente impossível pensar em ter uma. Então eu me contentava em acompanhar os avanços tecnológicos pela Revista Moto Show. Na minha opinião foi a melhor revista sobre motos que já tivemos no Brasil. Algumas coisas me chamaram a atenção enquanto eu digitalizava. As propagandas de cigarro, as páginas em preto e branco e a transição entre Cruzeiro, Cruzado e Cruzado Novo.</description>
             <content type="html"><![CDATA[<p>Alguns exemplares, de 1986 até 1991. Dos meus 15 até os 17 anos de idade, eu sonhava com essas motos. Só sonhava né, porque era praticamente impossível pensar em ter uma. Então eu me contentava em acompanhar os avanços tecnológicos pela Revista Moto Show. Na minha opinião foi a melhor revista sobre motos que já tivemos no Brasil. Algumas coisas me chamaram a atenção enquanto eu digitalizava. As propagandas de cigarro, as páginas em preto e branco e a transição entre Cruzeiro, Cruzado e Cruzado Novo. Ainda assim, guardo boas lembranças do tempo em que passava na banca de revista pra ver se chegou, de ler tudo atentamente, de pregar o pôster que vinha nela na parede.</p>
-<style>
-  div.gallery {
-     display: flex;
-     flex-wrap: wrap;
-  }
-        div.gallery a {
-            flex-grow: 1;
-            object-fit: cover;
-            margin: 2px;
-            display: flex;
-        }
 
-        div.gallery a img {            
-            height: 200px;
-            object-fit: cover;
-            flex-grow: 1;
-        }
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 
-    </style>
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css" />
-
-    <div class="gallery">
-        
-	
-
-	
-            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_04.jpg">
-                <img src="/images/galleries/motoshow/motoshow_04-thumb.jpg">  <br/>            
-            </a>
-	
-            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_05.jpg">
-                <img src="/images/galleries/motoshow/motoshow_05-thumb.jpg">  <br/>            
-            </a>
-	
-            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_06.jpg">
-                <img src="/images/galleries/motoshow/motoshow_06-thumb.jpg">  <br/>            
-            </a>
-	
-            <a data-fancybox="gallery" href="/images/galleries/motoshow/motoshow_29.jpg">
-                <img src="/images/galleries/motoshow/motoshow_29-thumb.jpg">  <br/>            
-            </a>
-	
-    </div>
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://rogawa.github.io/images/galleries/motoshow//motoshow_04.jpg');" >
+				      <img itemprop="thumbnail" src="https://rogawa.github.io/images/galleries/motoshow//motoshow_04.jpg" alt="Motoshow 04" />
+				    </div>
+			      <figcaption>
+		          <p>Motoshow 04</p>
+			      </figcaption>
+				    <a href="https://rogawa.github.io/images/galleries/motoshow//motoshow_04.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://rogawa.github.io/images/galleries/motoshow//motoshow_05.jpg');" >
+				      <img itemprop="thumbnail" src="https://rogawa.github.io/images/galleries/motoshow//motoshow_05.jpg" alt="Motoshow 05" />
+				    </div>
+			      <figcaption>
+		          <p>Motoshow 05</p>
+			      </figcaption>
+				    <a href="https://rogawa.github.io/images/galleries/motoshow//motoshow_05.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://rogawa.github.io/images/galleries/motoshow//motoshow_06.jpg');" >
+				      <img itemprop="thumbnail" src="https://rogawa.github.io/images/galleries/motoshow//motoshow_06.jpg" alt="Motoshow 06" />
+				    </div>
+			      <figcaption>
+		          <p>Motoshow 06</p>
+			      </figcaption>
+				    <a href="https://rogawa.github.io/images/galleries/motoshow//motoshow_06.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://rogawa.github.io/images/galleries/motoshow//motoshow_29.jpg');" >
+				      <img itemprop="thumbnail" src="https://rogawa.github.io/images/galleries/motoshow//motoshow_29.jpg" alt="Motoshow 29" />
+				    </div>
+			      <figcaption>
+		          <p>Motoshow 29</p>
+			      </figcaption>
+				    <a href="https://rogawa.github.io/images/galleries/motoshow//motoshow_29.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+</div>
 
 <p>NOTA: EU DEIXEI ESSES EXEMPLARES NA JEAN MOTOS, NA AV. DAS PALMEIRAS. QUEM QUISER É SÓ IR LÁ CONFERIR.</p>
 <!-- raw HTML omitted -->
@@ -3697,7 +3709,7 @@ Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, nã
   poucos traços: japonês
   muitos traços: chinês
   traços + bolinhas: coreano
-    </description>
+      </description>
             <content type="html"><![CDATA[<p>Basicamente funciona assim:</p>
 <ul>
 <li>
@@ -3710,9 +3722,16 @@ Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, nã
 <p>traços + bolinhas: coreano</p>
 </li>
 </ul>
-<figure>
-    <img src="/media/jap-chi-kor.jpg"/> 
-</figure>
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/jap-chi-kor.jpg" />
+    </div>
+    <a href="/media/jap-chi-kor.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 ]]></content>
         </item>
@@ -3724,11 +3743,18 @@ Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, nã
             
             <guid>https://rogawa.github.io/posts/2016/12/14/20-anos-de-atraso/</guid>
             <description>Boa noite. PEC 55 aprovada, 20 anos de investimentos congelados em segurança, saúde e educação.
-  </description>
+    </description>
             <content type="html"><![CDATA[<p>Boa noite. PEC 55 aprovada, 20 anos de investimentos congelados em segurança, saúde e educação.</p>
-<figure>
-    <img src="/media/seguranca-saude-educacao.jpg"/> 
-</figure>
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/seguranca-saude-educacao.jpg" />
+    </div>
+    <a href="/media/seguranca-saude-educacao.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 ]]></content>
         </item>
