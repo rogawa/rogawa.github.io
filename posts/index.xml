@@ -984,7 +984,7 @@ key. You can store this key inside your Hugo configuration file or each
 time you ues the shortcode, you can add the API Key to the parameter
 <code>key</code>.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-ini" data-lang="ini"><span style="color:#66d9ef">[params]</span>
-	<span style="color:#a6e22e">googleMapsAPIKey</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;000000000000&#34;</span></code></pre></div>
+	<span style="color:#a6e22e">googleMapsAPIKey</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;AIzaSyBMi4F_anZQn9Ow3gG4hPeFU-3-Mddiyrs&#34;</span></code></pre></div>
 <p>The Google Maps shortcode accepts the parameters of <code>height</code>, <code>key</code>,
 and <code>location</code>. The height defaults to 400px if it&rsquo;s not set and the
 api key defaults to the site configuration API Key. The location is a
