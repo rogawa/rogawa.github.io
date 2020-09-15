@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Um belo pacote de shortcodes para o Hugo</title>
+      <link>https://rogawa.github.io/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</guid>
+      <description>Se tem uma coisa muito bacana e útil no Hugo são os shortcodes. Facilita muito nossa vida e o legal é que além dos shorcodes oficiais, há várias pessoas desenvolvendo shorcodes muito bons. Eu encontrei e instalei esse Pack of Shortcodes for Hugo  e devo dizer que o trabalho do desenvolvedor é muito bom, incluindo um post de exemplo para entender melhor sua instalação, configuração e uso.
+Os shortcodes que ele disponibiliza são os seguintes:</description>
+    </item>
+    
+    <item>
       <title>Redimensinando imagens automaticamente no Hugo</title>
       <link>https://rogawa.github.io/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>

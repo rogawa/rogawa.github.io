@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://rogawa.github.io/tags/shorcodes/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rogawa.github.io/tags/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -100,6 +105,11 @@
                 hreflang="en"
                 href="https://rogawa.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
