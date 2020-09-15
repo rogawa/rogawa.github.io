@@ -903,8 +903,8 @@ Os shortcodes que ele disponibiliza são os seguintes:</description>
 <ul>
 <li>
 <p>Twitch Embedded Video</p>
-<p>Embeds a past broadcast from Twitch to your website.
-Maintains a 16:9 aspect ratio.</p>
+<p>Embute transmissões do from Twitch em seu site.</p>
+<p>Mantém a proporção de 16:9.</p>
 </li>
 <li>
 <p>Twitch Live Stream</p>
