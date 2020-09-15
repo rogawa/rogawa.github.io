@@ -23,41 +23,6 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://rogawa.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rogawa.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/posts/2020/09/15/shortcode-tests/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rogawa.github.io/categories/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -88,8 +53,38 @@
   </url>
   
   <url>
+    <loc>https://rogawa.github.io/posts/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://rogawa.github.io/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rogawa.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rogawa.github.io/"
+                />
   </url>
   
   <url>
@@ -1850,6 +1845,11 @@
   <url>
     <loc>https://rogawa.github.io/posts/2016/11/04/os-jeans-que-me-servem/</loc>
     <lastmod>2016-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2015/09/15/shortcode-tests/</loc>
+    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>

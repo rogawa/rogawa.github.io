@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rogawa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,16 +30,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <guid>https://rogawa.github.io/posts/2020/05/28/migrando-do-wordpress-para-hugo-e-hospedando-nas-githubpages/</guid>
       <description>Eu realmente preciso de um blog dinâmico? Eu me associei ao Wordpress.com  em janeiro de 2007, ano provável da criação do meu primeiro blog, em que eu escrevia principalmente sobre Software Livre  .
 Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisas que podiam ser feitas de forma muito mais simples e gratuita. Comecei a pesquisar sobre plataformas estáticas para blog e encontrei o Hugo  .</description>
-    </item>
-    
-    <item>
-      <title>Shortcode Tests</title>
-      <link>https://rogawa.github.io/posts/2020/09/15/shortcode-tests/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://rogawa.github.io/posts/2020/09/15/shortcode-tests/</guid>
-      <description>Hello, Thanks for downloading and testing our my shortcode pack. Below will load all of the shortcodes and display the various options they have. If you like and enjoy these short codes, please post a link on your blog to GeekThis.net  , I would really appreciate it.
-Installing New Shortcodes To install shortcodes, copy each HTML file relating to a shortcode you want and place it into the shortcode directory inside of Hugo.</description>
     </item>
     
     <item>
@@ -114,6 +104,15 @@ achando que ele será bonzinho na
 1- Salário dos Médicos
 A – Cuba faz cooperação com 66 países em todo o Globo, inclusive europeus. Sabe como isso começou? Com a brigada Henry Reeve criada em 2005 …
 .. como forma de ajuda humanitária pra atender as vítimas do Furacão Katrina nos EUA. Fidel chamou centenas de médicos e pediu que se organizasse a brigada.</description>
+    </item>
+    
+    <item>
+      <title>Homem</title>
+      <link>https://rogawa.github.io/homem/</link>
+      <pubDate>Thu, 15 Nov 2018 00:07:59 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/homem/</guid>
+      <description>Uma dura crítica ao domínio do ser humano na Terra.</description>
     </item>
     
   </channel>
