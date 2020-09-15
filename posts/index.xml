@@ -904,30 +904,47 @@ Os shortcodes que ele disponibiliza são os seguintes:</description>
 <li>
 <p>Twitch Embedded Video</p>
 <ul>
-<li>Embute transmissões passadas do from Twitch em seu site, mantendo a proporção de 16:9.</li>
+<li>Embute transmissões passadas do from Twitch em seu site.</li>
+<li>Mantém a proporção de 16:9.</li>
 </ul>
 </li>
 <li>
 <p>Twitch Live Stream</p>
-<p>Embute uma transmissão ao vivo do jogador do Twitch em seu site mantendo a proporção de 16:9.</p>
+<ul>
+<li>Embute uma transmissão ao vivo do jogador do Twitch em seu site.</li>
+<li>Mantém a proporção de 16:9.</li>
+</ul>
 </li>
 <li>
 <p>Pastebin</p>
+<ul>
+<li>Mostra um <em>paste</em> que foi adicionado no Pastebin diretamente em seu site.</li>
+<li>Tem a opção de configurar a altura máxima.</li>
+</ul>
+</li>
+<li>
+<p>JSFiddle</p>
+<ul>
+<li>Mostra um JSFiddle em seu site.</li>
+<li>Pode ser personalizado para mostrar diferentes abas, como JavaScript, HTML, CSS, e o resultado final.</li>
+<li>É possível personalizar as abas visíveis e a aparência clara ou escura</li>
+</ul>
+</li>
+<li>
+<p>Google Maps</p>
+<ul>
+<li>Mostra um Google Map embutido de qualquer localidade.</li>
+<li>Funciona paramostrar uma cidade, um endereço, um negócio ou uma rua.</li>
+</ul>
+</li>
+<li>
+<p>Box Document Preview</p>
+<ul>
+<li>Mostra uma prévia embutida de documento compartilhado no Box.</li>
+<li>Funciona com PDF, DOC, Planilhas e muitos outros formatos.</li>
+</ul>
 </li>
 </ul>
-<p>Mostra um <em>paste</em> que foi adicionado no Pastebin diretamente em seu site, com a opção de configurar a altura máxima.</p>
-<ul>
-<li>JSFiddle</li>
-</ul>
-<p>Mostra um JSFiddle em seu site. Pode ser personalizado para mostrar diferentes abas, como JavaScript, HTML, CSS, e o resultado final. É possível personalizar as abas visíveis e a aparência clara ou escura</p>
-<ul>
-<li>Google Maps</li>
-</ul>
-<p>Mostra um Google Map embutido de qualquer localidade. Funciona paramostrar uma cidade, um endereço, um negócio ou uma rua.</p>
-<ul>
-<li>Box Document Preview</li>
-</ul>
-<p>Mostra uma prévia embutida de documento compartilhado no Box. Funciona com PDF, DOC, Planilhas e muitos outros formatos.</p>
 <p>Para alguns shortcodes há necessidade de configura alguma API, mas basta seguir a documentação que dá tudo certo.</p>
 ]]></content>
         </item>
