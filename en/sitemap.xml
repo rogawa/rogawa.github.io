@@ -24,7 +24,7 @@
   
   <url>
     <loc>https://rogawa.github.io/categories/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -38,23 +38,28 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/categories/dev/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <loc>https://rogawa.github.io/tags/galeria/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rogawa.github.io/tags/hugo/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/tags/imagens/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <loc>https://rogawa.github.io/posts/2020/09/15/hugo-easy-galery/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/inform%C3%A1tica/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rogawa.github.io/posts/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -68,13 +73,8 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rogawa.github.io/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -89,7 +89,7 @@
   
   <url>
     <loc>https://rogawa.github.io/tags/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -100,6 +100,21 @@
                 hreflang="en"
                 href="https://rogawa.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/dev/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/imagens/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>

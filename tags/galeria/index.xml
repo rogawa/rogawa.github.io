@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galeria on Rui Ogawa</title>
+    <link>https://rogawa.github.io/tags/galeria/</link>
+    <description>Recent content in Galeria on Rui Ogawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rogawa.github.io/tags/galeria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Easy Galery</title>
+      <link>https://rogawa.github.io/posts/2020/09/15/hugo-easy-galery/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/posts/2020/09/15/hugo-easy-galery/</guid>
+      <description>Alguns poucos posts antigos que tinha no Wordpress tinham a necessidade de exibir imagens em uma galeria. Eu usava um recurso do Google Photos e embutia determinado álbum em shortcode no post. Aqui no Hugo há algumas implementações, mas a que eu mais gostei e que deu certo até agora, foi a Hugo Easy Gallery  . O autor fez um trabalho muito bacana e disponinibilizou tudo em seu repositório Github  .</description>
+    </item>
+    
+  </channel>
+</rss>
