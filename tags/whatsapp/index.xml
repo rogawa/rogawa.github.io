@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>whatsapp on Rui Ogawa</title>
+    <title>Whatsapp on Rui Ogawa</title>
     <link>https://rogawa.github.io/tags/whatsapp/</link>
-    <description>Recent content in whatsapp on Rui Ogawa</description>
+    <description>Recent content in Whatsapp on Rui Ogawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -42,15 +42,12 @@
     
     <item>
       <title>Verificação em duas etapas do Whatsapp</title>
-      <link>https://rogawa.github.io/verificacao-em-duas-etapas-do-whatsapp/</link>
-      <pubDate>Tue, 14 Feb 2017 10:18:56 +0000</pubDate>
+      <link>https://rogawa.github.io/posts/2017/02/14/verifica%C3%A7%C3%A3o-em-duas-etapas-do-whatsapp/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/verificacao-em-duas-etapas-do-whatsapp/</guid>
+      <guid>https://rogawa.github.io/posts/2017/02/14/verifica%C3%A7%C3%A3o-em-duas-etapas-do-whatsapp/</guid>
       <description>Funcionários de operadoras estão envolvidos com fraudes usando o Wahtsapp. Para evitar isto:
-1 – Entre no whattsapp.
-2 – Clique em Configurações, depois Conta e depois em Verificação em duas etapas.
-3 – Defina uma senha de 6 dígitos e um e-mail para o caso de esquecer a senha.
-Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, não vai ter a senha de 6 dígitos para acessar sua conta.</description>
+ Entre no whattsapp. Clique em Configurações, depois Conta e depois em Verificação em duas etapas. Defina uma senha de 6 dígitos e um e-mail para o caso de esquecer a senha.  Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, não vai ter a senha de 6 dígitos para acessar sua conta.</description>
     </item>
     
   </channel>
