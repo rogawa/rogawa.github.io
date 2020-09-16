@@ -3320,9 +3320,9 @@ Na minha aula, ensinei a criar uma conta de e-mail e o grande desafio foi lidar 
 <div class="box" >
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img">
-      <img itemprop="thumbnail" src="/content/media/roteiro-sorriso-canarana.png" />
+      <img itemprop="thumbnail" src="/media/roteiro-sorriso-canarana.png" />
     </div>
-    <a href="/content/media/roteiro-sorriso-canarana.png" itemprop="contentUrl"></a>
+    <a href="media/roteiro-sorriso-canarana.png" itemprop="contentUrl"></a>
   </figure>
 </div>
 
