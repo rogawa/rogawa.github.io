@@ -3316,16 +3316,6 @@ Na minha aula, ensinei a criar uma conta de e-mail e o grande desafio foi lidar 
             <description>Fiz um mapa com as rotas de Sorriso/MT até Canarana/MT, onde estou morando. O trajeto passa por Caravágio, Nova Ubiratã, Água Limpa, Santiago do Norte, Gaúcha do Norte e Culuene. São aproximadamente 300 Km de asfalto e 200 Km de terra. A necessidade se deve ao fato de que várias estradas entre Água Limpa e Santiago do Norte (asfalto) e entre Santiago do Norte e Culuene (terra), simplesmente não constam no Google Maps.</description>
             <content type="html"><![CDATA[<p>Fiz um mapa com as rotas de Sorriso/MT até Canarana/MT, onde estou morando. O trajeto passa por Caravágio, Nova Ubiratã, Água Limpa, Santiago do Norte, Gaúcha do Norte e Culuene. São aproximadamente 300 Km de asfalto e 200 Km de terra. A necessidade se deve ao fato de que várias estradas entre Água Limpa e Santiago do Norte (asfalto) e entre Santiago do Norte e Culuene (terra), simplesmente não constam no Google Maps. Posteriormente vou adicionar fotos dos pontos de referência. Espero que seja útil.</p>
 <!-- raw HTML omitted -->
-<div class="shortcode shortcode--google-maps">
-	<iframe
-		src='https://www.google.com/maps/embed/v1/place?key=AIzaSyDcjXiLeToGIzIqC7d1wcRM-p7rFX8-pvY%26q%3dmid%3d1QPuONkiKvdrU5dO7yDcG9b9OaxA&q='
-		frameborder="0"
-		scrolling="no"
-		width="100%"
-		height='300'>
-	</iframe>
-</div>
-
 ]]></content>
         </item>
         
