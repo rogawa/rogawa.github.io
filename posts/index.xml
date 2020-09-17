@@ -5126,6 +5126,106 @@ O Amor</description>
         </item>
         
         <item>
+            <title>Referências em Python</title>
+            <link>https://rogawa.github.io/posts/2015/02/12/refer%C3%AAncias-em-python/</link>
+            <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
+            
+            <guid>https://rogawa.github.io/posts/2015/02/12/refer%C3%AAncias-em-python/</guid>
+            <description>Seguem algumas dicas do Fabio Alexandre Spanhol, para aprendizado de Python. Acho que você poderia começando com o livro &amp;ldquo;Python para Desenvolvedores&amp;rdquo;, do Luiz Eduardo Borges. Em português é um dos melhores materiais, principalmente para quem já sabe programar. Tem uma pegada bastante prática, está na segunda edição e é licenciado sob Creative Commons, disponível gratuitamente. Recomendo. [0] A edição 3 parece-me que só impressa, editada pela Novatec.
+Quanto a IDE você pode começar com o próprio interpretador na shell (ou o IDLE, se instalar a versão windows do python automaticamente será instalado, no GNU/Linux precisa instalar a parte.</description>
+            <content type="html"><![CDATA[<h2 id="seguem-algumas-dicas-do-fabio-alexandre-spanhol-para-aprendizado-de-python">Seguem algumas dicas do Fabio Alexandre Spanhol, para aprendizado de Python.</h2>
+<p>Acho que você poderia começando com o livro &ldquo;Python para Desenvolvedores&rdquo;, do Luiz Eduardo Borges. Em português é um dos melhores materiais, principalmente para quem já sabe programar. Tem uma pegada bastante prática, está na segunda edição e é licenciado sob Creative Commons, disponível gratuitamente. Recomendo. [0]
+A edição 3 parece-me que só impressa, editada pela Novatec.</p>
+<p>Quanto a IDE você pode começar com o próprio interpretador na shell (ou o IDLE, se instalar a versão windows do python automaticamente será instalado, no GNU/Linux precisa instalar a parte. Só uso para preparar slides ou em treinamentos).</p>
+<p>Depois de familiarizado com os conceitos básicos da linguagen, deve levar poucas horas, você pode partir para uma IDE. Conforme sugeri, um IDE leve seria o Ninja [1], mas existe uma infinidade de outros, alguns abertos outros pagos. O próprio Eclipse pode se usado, se você preferir.  Por um tempo, profissionalmente, usei o Wing. Ultimamente, no meu laptop para atividades mais científicos digamos assim estou usando mais o Ipython e o Sublime + extensões como editor principal. As vezes uso o vim (customizado) também.</p>
+<p>Já em [2] e [3] as páginas wiki da comunidade python do Brasil. Em [4] tem o livro &ldquo;Aprenda a Programar&rdquo;, do Luciano Ramalho (usando python é claro).  Já em [5] tem a tradução que eu ajudei a fazer da obra &ldquo;How to think a computer scientist&rdquo;, do Jeffrey Elkner. Foi o Luciano Ramalho que inciou o projeto da tradução e atualmente é o Francisco Souza que está mantendo.</p>
+<p>Quanto a desenvolvimento web, a escolha vai recair sobre algum framework. Sem conhecer as especificidades dos requisitos da sua aplicação, talvez  Django [6] [7] seja uma boa pedida, mas existem diversos outros. O livro do Osvaldo Santana e do Thiago Galesi, publicado pela Novatec [8] é um bom ponto de partida. Recentemente o Osvaldo liberou os vídeos do curso dele [9].</p>
+<p>Mais leve e divertida, também sugiro a obra do  Marinho Brandão, &ldquo;Aprendendo Django no Planeta Terra&rdquo;  [10], outra licenciada sob Creative Commons.</p>
+<p>Para desenvolvimnto de GUI desktop você precisa escolher uma API que tenha binding para Python: wxWidgets [11] e wxPython [12],  QT e pyQt [13], GTK e pyGTK [14], etc.
+Dependendo de qual API você escolha tem vários IDEs para &ldquo;desenhar&rdquo; as interfaces: Glade [15], Boa Constructor [16], QTCreator [17] e por aí vai.</p>
+<p>E finalmente, tem algum material meu [18] que utilizo em palestras, minicursos e tutoriais.</p>
+<p>Qualquer coisa estou por aqui.</p>
+<p>Abraços e bem vindo ao Python!</p>
+<p><a href="http://ark4n.wordpress.com/python/" target="_blank">
+  0
+</a>
+
+<a href="http://ninja-ide.org/" target="_blank">
+  1
+</a>
+
+<a href="http://www.python.org.br/wiki/InicieSe" target="_blank">
+  2
+</a>
+
+<a href="http://www.python.org.br/wiki/AprendaMais" target="_blank">
+  3
+</a>
+
+<a href="http://turing.com.br/material/appy/index.html" target="_blank">
+  4
+</a>
+
+<a href="http://py.franciscosouza.net/index.html" target="_blank">
+  5
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+  6
+</a>
+
+<a href="http://www.djangobrasil.org/" target="_blank">
+  7
+</a>
+
+<a href="http://novatec.com.br/livros/pythonedjango/" target="_blank">
+  8
+</a>
+
+<a href="http://j.mp/tubepydjango" target="_blank">
+  9
+</a>
+
+<a href="http://www.aprendendodjango.com/" target="_blank">
+  10
+</a>
+
+<a href="http://www.wxwidgets.org/" target="_blank">
+  11
+</a>
+
+<a href="http://wxpython.org/" target="_blank">
+  12
+</a>
+
+<a href="http://www.riverbankcomputing.co.uk/software/pyqt/intro" target="_blank">
+  13
+</a>
+
+<a href="http://zetcode.com/gui/pygtk/" target="_blank">
+  14
+</a>
+
+<a href="http://glade.gnome.org/" target="_blank">
+  15
+</a>
+
+<a href="http://boa-constructor.sourceforge.net/" target="_blank">
+  16
+</a>
+
+<a href="http://qt.digia.com/product/developer-tools/" target="_blank">
+  17
+</a>
+
+<a href="http://www.slideshare.net/_photon_" target="_blank">
+  18
+</a>
+</p>
+]]></content>
+        </item>
+        
+        <item>
             <title>(Hu)go Template Primer</title>
             <link>https://rogawa.github.io/posts/2014/04/02/hugo-template-primer/</link>
             <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -5476,106 +5576,6 @@ Having nearly instant feedback enables you to have your creativity flow without 
             <guid>https://rogawa.github.io/posts/1/01/01/</guid>
             <description>google-site-verification: google0cfb5112092bdd72.</description>
             <content type="html"><![CDATA[google-site-verification: google0cfb5112092bdd72.html]]></content>
-        </item>
-        
-        <item>
-            <title>Referências em Python</title>
-            <link>https://rogawa.github.io/posts/1/01/01/refer%C3%AAncias-em-python/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            
-            <guid>https://rogawa.github.io/posts/1/01/01/refer%C3%AAncias-em-python/</guid>
-            <description>Seguem algumas dicas do Fabio Alexandre Spanhol, para aprendizado de Python. Acho que você poderia começando com o livro &amp;ldquo;Python para Desenvolvedores&amp;rdquo;, do Luiz Eduardo Borges. Em português é um dos melhores materiais, principalmente para quem já sabe programar. Tem uma pegada bastante prática, está na segunda edição e é licenciado sob Creative Commons, disponível gratuitamente. Recomendo. [0] A edição 3 parece-me que só impressa, editada pela Novatec.
-Quanto a IDE você pode começar com o próprio interpretador na shell (ou o IDLE, se instalar a versão windows do python automaticamente será instalado, no GNU/Linux precisa instalar a parte.</description>
-            <content type="html"><![CDATA[<h2 id="seguem-algumas-dicas-do-fabio-alexandre-spanhol-para-aprendizado-de-python">Seguem algumas dicas do Fabio Alexandre Spanhol, para aprendizado de Python.</h2>
-<p>Acho que você poderia começando com o livro &ldquo;Python para Desenvolvedores&rdquo;, do Luiz Eduardo Borges. Em português é um dos melhores materiais, principalmente para quem já sabe programar. Tem uma pegada bastante prática, está na segunda edição e é licenciado sob Creative Commons, disponível gratuitamente. Recomendo. [0]
-A edição 3 parece-me que só impressa, editada pela Novatec.</p>
-<p>Quanto a IDE você pode começar com o próprio interpretador na shell (ou o IDLE, se instalar a versão windows do python automaticamente será instalado, no GNU/Linux precisa instalar a parte. Só uso para preparar slides ou em treinamentos).</p>
-<p>Depois de familiarizado com os conceitos básicos da linguagen, deve levar poucas horas, você pode partir para uma IDE. Conforme sugeri, um IDE leve seria o Ninja [1], mas existe uma infinidade de outros, alguns abertos outros pagos. O próprio Eclipse pode se usado, se você preferir.  Por um tempo, profissionalmente, usei o Wing. Ultimamente, no meu laptop para atividades mais científicos digamos assim estou usando mais o Ipython e o Sublime + extensões como editor principal. As vezes uso o vim (customizado) também.</p>
-<p>Já em [2] e [3] as páginas wiki da comunidade python do Brasil. Em [4] tem o livro &ldquo;Aprenda a Programar&rdquo;, do Luciano Ramalho (usando python é claro).  Já em [5] tem a tradução que eu ajudei a fazer da obra &ldquo;How to think a computer scientist&rdquo;, do Jeffrey Elkner. Foi o Luciano Ramalho que inciou o projeto da tradução e atualmente é o Francisco Souza que está mantendo.</p>
-<p>Quanto a desenvolvimento web, a escolha vai recair sobre algum framework. Sem conhecer as especificidades dos requisitos da sua aplicação, talvez  Django [6] [7] seja uma boa pedida, mas existem diversos outros. O livro do Osvaldo Santana e do Thiago Galesi, publicado pela Novatec [8] é um bom ponto de partida. Recentemente o Osvaldo liberou os vídeos do curso dele [9].</p>
-<p>Mais leve e divertida, também sugiro a obra do  Marinho Brandão, &ldquo;Aprendendo Django no Planeta Terra&rdquo;  [10], outra licenciada sob Creative Commons.</p>
-<p>Para desenvolvimnto de GUI desktop você precisa escolher uma API que tenha binding para Python: wxWidgets [11] e wxPython [12],  QT e pyQt [13], GTK e pyGTK [14], etc.
-Dependendo de qual API você escolha tem vários IDEs para &ldquo;desenhar&rdquo; as interfaces: Glade [15], Boa Constructor [16], QTCreator [17] e por aí vai.</p>
-<p>E finalmente, tem algum material meu [18] que utilizo em palestras, minicursos e tutoriais.</p>
-<p>Qualquer coisa estou por aqui.</p>
-<p>Abraços e bem vindo ao Python!</p>
-<p><a href="http://ark4n.wordpress.com/python/" target="_blank">
-  0
-</a>
-
-<a href="http://ninja-ide.org/" target="_blank">
-  1
-</a>
-
-<a href="http://www.python.org.br/wiki/InicieSe" target="_blank">
-  2
-</a>
-
-<a href="http://www.python.org.br/wiki/AprendaMais" target="_blank">
-  3
-</a>
-
-<a href="http://turing.com.br/material/appy/index.html" target="_blank">
-  4
-</a>
-
-<a href="http://py.franciscosouza.net/index.html" target="_blank">
-  5
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-  6
-</a>
-
-<a href="http://www.djangobrasil.org/" target="_blank">
-  7
-</a>
-
-<a href="http://novatec.com.br/livros/pythonedjango/" target="_blank">
-  8
-</a>
-
-<a href="http://j.mp/tubepydjango" target="_blank">
-  9
-</a>
-
-<a href="http://www.aprendendodjango.com/" target="_blank">
-  10
-</a>
-
-<a href="http://www.wxwidgets.org/" target="_blank">
-  11
-</a>
-
-<a href="http://wxpython.org/" target="_blank">
-  12
-</a>
-
-<a href="http://www.riverbankcomputing.co.uk/software/pyqt/intro" target="_blank">
-  13
-</a>
-
-<a href="http://zetcode.com/gui/pygtk/" target="_blank">
-  14
-</a>
-
-<a href="http://glade.gnome.org/" target="_blank">
-  15
-</a>
-
-<a href="http://boa-constructor.sourceforge.net/" target="_blank">
-  16
-</a>
-
-<a href="http://qt.digia.com/product/developer-tools/" target="_blank">
-  17
-</a>
-
-<a href="http://www.slideshare.net/_photon_" target="_blank">
-  18
-</a>
-</p>
-]]></content>
         </item>
         
     </channel>
