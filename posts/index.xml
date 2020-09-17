@@ -5146,15 +5146,17 @@ Dependendo de qual API você escolha tem vários IDEs para &ldquo;desenhar&rdquo
 <p>E finalmente, tem algum material meu [18] que utilizo em palestras, minicursos e tutoriais.</p>
 <p>Qualquer coisa estou por aqui.</p>
 <p>Abraços e bem vindo ao Python!</p>
-<ul>
+<ol start="0">
 <li><a href="http://ark4n.wordpress.com/python/" target="_blank">
-  0 - http://ark4n.wordpress.com/python/
+  http://ark4n.wordpress.com/python/
 </a>
 </li>
 <li><a href="http://ninja-ide.org/" target="_blank">
-  1
+  http://ninja-ide.org/
 </a>
 </li>
+</ol>
+<ul>
 <li><a href="http://www.python.org.br/wiki/InicieSe" target="_blank">
   2
 </a>
