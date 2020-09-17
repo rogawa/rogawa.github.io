@@ -5127,10 +5127,10 @@ O Amor</description>
         
         <item>
             <title>Referências em Python</title>
-            <link>https://rogawa.github.io/posts/2015/02/12/refer%C3%AAncias-em-python/</link>
-            <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2015/02/13/refer%C3%AAncias-em-python/</link>
+            <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/posts/2015/02/12/refer%C3%AAncias-em-python/</guid>
+            <guid>https://rogawa.github.io/posts/2015/02/13/refer%C3%AAncias-em-python/</guid>
             <description>Seguem algumas dicas do Fabio Alexandre Spanhol, para aprendizado de Python. Acho que você poderia começando com o livro &amp;ldquo;Python para Desenvolvedores&amp;rdquo;, do Luiz Eduardo Borges. Em português é um dos melhores materiais, principalmente para quem já sabe programar. Tem uma pegada bastante prática, está na segunda edição e é licenciado sob Creative Commons, disponível gratuitamente. Recomendo. [0] A edição 3 parece-me que só impressa, editada pela Novatec.
 Quanto a IDE você pode começar com o próprio interpretador na shell (ou o IDLE, se instalar a versão windows do python automaticamente será instalado, no GNU/Linux precisa instalar a parte.</description>
             <content type="html"><![CDATA[<h2 id="seguem-algumas-dicas-do-fabio-alexandre-spanhol-para-aprendizado-de-python">Seguem algumas dicas do Fabio Alexandre Spanhol, para aprendizado de Python.</h2>
