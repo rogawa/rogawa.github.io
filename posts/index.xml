@@ -2436,9 +2436,12 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
             <pubDate>Fri, 29 Jun 2018 02:50:55 +0000</pubDate>
             
             <guid>https://rogawa.github.io/tecnicas-taticas-melhor-aprendizado/</guid>
-            <description>Estou lendo o livro ‘Use a cabeça – Rails’. Essa série é sobre vários temas da área da computação, sempre com uma abordagem bem ilustrada, bem humorada e conversacional. Penso que as técnicas que eles adotam podem e devem ser utilizadas por nós, professores. Adaptei a seguir o que eles propõem, para uso em sala de aula.
+            <description>Estou lendo o livro Use a cabeça – Rails  . Essa série é sobre vários temas da área da computação, sempre com uma abordagem bem ilustrada, bem humorada e conversacional. Penso que as técnicas que eles adotam podem e devem ser utilizadas por nós, professores. Adaptei a seguir o que eles propõem, para uso em sala de aula.
  Utilize figuras, pois nosso cérebro está sintonizado para prestar atenção em coisas visuais, não textuais.</description>
-            <content type="html"><![CDATA[<p>Estou lendo o livro ‘Use a cabeça – Rails’. Essa série é sobre vários temas da área da computação, sempre com uma abordagem bem ilustrada, bem humorada e conversacional. Penso que as técnicas que eles adotam podem e devem ser utilizadas por nós, professores. Adaptei a seguir o que eles propõem, para uso em sala de aula.</p>
+            <content type="html"><![CDATA[<p>Estou lendo o livro <a href="https://www.amazon.com.br/Use-Cabe%C3%A7a-Rails-Dawn-Griffiths/dp/8576084139" target="_blank">
+  Use a cabeça – Rails
+</a>
+. Essa série é sobre vários temas da área da computação, sempre com uma abordagem bem ilustrada, bem humorada e conversacional. Penso que as técnicas que eles adotam podem e devem ser utilizadas por nós, professores. Adaptei a seguir o que eles propõem, para uso em sala de aula.</p>
 <ol>
 <li>Utilize figuras, pois nosso cérebro está sintonizado para prestar atenção em coisas visuais, não textuais. Até onde o nosso cérebro sabe, uma figura vale mais que mil palavras. Quanto texto e figuras trabalham juntos, procure embutir o texto dentro das figuras, porque o nosso cérebro funciona de forma mais efetiva quando o texto está dentro da imagem a que ele se refere, ao invés de estar em um título ou enfiado em algum lugar do texto.</li>
 <li>Utilize redundância, dizendo a mesma coisa de formas diferentes, com tipos diferentes e em sentidos múltiplos. Assim, aumentamos a chance de que o conteúdo fique armazenado em mais de uma área do cérebro.</li>
