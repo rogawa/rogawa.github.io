@@ -2798,7 +2798,7 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
             
             <guid>https://rogawa.github.io/posts/2018/01/05/um-jeito-diferente-de-ensinar-programa%C3%A7%C3%A3o/</guid>
             <description>     As pessoas costumam associar o ensino de programação como algo difícil e chato. Se o método e a abordagem fossem diferentes, talvez os alunos possam se sentir mais à vontade e passem a demonstrar mais interesse. A forma desse cara ensinar programação é absolutamente divertida e apaixonante. Todo professor devia ter essa didática, método e atitude!
-The Coding Train  </description>
+As aulas são dados pelo Daniel Shiffman  no Canal The Coding Train  </description>
             <content type="html"><![CDATA[
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box" >
@@ -2811,7 +2811,11 @@ The Coding Train  </description>
 </div>
 
 <p>As pessoas costumam associar o ensino de programação como algo difícil e chato. Se o método e a abordagem fossem diferentes, talvez os alunos possam se sentir mais à vontade e passem a demonstrar mais interesse. A forma desse cara ensinar programação é absolutamente divertida e apaixonante. Todo professor devia ter essa didática, método e atitude!</p>
-<p><a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw" target="_blank">
+<p>As aulas são dados pelo <a href="https://twitter.com/shiffman" target="_blank">
+  Daniel Shiffman
+
+</a>
+ no Canal <a href="https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw" target="_blank">
   The Coding Train
 </a>
 </p>
