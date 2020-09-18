@@ -2821,6 +2821,31 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
         </item>
         
         <item>
+            <title>Lista de comandos úteis do Vim</title>
+            <link>https://rogawa.github.io/posts/2017/12/23/lista-de-comandos-%C3%BAteis-do-vim/</link>
+            <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+            
+            <guid>https://rogawa.github.io/posts/2017/12/23/lista-de-comandos-%C3%BAteis-do-vim/</guid>
+            <description>O arquivo em PDF pode ser baixado AQUI      </description>
+            <content type="html"><![CDATA[<p>O arquivo em PDF pode ser baixado <a href="https://www.cheatography.com/stepk/cheat-sheets/vim-nerdtree/pdf/" target="_blank">
+  AQUI
+</a>
+</p>
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/comandos-vim.png" />
+    </div>
+    <a href="media/comandos-vim.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+]]></content>
+        </item>
+        
+        <item>
             <title>Meu fígado gordo</title>
             <link>https://rogawa.github.io/posts/2017/12/22/meu-f%C3%ADgado-gordo/</link>
             <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
@@ -5332,31 +5357,6 @@ Having nearly instant feedback enables you to have your creativity flow without 
             <guid>https://rogawa.github.io/posts/1/01/01/</guid>
             <description>google-site-verification: google0cfb5112092bdd72.</description>
             <content type="html"><![CDATA[google-site-verification: google0cfb5112092bdd72.html]]></content>
-        </item>
-        
-        <item>
-            <title>Lista de comandos úteis do Vim</title>
-            <link>https://rogawa.github.io/posts/1/01/01/lista-de-comandos-%C3%BAteis-do-vim/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            
-            <guid>https://rogawa.github.io/posts/1/01/01/lista-de-comandos-%C3%BAteis-do-vim/</guid>
-            <description>O arquivo em PDF pode ser baixado AQUI      </description>
-            <content type="html"><![CDATA[<p>O arquivo em PDF pode ser baixado <a href="https://www.cheatography.com/stepk/cheat-sheets/vim-nerdtree/pdf/" target="_blank">
-  AQUI
-</a>
-</p>
-
-<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
-<div class="box" >
-  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <div class="img">
-      <img itemprop="thumbnail" src="/media/comandos-vim.png" />
-    </div>
-    <a href="media/comandos-vim.png" itemprop="contentUrl"></a>
-  </figure>
-</div>
-
-]]></content>
         </item>
         
     </channel>
