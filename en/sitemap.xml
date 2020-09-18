@@ -1373,31 +1373,6 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/tags/atalhos/</loc>
-    <lastmod>2017-12-23T23:26:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/tags/comandos/</loc>
-    <lastmod>2017-12-23T23:26:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/categories/computa%C3%A7%C3%A3o/</loc>
-    <lastmod>2017-12-23T23:26:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/lista-de-comandos-uteis-do-vim/</loc>
-    <lastmod>2017-12-23T23:26:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/tags/vim/</loc>
-    <lastmod>2017-12-23T23:26:59+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rogawa.github.io/tags/esteatose-hep%C3%A1tica/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
   </url>
@@ -2014,6 +1989,26 @@
   
   <url>
     <loc>https://rogawa.github.io/posts/1/01/01/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/atalhos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/comandos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/computa%C3%A7%C3%A3o/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/1/01/01/lista-de-comandos-%C3%BAteis-do-vim/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/vim/</loc>
   </url>
   
 </urlset>
