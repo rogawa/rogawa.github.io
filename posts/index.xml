@@ -2809,14 +2809,33 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
         
         <item>
             <title>Sinop – Crescimento ou Desenvolvimento?</title>
-            <link>https://rogawa.github.io/sinop-crescimento-ou-desenvolvimento/</link>
-            <pubDate>Tue, 26 Dec 2017 16:01:51 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2017/12/26/sinop-crescimento-ou-desenvolvimento/</link>
+            <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/sinop-crescimento-ou-desenvolvimento/</guid>
-            <description></description>
-            <content type="html"><![CDATA[<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+            <guid>https://rogawa.github.io/posts/2017/12/26/sinop-crescimento-ou-desenvolvimento/</guid>
+            <description>Sinop é uma cidade que cresce, mas não se desenvolve como um lugar de pessoas, para pessoas. Estamos em Sinop desde 1979 e temos visto um forte crescimento e fraquíssimo desenvolvimento sustentável. Enquanto não compreendermos que uma cidade é o local onde PESSOAS vivem (e têm o direito de viver com qualidade), a cidade perde a oportunidade, muitíssimo bem abordada na matéria, de inovar e se tornar uma referência para o Brasil.</description>
+            <content type="html"><![CDATA[
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/sinop.png" />
+    </div>
+    <a href="media/sinop.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+<p>Sinop é uma cidade que cresce, mas não se desenvolve como um lugar de pessoas, para pessoas. Estamos em Sinop desde 1979 e temos visto um forte crescimento e fraquíssimo desenvolvimento sustentável. Enquanto não compreendermos que uma cidade é o local onde PESSOAS vivem (e têm o direito de viver com qualidade), a cidade perde a oportunidade, muitíssimo bem abordada na matéria, de inovar e se tornar uma referência para o Brasil. Ainda dá tempo e há muitas pessoas com excelentes ideias dispostas a contribuir. Basta o poder público perceber isso.</p>
+<p>A <a href="https://medium.com/@nataliafgarcia" target="_blank">
+  Natália Fontes Garcia
+</a>
+ do <a href="http://cidadesparapessoas.com/" target="_blank">
+  Cidade para pessoa
+</a>
+ escreveu um excelente <a href="https://medium.com/cidades-para-pessoas/sinop-o-lugar-que-pode-mudar-a-l%C3%B3gica-de-fazer-cidades-no-brasil-a5b8af26e249" target="_blank">
+  artigo
+</a>
+ sobre o município.</p>
 ]]></content>
         </item>
         
