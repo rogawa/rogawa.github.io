@@ -2673,13 +2673,26 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
         
         <item>
             <title>A enorme quantidade de sub-áreas da Computação</title>
-            <link>https://rogawa.github.io/a-enorme-quantidade-de-sub-areas-da-computacao/</link>
-            <pubDate>Fri, 16 Feb 2018 14:49:30 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2018/02/16/a-enorme-quantidade-de-sub-%C3%A1reas-da-computa%C3%A7%C3%A3o/</link>
+            <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/a-enorme-quantidade-de-sub-areas-da-computacao/</guid>
-            <description>New photo by Rui Ogawa / Google Photos</description>
-            <content type="html"><![CDATA[<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->New photo by Rui Ogawa / Google Photos<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+            <guid>https://rogawa.github.io/posts/2018/02/16/a-enorme-quantidade-de-sub-%C3%A1reas-da-computa%C3%A7%C3%A3o/</guid>
+            <description>Quem tem formação na área da Computação sempre acaba ouvindo coisas de parentes e amigos, sobre “como que você, sendo da área, não tem conhecimento sobre tal assunto?”. Pois é, acontece que a Computação é uma área enorme, que abrange uma quantidade absurdamente ampla de sub-áreas. Ontem fui me cadastrar no INSTICC  e precisei preencher quais eram minhas áreas de interesse. Lá no meio, eu marquei em vermelho qual é minha área de pesquisa.</description>
+            <content type="html"><![CDATA[<p>Quem tem formação na área da Computação sempre acaba ouvindo coisas de parentes e amigos, sobre “como que você, sendo da área, não tem conhecimento sobre tal assunto?”. Pois é, acontece que a Computação é uma área enorme, que abrange uma quantidade absurdamente ampla de sub-áreas. Ontem fui me cadastrar no <a href="http://www.insticc.org/Portal/aboutus.aspx" target="_blank">
+  INSTICC
+</a>
+ e precisei preencher quais eram minhas áreas de interesse. Lá no meio, eu marquei em vermelho qual é minha área de pesquisa. Creio que agora deu pra ter uma noção melhor da importância e abrangência da Computação na vida de todos.</p>
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/areas-computacao.png" />
+    </div>
+    <a href="media/areas-computacao.png" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
 ]]></content>
         </item>
         
