@@ -2386,17 +2386,30 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
         
         <item>
             <title>Barbies cientistas</title>
-            <link>https://rogawa.github.io/barbies-cientistas/</link>
-            <pubDate>Tue, 24 Jul 2018 13:42:00 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2018/07/24/barbies-cientistas/</link>
+            <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/barbies-cientistas/</guid>
-            <description>A boneca Barbie sempre foi estereotipada como branca, alta, magra, rica e “do lar”. Entretanto, embora muitas meninas têm talento para carreiras nas ciências, o (des)incentivo que a maioria dos brinquedos gera tem sido inegável. Fico feliz quando vejo iniciativas como essa.</description>
+            <guid>https://rogawa.github.io/posts/2018/07/24/barbies-cientistas/</guid>
+            <description>A boneca Barbie sempre foi estereotipada como branca, alta, magra, rica e “do lar”. Entretanto, embora muitas meninas têm talento para carreiras nas ciências, o (des)incentivo que a maioria dos brinquedos gera tem sido inegável. Fico feliz quando vejo iniciativas como essa.
+     Barbie engenheira robótica’ quer incentivar meninas a programar   </description>
             <content type="html"><![CDATA[<p>A boneca Barbie sempre foi estereotipada como branca, alta, magra, rica e “do lar”. Entretanto, embora muitas meninas têm talento para carreiras nas ciências, o (des)incentivo que a maioria dos brinquedos gera tem sido inegável. Fico feliz quando vejo iniciativas como essa.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/barbie-eng.jpg" />
+    </div>
+    <a href="media/barbie-eng.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+<blockquote>
+<p><a href="https://revistagalileu.globo.com/Sociedade/noticia/2018/06/barbie-engenheira-robotica-quer-incentivar-meninas-programar.html" target="_blank">
+  Barbie engenheira robótica’ quer incentivar meninas a programar
+</a>
+</p>
+</blockquote>
 ]]></content>
         </item>
         
