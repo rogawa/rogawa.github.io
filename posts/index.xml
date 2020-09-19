@@ -2398,9 +2398,9 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
 <div class="box" >
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img">
-      <img itemprop="thumbnail" src="/media/barbie-eng.jpg" />
+      <img itemprop="thumbnail" src="/media/barbie-eng.jpeg" />
     </div>
-    <a href="media/barbie-eng.jpg" itemprop="contentUrl"></a>
+    <a href="media/barbie-eng.jpeg" itemprop="contentUrl"></a>
   </figure>
 </div>
 
