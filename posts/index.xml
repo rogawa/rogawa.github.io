@@ -57,133 +57,37 @@ Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisa
             <guid>https://rogawa.github.io/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</guid>
             <description>O Hugo usa Markdown para compor suas páginas. uma das coisas meio &amp;ldquo;chatinhas&amp;rdquo; é fazer tabelas. Após procurar bastante, encontrei esse post CSV and Data Tables in Hugo  .
 Nele, o autor explica como construir shortcodes espefícicos, para vários tipos de dados e tabelas. Segue um exemplo de entrada e sua respectiva saída.
-`  Common `elscreen` commands  ` Function  Keys  Description    `elscreen-create`  `C-z c`  Create a new screen and switch to it.</description>
+{{&amp;lt; list-table caption=&amp;quot;Common `elscreen` commands&amp;quot; header=true &amp;gt;}} Function Keys Description `elscreen-create` `C-z c` Create a new screen and switch to it.</description>
             <content type="html"><![CDATA[<p>O Hugo usa Markdown para compor suas páginas. uma das coisas meio &ldquo;chatinhas&rdquo; é fazer tabelas. Após procurar bastante, encontrei esse post <a href="https://randomgeekery.org/post/2020/06/csv-and-data-tables-in-hugo/" target="_blank">
   CSV and Data Tables in Hugo
 </a>
 .</p>
 <p>Nele, o autor explica como construir shortcodes espefícicos, para vários tipos de dados e tabelas. Segue um exemplo de entrada e sua respectiva saída.</p>
-<pre><code>`
+<pre><code>{{&lt; list-table caption=&quot;Common `elscreen` commands&quot; header=true &gt;}}
+Function
+Keys
+Description
 
+`elscreen-create`
+`C-z c`
+Create a new screen and switch to it.
 
+`elscreen-next`
+`C-z n`
+Cycle to the next screen
 
-<table>
-  
-    <caption>Common `elscreen` commands</caption>
-  
-  
-    
-    
-    <tr>
-       <th>`</th>  <th><pre><code>Function</code></pre>
-</th>  <th><pre><code>Keys</code></pre>
-</th>  <th><pre><code>Description</code></pre>
-</th> 
-    </tr>
-  
-  
-    <tr>
-      
-        
-          <td><pre><code>`elscreen-create`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>`C-z c`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>Create a new screen and switch to it.</code></pre>
-</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td><pre><code>`elscreen-next`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>`C-z n`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>Cycle to the next screen</code></pre>
-</td>
-        
-      
-        
-          <td></td>
-        
-      
-        
-          <td><pre><code>`elscreen-previous`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>`C-z p`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>Cycle to the previous screen</code></pre>
-</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td><pre><code>`elscreen-kill`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>`C-z k`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>Kill the current screen</code></pre>
-</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td><pre><code>`elscreen-help`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>`C-z ?`</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>Show ElScreen key bindings</code></pre>
-</td>
-        
-      
-        
-          <td><pre><code>`</code></pre>
-</td>
-        
-      
-    </tr>
-  
-</table>
-`
+`elscreen-previous`
+`C-z p`
+Cycle to the previous screen
+
+`elscreen-kill`
+`C-z k`
+Kill the current screen
+
+`elscreen-help`
+`C-z ?`
+Show ElScreen key bindings
+{{&lt; /list-table &gt;}}
 </code></pre>
 ]]></content>
         </item>
