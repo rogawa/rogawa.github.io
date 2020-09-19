@@ -1,18 +1,1964 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://rogawa.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-09-15T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://rogawa.github.io/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2014-09-28T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/05/28/first-post/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/05/28/migrando-do-wordpress-para-hugo-e-hospedando-nas-githubpages/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/galeria/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/hugo/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/15/hugo-easy-galery/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/inform%C3%A1tica/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/shorcodes/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/dev/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/imagens/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</loc>
+    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/espa%C3%A7o-tempo/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/liberal/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/13/o-espa%C3%A7o-tempo/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/13/o-pensamento-liberal/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pensamento/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pensamentos/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/pensamentos/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/pol%C3%ADtica/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/series/hugo/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/series/hugo-101/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/about/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/series/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/cita%C3%A7%C3%B5es/</loc>
+    <lastmod>2018-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/11/24/como-referenciar-m%C3%ADdias-sociais/</loc>
+    <lastmod>2018-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/educa%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/m%C3%ADdias-sociais/</loc>
+    <lastmod>2018-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/nbr-6023/</loc>
+    <lastmod>2018-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/empregado/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/11/19/empregado-e-patr%C3%A3o/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/patr%C3%A3o/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/a-mentira-de-bolsonaro-sobre-o-mais-medicos/</loc>
+    <lastmod>2018-11-15T17:03:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/bolsonaro/</loc>
+    <lastmod>2018-11-15T17:03:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/cuba/</loc>
+    <lastmod>2018-11-15T17:03:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/mais-m%C3%A9dicos/</loc>
+    <lastmod>2018-11-15T17:03:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/pol%C3%ADcia/</loc>
+    <lastmod>2018-11-15T17:03:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/sa%C3%BAde/</loc>
+    <lastmod>2018-11-15T17:03:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/homem/</loc>
+    <lastmod>2018-11-15T00:07:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/homem/</loc>
+    <lastmod>2018-11-15T00:07:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/destrui%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/11/14/o-homem/</loc>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/planeta/</loc>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/vida/</loc>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/cotidiano/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/homofobia/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ignor%C3%A2ncia/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/machismo/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/mimimi/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/preconceito/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/racismo/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/mimimi-e-o-preconceito/</loc>
+    <lastmod>2018-11-11T22:09:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/opiniao-e-argumento/</loc>
+    <lastmod>2018-11-11T21:40:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/1-ano-da-nova-clt-melhorou/</loc>
+    <lastmod>2018-11-11T13:38:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/carteira-de-trabalho/</loc>
+    <lastmod>2018-11-11T13:38:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/clt/</loc>
+    <lastmod>2018-11-11T13:38:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/desemprego/</loc>
+    <lastmod>2018-11-11T13:38:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/temer/</loc>
+    <lastmod>2018-11-11T13:38:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/trabalho/</loc>
+    <lastmod>2018-11-11T13:38:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/argumento/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/comportamento/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/11/11/mimimi/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/opini%C3%A3o/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/11/11/opini%C3%A3o-e-argumento/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/educa%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-11-03T15:41:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pesquisa/</loc>
+    <lastmod>2018-11-03T15:41:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/providencias-para-minimizar-os-riscos-em-pesquisas/</loc>
+    <lastmod>2018-11-03T15:41:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/riscos/</loc>
+    <lastmod>2018-11-03T15:41:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/11/03/a-culpa-de-paulo-freire/</loc>
+    <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/paulo-freire/</loc>
+    <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/golpe/</loc>
+    <lastmod>2018-11-01T17:24:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/moro/</loc>
+    <lastmod>2018-11-01T17:24:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/moro-e-a-parte-que-lhe-cabe-no-golpe/</loc>
+    <lastmod>2018-11-01T17:24:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/escola-sem-partido/</loc>
+    <lastmod>2018-10-30T02:22:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/liberdade-de-c%C3%A1tedra/</loc>
+    <lastmod>2018-10-30T02:22:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/manual-de-defesa-para-docentes/</loc>
+    <lastmod>2018-10-30T02:22:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/mito/</loc>
+    <lastmod>2018-10-29T04:37:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/morte/</loc>
+    <lastmod>2018-10-29T04:37:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/vamos-comemorar-a-vitoria-do-mito/</loc>
+    <lastmod>2018-10-29T04:37:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/democracia/</loc>
+    <lastmod>2018-10-29T02:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/democracia-participativa-vs-democracia-por-procedimento/</loc>
+    <lastmod>2018-10-29T02:26:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/contempla-som/</loc>
+    <lastmod>2018-10-28T18:10:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/humor/</loc>
+    <lastmod>2018-10-28T18:10:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/trocadilhos/</loc>
+    <lastmod>2018-10-28T18:10:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/quanta-indecisao/</loc>
+    <lastmod>2018-10-28T17:51:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pol%C3%ADtica/</loc>
+    <lastmod>2018-10-28T15:32:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/samba/</loc>
+    <lastmod>2018-10-28T15:32:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/samba-da-utopia/</loc>
+    <lastmod>2018-10-28T15:32:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/utopia/</loc>
+    <lastmod>2018-10-28T15:32:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/carmem-lucia/</loc>
+    <lastmod>2018-10-28T14:58:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ditadura/</loc>
+    <lastmod>2018-10-28T14:58:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/um-pouco-de-lucidez-da-carmem-lucia/</loc>
+    <lastmod>2018-10-28T14:58:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/assassinato/</loc>
+    <lastmod>2018-10-28T13:20:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/o-odio-endossado/</loc>
+    <lastmod>2018-10-28T13:20:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/%C3%B3dio/</loc>
+    <lastmod>2018-10-28T13:20:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/a-bancada-indigena-precisa-crescer/</loc>
+    <lastmod>2018-10-28T12:57:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ind%C3%ADgena/</loc>
+    <lastmod>2018-10-28T12:57:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/jo%C3%AAnia-wapichana/</loc>
+    <lastmod>2018-10-28T12:57:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/glp/</loc>
+    <lastmod>2018-10-28T10:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/o-preco-do-gas-de-cozinha/</loc>
+    <lastmod>2018-10-28T10:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pre%C3%A7o/</loc>
+    <lastmod>2018-10-28T10:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/m%C3%BAsica/</loc>
+    <lastmod>2018-10-28T02:15:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pink-floyd/</loc>
+    <lastmod>2018-10-28T02:15:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/ressignificando-o-muro/</loc>
+    <lastmod>2018-10-28T02:15:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/roger-waters/</loc>
+    <lastmod>2018-10-28T02:15:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/censura/</loc>
+    <lastmod>2018-10-28T00:58:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/jornalismo/</loc>
+    <lastmod>2018-10-28T00:58:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/o-fantasma-da-censura/</loc>
+    <lastmod>2018-10-28T00:58:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/a-cegueira-provocada-pelo-odio/</loc>
+    <lastmod>2018-10-28T00:53:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/eu-avisei/</loc>
+    <lastmod>2018-10-28T00:53:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/ate-rodrigo-janot-quem-diria/</loc>
+    <lastmod>2018-10-28T00:37:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/janot/</loc>
+    <lastmod>2018-10-28T00:37:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/ate-os-states-contra-o-bozo/</loc>
+    <lastmod>2018-10-28T00:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/estados-unidos/</loc>
+    <lastmod>2018-10-28T00:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/danilo/</loc>
+    <lastmod>2018-10-27T23:55:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/danilo-e-o-cara/</loc>
+    <lastmod>2018-10-27T23:55:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/esportes/</loc>
+    <lastmod>2018-10-27T23:55:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/futebol/</loc>
+    <lastmod>2018-10-27T23:55:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/de-paris-um-apoio-contra-a-intolerancia/</loc>
+    <lastmod>2018-10-27T23:04:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/haddad/</loc>
+    <lastmod>2018-10-27T23:04:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/paris/</loc>
+    <lastmod>2018-10-27T23:04:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/fascismo/</loc>
+    <lastmod>2018-10-27T22:59:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/reitor-da-ufpr-fala-sobre-fascismo/</loc>
+    <lastmod>2018-10-27T22:59:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ufpr/</loc>
+    <lastmod>2018-10-27T22:59:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/corrup%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-10-27T21:54:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/o-pt-e-o-partido-mais-corrupto/</loc>
+    <lastmod>2018-10-27T21:54:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pt/</loc>
+    <lastmod>2018-10-27T21:54:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/carta-aberta-em-apoio-a-democracia/</loc>
+    <lastmod>2018-10-27T20:51:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/f%C3%A9-crist%C3%A3/</loc>
+    <lastmod>2018-10-27T20:51:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/desabafo/</loc>
+    <lastmod>2018-10-27T20:46:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/monica-iozzi/</loc>
+    <lastmod>2018-10-27T20:46:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/monica-iozzi-tem-meu-respeito/</loc>
+    <lastmod>2018-10-27T20:46:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ind%C3%ADgenas/</loc>
+    <lastmod>2018-10-27T18:07:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/kalapalo/</loc>
+    <lastmod>2018-10-27T18:07:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/povo-xinguano-kalapalo-em-apoio-a-democracia/</loc>
+    <lastmod>2018-10-27T18:07:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/xingu/</loc>
+    <lastmod>2018-10-27T18:07:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/motivos-para-votar-em-haddad/</loc>
+    <lastmod>2018-10-27T15:23:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/direitos-humanos/</loc>
+    <lastmod>2018-10-27T14:25:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/humanidade/</loc>
+    <lastmod>2018-10-27T14:25:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/o-voto-do-ser-humano/</loc>
+    <lastmod>2018-10-27T14:25:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/automacao-a-servico-de-fake-news/</loc>
+    <lastmod>2018-10-27T13:37:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/fake-news/</loc>
+    <lastmod>2018-10-27T13:37:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/whatsapp/</loc>
+    <lastmod>2018-10-27T13:37:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/e-se-bolsonaro-fosse-uma-mulher-candidata-a-presidencia/</loc>
+    <lastmod>2018-10-27T13:13:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/a-esquerda-indo-pro-centro/</loc>
+    <lastmod>2018-10-27T03:22:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/centro/</loc>
+    <lastmod>2018-10-27T03:22:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/esquerda/</loc>
+    <lastmod>2018-10-27T03:22:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/elei%C3%A7%C3%B5es/</loc>
+    <lastmod>2018-10-27T03:19:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/fakenews/</loc>
+    <lastmod>2018-10-27T03:19:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/o-whatsapp-pode-eleger-bolsonaro/</loc>
+    <lastmod>2018-10-27T03:19:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/uma-campanha-centrada-no-whatsapp-e-nas-fake-news/</loc>
+    <lastmod>2018-10-27T03:19:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/corinthians/</loc>
+    <lastmod>2018-10-27T02:52:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/esportes/</loc>
+    <lastmod>2018-10-27T02:52:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/sobre-a-democracia-corinthiana-e-as-eleicoes/</loc>
+    <lastmod>2018-10-27T02:52:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/luciana-barcellos/</loc>
+    <lastmod>2018-10-27T02:27:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/luciana-barcellos-se-demite-da-record/</loc>
+    <lastmod>2018-10-27T02:27:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/rede-record/</loc>
+    <lastmod>2018-10-27T02:27:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/invas%C3%A3o/</loc>
+    <lastmod>2018-10-26T11:15:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/oi-onde-estamos-unb-em-1964/</loc>
+    <lastmod>2018-10-26T11:15:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/universidade/</loc>
+    <lastmod>2018-10-26T11:15:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/justi%C3%A7a/</loc>
+    <lastmod>2018-10-26T11:11:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/juiza-ordena-retirada-de-bandeira-anti-fascista/</loc>
+    <lastmod>2018-10-26T11:11:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/o-lado-bom-em-saber-quem-nao-esta-ao-seu-lado/</loc>
+    <lastmod>2018-10-23T14:06:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/razoes-para-nao-votar-em-fascista-e-votar-no-haddad/</loc>
+    <lastmod>2018-10-08T02:24:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/business/</loc>
+    <lastmod>2018-10-03T10:34:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/creative/</loc>
+    <lastmod>2018-10-03T10:34:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/insights/</loc>
+    <lastmod>2018-10-03T10:34:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/internet/</loc>
+    <lastmod>2018-10-03T10:34:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/marketing/</loc>
+    <lastmod>2018-10-03T10:34:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/standard-post/</loc>
+    <lastmod>2018-10-03T10:34:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/gallery-post/</loc>
+    <lastmod>2018-10-03T10:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/gear/</loc>
+    <lastmod>2018-10-03T10:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/general/</loc>
+    <lastmod>2018-10-03T10:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/popular/</loc>
+    <lastmod>2018-10-03T10:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/1o-workshop-geg-barra-do-garcas/</loc>
+    <lastmod>2018-09-22T23:02:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/barra-do-gar%C3%A7as/</loc>
+    <lastmod>2018-09-22T23:02:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/geg/</loc>
+    <lastmod>2018-09-22T23:02:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/google/</loc>
+    <lastmod>2018-09-22T23:02:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ifmt/</loc>
+    <lastmod>2018-09-22T23:02:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/colabora%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-09-12T23:06:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/redes/</loc>
+    <lastmod>2018-09-12T23:06:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/seguran%C3%A7a/</loc>
+    <lastmod>2018-09-12T23:06:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/topologia-de-rede-usando-draw-io/</loc>
+    <lastmod>2018-09-12T23:06:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/anotar-e-uma-otima-tatica-para-aprender-melhor/</loc>
+    <lastmod>2018-08-28T01:37:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/anota%C3%A7%C3%B5es/</loc>
+    <lastmod>2018-08-28T01:37:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/anpg/</loc>
+    <lastmod>2018-08-10T16:27:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/nao-e-normal-sofrer-para-estudar/</loc>
+    <lastmod>2018-08-10T16:27:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/press%C3%A3o/</loc>
+    <lastmod>2018-08-10T16:27:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/p%C3%B3-gradua%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-08-10T16:27:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/setembro-amarelo/</loc>
+    <lastmod>2018-08-10T16:27:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/suic%C3%ADdio/</loc>
+    <lastmod>2018-08-10T16:27:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/barbie/</loc>
+    <lastmod>2018-07-24T13:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/barbies-cientistas/</loc>
+    <lastmod>2018-07-24T13:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ci%C3%AAncia/</loc>
+    <lastmod>2018-07-24T13:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/investiga%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/07/15/pol%C3%ADcia-%C3%A0s-vezes-n%C3%A3o-mata-mas-faz-morrer/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pol%C3%ADcia/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/06/29/metacogni%C3%A7%C3%A3o-pensando-sobre-o-pensar/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/metacogni%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/rails/</loc>
+    <lastmod>2018-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/aprendizagem/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/06/28/t%C3%A9cnicas-e-t%C3%A1ticas-para-um-melhor-aprendizado/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/casa/</loc>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/lar/</loc>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/06/27/voltar-pra-casa/</loc>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/bancos/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/burocracia/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/06/06/burocracia-a-servi%C3%A7o-do-lucro/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/cart%C3%B3rios/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/cidadania/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/cidadania/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/despachantes/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/imobili%C3%A1rias/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/campo-grande/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/cuiab%C3%A1/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/geografia/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/mato-grosso/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/mato-grosso-do-sul/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ms/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/05/12/ms-x-mt/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/mt/</loc>
+    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/assitente-virtual/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/05/09/google-assistant-marcando-hor%C3%A1rio-no-sal%C3%A3o-de-beleza/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/intelig%C3%AAncia-artificial/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/tecnologia/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/04/25/os-erros-de-c%C3%A1lculo-da-reforma-da-previd%C3%AAncia/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/previd%C3%AAncia/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/energia-solar/</loc>
+    <lastmod>2018-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/financiamento/</loc>
+    <lastmod>2018-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/04/06/financiamento-para-energia-solar/</loc>
+    <lastmod>2018-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/disciplina/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/respeito/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/03/19/sobre-respeito-e-disciplina/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ead/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/03/10/o-ensino-cada-vez-mais-%C3%A0-dist%C3%A2ncia-e-distante/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/02/21/a-evas%C3%A3o-nos-cursos-de-computa%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/computa%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/evas%C3%A3o/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/02/16/a-enorme-quantidade-de-sub-%C3%A1reas-da-computa%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/02/05/a-escola-e-a-sa%C3%BAde-mental-n%C3%A3o-deveria-ser-assim/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/sa%C3%BAde/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/sa%C3%BAde-mental/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/02/04/digitalocean-docker-traefik-adminer/</loc>
+    <lastmod>2018-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/docker/</loc>
+    <lastmod>2018-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/games/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/misoginia/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/01/28/o-machismo-na-comunidade-gamer/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/agricultura/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/drone/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/01/19/drones-pulverizadores-chineses/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/01/08/a-f%C3%B3rmula-da-privatiza%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/privatiza%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/did%C3%A1tica/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ensino/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2018/01/05/um-jeito-diferente-de-ensinar-programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/sem-categoria/</loc>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/12/25/sinop-crescimento-ou-desenvolvimento/</loc>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/atalhos/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/comandos/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/computa%C3%A7%C3%A3o/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/12/23/lista-de-comandos-%C3%BAteis-do-vim/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/vim/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/esteatose-hep%C3%A1tica/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/f%C3%ADgado-gordo/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/12/22/meu-f%C3%ADgado-gordo/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/felicidade/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/11/30/felicidade/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/11/23/curso-de-inform%C3%A1tica-b%C3%A1sica-e-edi%C3%A7%C3%A3o-imagens-e-v%C3%ADdeos-para-mulheres-ind%C3%ADgenas/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/educa%C3%A7%C3%A3o-ind%C3%ADgena/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/inform%C3%A1tica/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/mulheres-ind%C3%ADgenas/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/yamurikum%C3%A3/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/11/05/dicas-para-a-prova-do-enem/</loc>
+    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/enem/</loc>
+    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/prova/</loc>
+    <lastmod>2017-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/mapas/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/10/28/roteiro-sorriso-canarana/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/roteiros/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ansiedade/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/10/15/descontinuando-o-uso-de-paroxetina/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/efeitos-colaterais/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/paroxetina/</loc>
+    <lastmod>2017-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/legislativo/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/09/17/quanto-custa-a-ci%C3%AAncia-no-brasil/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/l%C3%A2mpada/</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/08/24/teste-da-l%C3%A2mpada-yeelight-da-xiaomi/</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/xiaomi/</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/yeelight/</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/bmg/</loc>
+    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/empr%C3%A9stimo/</loc>
+    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/08/18/precisa-de-dinheiro/</loc>
+    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/telemarketing/</loc>
+    <lastmod>2017-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/blairo-maggi/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/economia/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/08/12/o-banco-do-blairo-maggi/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/direitos/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/07/19/luta-sindical-n%C3%A3o-%C3%A9-clube-de-descontos/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/sindicato/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/07/01/banco-de-imagens-para-apresenta%C3%A7%C3%B5es-cient%C3%ADficas/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/ilustra%C3%A7%C3%B5es/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/trabalhos-escolares/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/azia/</loc>
+    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/06/27/azia/</loc>
+    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/cam%C3%B5es/</loc>
+    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/fogo/</loc>
+    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/06/07/contra-ataques-resta-nos-a-luta/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/rga/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/sintesmat/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/literatura/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/literatura/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/05/30/manifesto-sobre-o-minimalismo-pataf%C3%ADsico/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/matem%C3%A1tica/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/minimalismo/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pataf%C3%ADsica/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/grampeador/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/04/17/grampeador-sem-grampo/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/03/31/a-taxa%C3%A7%C3%A3o-sobre-grandes-fortunas/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/economia/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/grandes-fortunas/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/igf/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/03/15/sintesmat-contra-a-reforma-da-previd%C3%AAncia/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/afetividade/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/construcionismo/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/interacionismo/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/piaget/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/03/02/piaget-vygotsky-e-wallon/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/vygotsky/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/wallon/</loc>
+    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/02/15/verifica%C3%A7%C3%A3o-em-duas-etapas-do-whatsapp/</loc>
+    <lastmod>2017-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/depress%C3%A3o/</loc>
+    <lastmod>2017-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/01/25/ningu%C3%A9m-alega-ter-depress%C3%A3o/</loc>
+    <lastmod>2017-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/autom%C3%B3veis/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/01/06/como-comer-sushi/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/culin%C3%A1ria/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/01/06/minhas-revistas-moto-show/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/motos/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/motoshow/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/revista/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/sushi/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/chin%C3%AAs/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2017/01/03/como-diferenciar-as-escritas-japonesa-chinesa-e-coreana/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/coreano/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/idiomas/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/japon%C3%AAs/</loc>
+    <lastmod>2017-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2016/12/14/20-anos-de-atraso/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/pec-55/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/consertos/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/repair-caf%C3%A9/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2016/12/03/repair-caf%C3%A9-uma-visita-reparadora/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/reparos/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/apple/</loc>
+    <lastmod>2016-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/macbook/</loc>
+    <lastmod>2016-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2016/11/25/migrei-para-macos/</loc>
+    <lastmod>2016-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2016/11/17/ainda-%C3%A9-quarta-feira-e/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/que-fase-%C3%A9-essa/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/estat%C3%ADstica/</loc>
+    <lastmod>2016-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2016/11/14/estat%C3%ADstica-descritiva-com-r/</loc>
+    <lastmod>2016-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/r/</loc>
+    <lastmod>2016-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/jeans/</loc>
+    <lastmod>2016-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2016/11/04/os-jeans-que-me-servem/</loc>
+    <lastmod>2016-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2015/09/15/shortcode-tests/</loc>
+    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/amor/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/big-bang/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2015/05/28/big-bang-do-amor/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/poesia/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2015/04/07/insubordinado-amor/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/insubordina%C3%A7%C3%A3o/</loc>
+    <lastmod>2015-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2015-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/python/</loc>
+    <lastmod>2015-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2015/02/13/refer%C3%AAncias-em-python/</loc>
+    <lastmod>2015-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2014/09/28/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2014/04/02/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2014/04/02/d%C3%A9buter-avec-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2014/04/02/getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2014/04/02/introduction-aux-mod%C3%A8les-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2014/03/10/migrer-vers-hugo-depuis-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/google0cfb5112092bdd72/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/1/01/01/</loc>
+  </url>
+  
+</urlset>
