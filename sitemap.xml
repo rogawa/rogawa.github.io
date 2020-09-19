@@ -9,7 +9,42 @@
   
   <url>
     <loc>https://rogawa.github.io/categories/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/hugo/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/categories/inform%C3%A1tica/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/shorcodes/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rogawa.github.io/tags/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,37 +53,7 @@
   </url>
   
   <url>
-    <loc>https://rogawa.github.io/tags/hugo/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rogawa.github.io/posts/2020/09/15/hugo-easy-galery/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/categories/inform%C3%A1tica/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/posts/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/tags/shorcodes/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rogawa.github.io/tags/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   

@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rogawa.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tabelas no Hugo a partir de CSV e outros dados</title>
+      <link>https://rogawa.github.io/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rogawa.github.io/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</guid>
+      <description>O Hugo usa Markdown para compor suas páginas. uma das coisas meio &amp;ldquo;chatinhas&amp;rdquo; é fazer tabelas. Após procurar bastante, encontrei esse post CSV and Data Tables in Hugo  .
+Nele, o autor explica como construir shortcodes espefícicos, para vários tipos de dados e tabelas. Segue um exemplo de entrada e sua respectiva saída.
+  Common `elscreen` commands  Function  Keys  Description    `elscreen-create`  `C-z c`  Create a new screen and switch to it.</description>
+    </item>
     
     <item>
       <title>Hugo Easy Galery</title>
