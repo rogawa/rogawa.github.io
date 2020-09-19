@@ -2314,15 +2314,113 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
         
         <item>
             <title>1º Workshop GEG Barra do Garças</title>
-            <link>https://rogawa.github.io/1o-workshop-geg-barra-do-garcas/</link>
-            <pubDate>Sat, 22 Sep 2018 23:02:50 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2018/09/22/1%C2%BA-workshop-geg-barra-do-gar%C3%A7as/</link>
+            <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/1o-workshop-geg-barra-do-garcas/</guid>
-            <description>New photo by Rui Ogawa / Google PhotosNew photo by Rui Ogawa / Google PhotosNew photo by Rui Ogawa / Google Photos</description>
-            <content type="html"><![CDATA[<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->New photo by Rui Ogawa / Google Photos<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> <!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->New photo by Rui Ogawa / Google Photos<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> <!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->New photo by Rui Ogawa / Google Photos<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+            <guid>https://rogawa.github.io/posts/2018/09/22/1%C2%BA-workshop-geg-barra-do-gar%C3%A7as/</guid>
+            <description>No dia 20 de setembro de 2018 realizamos nosso 1º Workshop GEG &amp;ndash; Grupo de Educadores Google, Barra do Garças. Abordamos as ferramentas Drive, Documentos, Planilhas, Apresentações e Sala de Aula. Foi excelente!!
+   Geg 01
+      Geg 02
+      Geg 03
+                             </description>
+            <content type="html"><![CDATA[<p>No dia 20 de setembro de 2018 realizamos nosso 1º Workshop GEG &ndash; Grupo de Educadores Google, Barra do Garças. Abordamos as ferramentas Drive, Documentos, Planilhas, Apresentações e Sala de Aula. Foi excelente!!</p>
+<p>
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://rogawa.github.io/images/galleries/1-geg-bag//geg_01.jpg');" >
+				      <img itemprop="thumbnail" src="https://rogawa.github.io/images/galleries/1-geg-bag//geg_01.jpg" alt="Geg 01" />
+				    </div>
+			      <figcaption>
+		          <p>Geg 01</p>
+			      </figcaption>
+				    <a href="https://rogawa.github.io/images/galleries/1-geg-bag//geg_01.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://rogawa.github.io/images/galleries/1-geg-bag//geg_02.jpg');" >
+				      <img itemprop="thumbnail" src="https://rogawa.github.io/images/galleries/1-geg-bag//geg_02.jpg" alt="Geg 02" />
+				    </div>
+			      <figcaption>
+		          <p>Geg 02</p>
+			      </figcaption>
+				    <a href="https://rogawa.github.io/images/galleries/1-geg-bag//geg_02.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://rogawa.github.io/images/galleries/1-geg-bag//geg_03.jpg');" >
+				      <img itemprop="thumbnail" src="https://rogawa.github.io/images/galleries/1-geg-bag//geg_03.jpg" alt="Geg 03" />
+				    </div>
+			      <figcaption>
+		          <p>Geg 03</p>
+			      </figcaption>
+				    <a href="https://rogawa.github.io/images/galleries/1-geg-bag//geg_03.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+</div>
+ 
+
+
+
+  
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+</p>
 ]]></content>
         </item>
         
