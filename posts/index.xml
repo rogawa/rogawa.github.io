@@ -106,7 +106,7 @@ Show ElScreen key bindings
         
       
         
-          <td>Create a new screen and switch to it.</td>
+          <td>Corta o item selecionado e copie-o para a área de transferência.</td>
         
       
     </tr>
@@ -114,47 +114,11 @@ Show ElScreen key bindings
     <tr>
       
         
-          <td><code>elscreen-next</code></td>
+          <td><code>⌘ + C</code></td>
         
       
         
-          <td>Cycle to the next screen</td>
-        
-      
-        
-          <td></td>
-        
-      
-        
-          <td><code>elscreen-previous</code></td>
-        
-      
-        
-          <td>Cycle to the previous screen</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td><code>elscreen-kill</code></td>
-        
-      
-        
-          <td>Kill the current screen</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td><code>elscreen-help</code></td>
-        
-      
-        
-          <td>Show ElScreen key bindings</td>
+          <td>Copie o item selecionado para a área de transferência.</td>
         
       
     </tr>
