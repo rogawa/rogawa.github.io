@@ -2328,15 +2328,38 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
         
         <item>
             <title>Topologia de rede usando Draw.io</title>
-            <link>https://rogawa.github.io/topologia-de-rede-usando-draw-io/</link>
-            <pubDate>Wed, 12 Sep 2018 23:06:05 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2018/09/12/topologia-de-rede-usando-draw.io/</link>
+            <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/topologia-de-rede-usando-draw-io/</guid>
-            <description>Trabalhar em sala de forma colaborativa é uma das melhores formas para motivar os alunos. Essa turma do 3º semestre está cursando a disciplina de Segurança da Informação e tiveram como desafio analisar a situação atual, propor uma nova topologia e implementar uma solução de firewall. Usamos o Draw.iopara os desenhos.
- New photo by Rui Ogawa / Google PhotosNew photo by Rui Ogawa / Google Photos</description>
-            <content type="html"><![CDATA[<p>Trabalhar em sala de forma colaborativa é uma das melhores formas para motivar os alunos. Essa turma do 3º semestre está cursando a disciplina de Segurança da Informação e tiveram como desafio analisar a situação atual, propor uma nova topologia e implementar uma solução de firewall. Usamos o <!-- raw HTML omitted -->Draw.io<!-- raw HTML omitted --> para os desenhos.</p>
-<p> <!-- raw HTML omitted --></p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->New photo by Rui Ogawa / Google Photos<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --> <!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->New photo by Rui Ogawa / Google Photos<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+            <guid>https://rogawa.github.io/posts/2018/09/12/topologia-de-rede-usando-draw.io/</guid>
+            <description>Trabalhar em sala de forma colaborativa é uma das melhores formas para motivar os alunos. Essa turma do 3º semestre está cursando a disciplina de Segurança da Informação e tiveram como desafio analisar a situação atual, propor uma nova topologia e implementar uma solução de firewall. Usamos o Draw.io  para os desenhos.
+        </description>
+            <content type="html"><![CDATA[<p>Trabalhar em sala de forma colaborativa é uma das melhores formas para motivar os alunos. Essa turma do 3º semestre está cursando a disciplina de Segurança da Informação e tiveram como desafio analisar a situação atual, propor uma nova topologia e implementar uma solução de firewall. Usamos o <a href="http://draw.io" target="_blank">
+  Draw.io
+</a>
+ para os desenhos.</p>
+
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/drawio-topologia-rede.jpg" />
+    </div>
+    <a href="media/drawio-topologia-rede.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/drawio-topologia-alunos.jpg" />
+    </div>
+    <a href="media/drawio-topologia-alunos.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
 ]]></content>
         </item>
         
