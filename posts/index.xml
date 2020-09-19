@@ -57,13 +57,13 @@ Com o passar dos anos, percebi que gastava um tempo e recurso precioso com coisa
             <guid>https://rogawa.github.io/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</guid>
             <description>O Hugo usa Markdown para compor suas páginas. uma das coisas meio &amp;ldquo;chatinhas&amp;rdquo; é fazer tabelas. Após procurar bastante, encontrei esse post CSV and Data Tables in Hugo  .
 Nele, o autor explica como construir shortcodes espefícicos, para vários tipos de dados e tabelas. Segue um exemplo de entrada e sua respectiva saída.
-&#39;  Common `elscreen` commands  &#39; Function  Keys  Description    `elscreen-create`  `C-z c`  Create a new screen and switch to it.</description>
+`  Common `elscreen` commands  ` Function  Keys  Description    `elscreen-create`  `C-z c`  Create a new screen and switch to it.</description>
             <content type="html"><![CDATA[<p>O Hugo usa Markdown para compor suas páginas. uma das coisas meio &ldquo;chatinhas&rdquo; é fazer tabelas. Após procurar bastante, encontrei esse post <a href="https://randomgeekery.org/post/2020/06/csv-and-data-tables-in-hugo/" target="_blank">
   CSV and Data Tables in Hugo
 </a>
 .</p>
 <p>Nele, o autor explica como construir shortcodes espefícicos, para vários tipos de dados e tabelas. Segue um exemplo de entrada e sua respectiva saída.</p>
-<pre><code>'
+<pre><code>`
 
 
 
@@ -75,7 +75,7 @@ Nele, o autor explica como construir shortcodes espefícicos, para vários tipos
     
     
     <tr>
-       <th>'</th>  <th><pre><code>Function</code></pre>
+       <th>`</th>  <th><pre><code>Function</code></pre>
 </th>  <th><pre><code>Keys</code></pre>
 </th>  <th><pre><code>Description</code></pre>
 </th> 
@@ -176,14 +176,14 @@ Nele, o autor explica como construir shortcodes espefícicos, para vários tipos
         
       
         
-          <td><pre><code>'</code></pre>
+          <td><pre><code>`</code></pre>
 </td>
         
       
     </tr>
   
 </table>
-'
+`
 </code></pre>
 ]]></content>
         </item>
