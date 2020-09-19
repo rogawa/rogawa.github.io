@@ -2005,21 +2005,34 @@ Neue Zürcher Zeitung (Suíça) – Os brasileiros subestimam o perigo de Bolson
         
         <item>
             <title>Automação a serviço de fake news</title>
-            <link>https://rogawa.github.io/automacao-a-servico-de-fake-news/</link>
-            <pubDate>Sat, 27 Oct 2018 13:37:45 +0000</pubDate>
+            <link>https://rogawa.github.io/posts/2018/10/27/automa%C3%A7%C3%A3o-a-servi%C3%A7o-de-fake-news/</link>
+            <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
             
-            <guid>https://rogawa.github.io/automacao-a-servico-de-fake-news/</guid>
+            <guid>https://rogawa.github.io/posts/2018/10/27/automa%C3%A7%C3%A3o-a-servi%C3%A7o-de-fake-news/</guid>
             <description>O intervalo entre envios de mensagens de uma mesma série eram mínimos: entre 1 e 20 segundos. Segundo o relatório, boa parte desses perfis não trazia nome próprio nem foto pessoal.
  É impressionante como uma ferramenta concebida para facilitar a troca rápida de mensagens se tornou a principal arma para propagação de notícias falsas. Creio que o TSE subestimou em muito, o risco que o pleito poderia correr, considerando que a plataforma não possui quaisquer mecanismos de verificação de autenticidade das notícias veiculadas.</description>
-            <content type="html"><![CDATA[<blockquote>
+            <content type="html"><![CDATA[
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/media/grapho-bolsonaro.jpg" />
+    </div>
+    <a href="media/grapho-bolsonaro.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+<blockquote>
 <p>O intervalo entre envios de mensagens de uma mesma série eram mínimos: entre 1 e 20 segundos. Segundo o relatório, boa parte desses perfis não trazia nome próprio nem foto pessoal.</p>
 </blockquote>
 <p>É impressionante como uma ferramenta concebida para facilitar a troca rápida de mensagens se tornou a principal arma para propagação de notícias falsas. Creio que o TSE subestimou em muito, o risco que o pleito poderia correr, considerando que a plataforma não possui quaisquer mecanismos de verificação de autenticidade das notícias veiculadas. Fica como aprendizado.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<blockquote>
+<p><a href="https://wwww1.folha.uol.com.br/poder/2018/10/estudo-aponta-para-automacao-no-envio-de-mensagens-e-orquestracao-entre-grupos-de-whatsapp-pro-bolsonaro.shtml" target="_blank">
+  Estudo aponta para automação no envio de mensagens e orquestração entre grupos de WhatsApp pró-Bolsonaro
+
+</a>
+</p>
+</blockquote>
 ]]></content>
         </item>
         
