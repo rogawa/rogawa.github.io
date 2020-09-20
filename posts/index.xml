@@ -118,11 +118,19 @@ Show ElScreen key bindings
         
       
         
-          <td>Copie o item selecionado para a área de transferência.</td>
+          <td>Copia o item selecionado para a área de transferência.</td>
+        
+      
+    </tr>
+  
+    <tr>
+      
+        
+          <td><code>⌘ + V</code></td>
         
       
         
-          <td>Esse atalho também funciona para arquivos no Finder.</td>
+          <td>Cola o conteúdo da área de transferência no app ou documento atual.</td>
         
       
     </tr>
