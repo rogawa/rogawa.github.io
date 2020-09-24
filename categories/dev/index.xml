@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev on Rui Ogawa</title>
-    <link>https://rogawa.github.io/categories/dev/</link>
+    <link>https://ruiogawa.net/categories/dev/</link>
     <description>Recent content in Dev on Rui Ogawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rogawa.github.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruiogawa.net/categories/dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Redimensinando imagens automaticamente no Hugo</title>
-      <link>https://rogawa.github.io/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</link>
+      <link>https://ruiogawa.net/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</guid>
+      <guid>https://ruiogawa.net/posts/2020/09/14/redimensinando-imagens-automaticamente-no-hugo/</guid>
       <description>Fiquei aqui pensando em como eu poderia otimizar a resolução das imagens que posto no Hugo. Claro que eu posso manualmente redimensioná-las antes de enviar pro servidor, mas seria bem mais simples se o Hugo fizesse isso automaticamente pra mim. Todas as dicas usadas são deste site  .
 Criei um arquivo o layouts/_default/_markup/render-image.html
 Em seguida, coloquei o segiunte conteúdo nele:

@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Informática on Rui Ogawa</title>
-    <link>https://rogawa.github.io/categories/inform%C3%A1tica/</link>
+    <link>https://ruiogawa.net/categories/inform%C3%A1tica/</link>
     <description>Recent content in Informática on Rui Ogawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rogawa.github.io/categories/inform%C3%A1tica/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruiogawa.net/categories/inform%C3%A1tica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tabelas no Hugo a partir de CSV e outros dados</title>
-      <link>https://rogawa.github.io/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</link>
+      <link>https://ruiogawa.net/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</guid>
+      <guid>https://ruiogawa.net/posts/2020/09/19/tabelas-no-hugo-a-partir-de-csv-e-outros-dados/</guid>
       <description>O Hugo usa Markdown para compor suas páginas. uma das coisas meio &amp;ldquo;chatinhas&amp;rdquo; é fazer tabelas. Após procurar bastante, encontrei esse post CSV and Data Tables in Hugo  Nele, o autor explica como construir shortcodes espefícicos, para vários tipos de dados e tabelas. Segue um exemplo de entrada e sua respectiva saída.
 {{&amp;lt; list-table caption=&amp;quot;Teclas de atalho do Mac&amp;quot; header=true &amp;gt;}} Atalho Função `⌘ + X` Corta o item selecionado e copie-o para a área de transferência.</description>
     </item>
     
     <item>
       <title>Hugo Easy Galery</title>
-      <link>https://rogawa.github.io/posts/2020/09/15/hugo-easy-galery/</link>
+      <link>https://ruiogawa.net/posts/2020/09/15/hugo-easy-galery/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2020/09/15/hugo-easy-galery/</guid>
+      <guid>https://ruiogawa.net/posts/2020/09/15/hugo-easy-galery/</guid>
       <description>Alguns poucos posts antigos que tinha no Wordpress tinham a necessidade de exibir imagens em uma galeria. Eu usava um recurso do Google Photos e embutia determinado álbum em shortcode no post. Aqui no Hugo há algumas implementações, mas a que eu mais gostei e que deu certo até agora, foi a Hugo Easy Gallery  . O autor fez um trabalho muito bacana e disponinibilizou tudo em seu repositório Github  .</description>
     </item>
     
     <item>
       <title>Um belo pacote de shortcodes para o Hugo</title>
-      <link>https://rogawa.github.io/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</link>
+      <link>https://ruiogawa.net/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</guid>
+      <guid>https://ruiogawa.net/posts/2020/09/15/um-belo-pacote-de-shortcodes-para-o-hugo/</guid>
       <description>Se tem uma coisa muito bacana e útil no Hugo são os shortcodes. Facilita muito nossa vida e o legal é que além dos shorcodes oficiais, há várias pessoas desenvolvendo shorcodes muito bons. Eu encontrei e instalei esse Pack of Shortcodes for Hugo  e devo dizer que o trabalho do desenvolvedor é muito bom, incluindo um post de exemplo para entender melhor sua instalação, configuração e uso.
 Os shortcodes que ele disponibiliza são os seguintes:</description>
     </item>
     
     <item>
       <title>Verificação em duas etapas do WhatsApp</title>
-      <link>https://rogawa.github.io/posts/2017/02/15/verifica%C3%A7%C3%A3o-em-duas-etapas-do-whatsapp/</link>
+      <link>https://ruiogawa.net/posts/2017/02/15/verifica%C3%A7%C3%A3o-em-duas-etapas-do-whatsapp/</link>
       <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2017/02/15/verifica%C3%A7%C3%A3o-em-duas-etapas-do-whatsapp/</guid>
+      <guid>https://ruiogawa.net/posts/2017/02/15/verifica%C3%A7%C3%A3o-em-duas-etapas-do-whatsapp/</guid>
       <description>Funcionários de operadoras estão envolvidos com fraudes usando o Wahtsapp. Para evitar isto:
  Entre no WhatsApp. Clique em Configurações, depois Conta e depois em Verificação em duas etapas. Defina uma senha de 6 dígitos e um e-mail para o caso de esquecer a senha.  Pronto! Feito isso, mesmo que alguém clone o seu chip e instale o WhatsApp, não vai ter a senha de 6 dígitos para acessar sua conta.</description>
     </item>

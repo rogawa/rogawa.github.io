@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tecnologia on Rui Ogawa</title>
-    <link>https://rogawa.github.io/categories/tecnologia/</link>
+    <link>https://ruiogawa.net/categories/tecnologia/</link>
     <description>Recent content in Tecnologia on Rui Ogawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rogawa.github.io/categories/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ruiogawa.net/categories/tecnologia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Google Assistant marcando horário no salão de beleza</title>
-      <link>https://rogawa.github.io/posts/2018/05/09/google-assistant-marcando-hor%C3%A1rio-no-sal%C3%A3o-de-beleza/</link>
+      <link>https://ruiogawa.net/posts/2018/05/09/google-assistant-marcando-hor%C3%A1rio-no-sal%C3%A3o-de-beleza/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2018/05/09/google-assistant-marcando-hor%C3%A1rio-no-sal%C3%A3o-de-beleza/</guid>
+      <guid>https://ruiogawa.net/posts/2018/05/09/google-assistant-marcando-hor%C3%A1rio-no-sal%C3%A3o-de-beleza/</guid>
       <description>Google está prestes a elevar seu assistente virtual a um novo patamar. É impressionante (e assustador) a naturalidade no tom de voz e nas tomadas de decisões.
   </description>
     </item>
     
     <item>
       <title>Financiamento para energia solar</title>
-      <link>https://rogawa.github.io/posts/2018/04/06/financiamento-para-energia-solar/</link>
+      <link>https://ruiogawa.net/posts/2018/04/06/financiamento-para-energia-solar/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2018/04/06/financiamento-para-energia-solar/</guid>
+      <guid>https://ruiogawa.net/posts/2018/04/06/financiamento-para-energia-solar/</guid>
       <description>Instalar um sistema Grid Tied de energia fotovoltaica é o sonho de muita gente, incluindo o meu. Entretanto a gente sempre esbarra em duas situações: a burocracia técnica e o valor dos equipamentos. Para este último, pelo menos temos uma luz no fim do túnel. O Ministério da Integração Nacional está criando novas linhas de crédito para Pessoa Física, o que é uma ótima notícia, pois antes os financiamentos eram quase todos com foco em PJ.</description>
     </item>
     
     <item>
       <title>DigitalOcean &#43; Docker &#43; Traefik &#43; Adminer</title>
-      <link>https://rogawa.github.io/posts/2018/02/04/digitalocean-docker-traefik-adminer/</link>
+      <link>https://ruiogawa.net/posts/2018/02/04/digitalocean-docker-traefik-adminer/</link>
       <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2018/02/04/digitalocean-docker-traefik-adminer/</guid>
+      <guid>https://ruiogawa.net/posts/2018/02/04/digitalocean-docker-traefik-adminer/</guid>
       <description>Eu fiquei um tempão sem Blog. Na verdade talvez mais de um ano. Pra ser sincero, nem lembro quanto tempo fiquei sem. Os últimos três anos no mestrado me tomaram todo o tempo. Tanto que eu esqueci de pagar meu domínio, ele foi suspenso e tive que comprar novamente. Ah, por falar em comprar domínio, comprei o meu avulso, sem hospedagem, na Namesilo  . Mas sobre isso eu falo em outro post.</description>
     </item>
     
     <item>
       <title>Drones pulverizadores chineses</title>
-      <link>https://rogawa.github.io/posts/2018/01/19/drones-pulverizadores-chineses/</link>
+      <link>https://ruiogawa.net/posts/2018/01/19/drones-pulverizadores-chineses/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2018/01/19/drones-pulverizadores-chineses/</guid>
+      <guid>https://ruiogawa.net/posts/2018/01/19/drones-pulverizadores-chineses/</guid>
       <description>Hoje acompanhei demonstração de drones pulverizadores da empresa chinesa Yuren Agricultural Aviation  .
 O modelo maior tem capacidade para 20 litros ou 20 Kg de granulados ou pó. Utiliza 4 baterias de 5500 mAh que alimentam 8 rotores. A autonomia de 9 minutos permite uma cobertura de 2 ha. Tenho minhas dúvidas se, com um custo de aproximadamente 30 mil reais, valeria a pena investir. Talvez para pequenos produtores. O legal é que eles buscam parceiros em tecnologia da informação, então há oportunidades para nossos alunos do Centro de Referência de Canarana  .</description>
     </item>
     
     <item>
       <title>Um jeito diferente de ensinar programação</title>
-      <link>https://rogawa.github.io/posts/2018/01/05/um-jeito-diferente-de-ensinar-programa%C3%A7%C3%A3o/</link>
+      <link>https://ruiogawa.net/posts/2018/01/05/um-jeito-diferente-de-ensinar-programa%C3%A7%C3%A3o/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2018/01/05/um-jeito-diferente-de-ensinar-programa%C3%A7%C3%A3o/</guid>
+      <guid>https://ruiogawa.net/posts/2018/01/05/um-jeito-diferente-de-ensinar-programa%C3%A7%C3%A3o/</guid>
       <description>     As pessoas costumam associar o ensino de programação como algo difícil e chato. Se o método e a abordagem fossem diferentes, talvez os alunos possam se sentir mais à vontade e passem a demonstrar mais interesse. A forma desse cara ensinar programação é absolutamente divertida e apaixonante. Todo professor devia ter essa didática, método e atitude!
 As aulas são dados pelo Daniel Shiffman  no Canal The Coding Train  </description>
     </item>
     
     <item>
       <title>Teste da lâmpada Yeelight da Xiaomi</title>
-      <link>https://rogawa.github.io/posts/2017/08/24/teste-da-l%C3%A2mpada-yeelight-da-xiaomi/</link>
+      <link>https://ruiogawa.net/posts/2017/08/24/teste-da-l%C3%A2mpada-yeelight-da-xiaomi/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2017/08/24/teste-da-l%C3%A2mpada-yeelight-da-xiaomi/</guid>
+      <guid>https://ruiogawa.net/posts/2017/08/24/teste-da-l%C3%A2mpada-yeelight-da-xiaomi/</guid>
       <description>Essa lâmpada da Xiaomi é genial! Dura 11 anos, tem controle de intensidade, agrupamento, timer etc. Tudo controlado pelo smartphone.
   </description>
     </item>
     
     <item>
       <title>Migrei para MacOS</title>
-      <link>https://rogawa.github.io/posts/2016/11/25/migrei-para-macos/</link>
+      <link>https://ruiogawa.net/posts/2016/11/25/migrei-para-macos/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rogawa.github.io/posts/2016/11/25/migrei-para-macos/</guid>
+      <guid>https://ruiogawa.net/posts/2016/11/25/migrei-para-macos/</guid>
       <description>Eu uso Linux desde 1999. Dede 2005 eu uso Debian. Não dou conta de trabalhar com Windows. Já usei e experimentei vários sistemas operacionais e posso dizer que quando pude experimentar o sabor da maçã, gostei.
 Bem, comprar um Mac novo no Brasil é uma insanidade, então, segui as dicas dos amigos Guto Carvalho e Jack Makiyama e comprei um MacBook Pro Mid 2012, com um Intel i5 de 2.5 Ghz, 8 GB de RAM DDR3 e HD de 500 GB, por R$ 2.</description>
     </item>
